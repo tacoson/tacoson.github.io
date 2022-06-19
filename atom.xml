@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>FLY AWAY</title>
+  
+  
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2022-06-14T18:17:02.498Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>John Doe</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test</title>
+    <link href="http://example.com/2022/06/15/test/"/>
+    <id>http://example.com/2022/06/15/test/</id>
+    <published>2022-06-14T18:16:37.000Z</published>
+    <updated>2022-06-14T18:17:02.498Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;test 1 2</summary>
+        
+      
+    
+    
+    
+    
+    <category term="test" scheme="http://example.com/tags/test/"/>
+    
+    <category term="test2" scheme="http://example.com/tags/test2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>20220615 mood</title>
+    <link href="http://example.com/2022/06/15/20220615-mood/"/>
+    <id>http://example.com/2022/06/15/20220615-mood/</id>
+    <published>2022-06-14T17:10:06.000Z</published>
+    <updated>2022-06-14T18:28:11.474Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;最近家裡COVID-19確診，端午連假返家造成了家人的困擾，之後也不曉得再次返家會不會有陰影。&lt;br&gt;最近要多撥點時間來進行英文口說，另外強化點專業能力。&lt;/p&gt;
+</summary>
+        
+      
+    
+    
+    
+    
+    <category term="心情" scheme="http://example.com/tags/%E5%BF%83%E6%83%85/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>20220606-after</title>
+    <link href="http://example.com/2022/06/06/20220606-after/"/>
+    <id>http://example.com/2022/06/06/20220606-after/</id>
+    <published>2022-06-05T16:58:15.000Z</published>
+    <updated>2022-06-14T18:03:02.927Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;Markdown-syntax-guide&quot;&gt;&lt;a href=&quot;#Markdown-syntax-guide&quot; class=&quot;headerlink&quot; title=&quot;Markdown syntax guide&quot;&gt;&lt;/a&gt;Markdown syntax</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>20220603 post</title>
+    <link href="http://example.com/2022/06/03/20220603-post/"/>
+    <id>http://example.com/2022/06/03/20220603-post/</id>
+    <published>2022-06-03T04:24:23.000Z</published>
+    <updated>2022-06-03T07:53:52.349Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;今年&lt;strong&gt;疫情&lt;/strong&gt;攪局把人們的生活步調都改變了!! 經歷異地辦公和每天口罩緊戴的日子，今年是個特別的一年，&lt;br&gt;出國旅行變成奢侈的夢想。近期諾蘭的商業大片-TENET還沒上映前，特地觀賞了「記憶拼圖」復刻版，一&lt;br&gt;部偏向科普及時間運行，另一部則是敘事上的倒敘，或許是本身我就喜歡偏向小品引人發想的影片類型，&lt;br&gt;記憶拼圖帶給我的感覺比較連續且強烈!!主人翁有間接性失憶，常需要寫MEMO提醒自己周遭人事物，甚至&lt;br&gt;刺在自己身上，影片內為的是自我保護，最後衍伸成對自己的暗示。哈 突然間似乎應該翻翻自己的日記了&lt;/p&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://example.com/2022/06/03/hello-world/"/>
+    <id>http://example.com/2022/06/03/hello-world/</id>
+    <published>2022-06-02T17:54:54.620Z</published>
+    <updated>2022-06-02T17:54:54.620Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
