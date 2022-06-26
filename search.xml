@@ -9,6 +9,15 @@
 ]]></content>
   </entry>
   <entry>
+    <title>20220615 mood</title>
+    <url>/2022/06/15/20220615-mood/</url>
+    <content><![CDATA[<p>最近家裡COVID-19確診，端午連假返家造成了家人的困擾，之後也不曉得再次返家會不會有陰影。<br>最近要多撥點時間來進行英文口說，另外強化點專業能力。</p>
+]]></content>
+      <tags>
+        <tag>心情</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>20220606-after</title>
     <url>/2022/06/06/20220606-after/</url>
     <content><![CDATA[<h1 id="Markdown-syntax-guide"><a href="#Markdown-syntax-guide" class="headerlink" title="Markdown syntax guide"></a>Markdown syntax guide</h1><h2 id="Headers"><a href="#Headers" class="headerlink" title="Headers"></a>Headers</h2><h1 id="This-is-a-Heading-h1"><a href="#This-is-a-Heading-h1" class="headerlink" title="This is a Heading h1"></a>This is a Heading h1</h1><h2 id="This-is-a-Heading-h2"><a href="#This-is-a-Heading-h2" class="headerlink" title="This is a Heading h2"></a>This is a Heading h2</h2><h6 id="This-is-a-Heading-h6"><a href="#This-is-a-Heading-h6" class="headerlink" title="This is a Heading h6"></a>This is a Heading h6</h6><h2 id="Emphasis"><a href="#Emphasis" class="headerlink" title="Emphasis"></a>Emphasis</h2><p><em>This text will be italic</em><br><em>This will also be italic</em></p>
@@ -59,15 +68,6 @@
 
 <h2 id="Inline-code"><a href="#Inline-code" class="headerlink" title="Inline code"></a>Inline code</h2><p>This web site is using <code>markedjs/marked</code>.</p>
 ]]></content>
-  </entry>
-  <entry>
-    <title>20220615 mood</title>
-    <url>/2022/06/15/20220615-mood/</url>
-    <content><![CDATA[<p>最近家裡COVID-19確診，端午連假返家造成了家人的困擾，之後也不曉得再次返家會不會有陰影。<br>最近要多撥點時間來進行英文口說，另外強化點專業能力。</p>
-]]></content>
-      <tags>
-        <tag>心情</tag>
-      </tags>
   </entry>
   <entry>
     <title>UBER EAT 初心者之書</title>
@@ -288,6 +288,48 @@
       <tags>
         <tag>test</tag>
         <tag>test2</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>UBER EAT之自我提醒</title>
+    <url>/2022/06/27/UBER-EAT%E4%B9%8B%E8%87%AA%E6%88%91%E6%8F%90%E9%86%92/</url>
+    <content><![CDATA[<p>近期UBER EATS 將週四納入周一至周三的周期中，以我自己而言，趟次獎勵第一階標準分別為40趟及35趟，換言之，我不是不跑就是最低得跑至75趟才可取得完整趟次獎勵。<br>按照原定計畫，每天2~3小時，縱使均五也不太可能破15趟，因此這周有些辛苦，有些想提醒自己一下。</p>
+<ol>
+<li>趟次分配回顧</li>
+<li>自我提醒</li>
+</ol>
+<h1 id="趟次分配"><a href="#趟次分配" class="headerlink" title="趟次分配"></a>趟次分配</h1><table>
+<thead>
+<tr>
+<th>周一</th>
+<th>週二</th>
+<th>周三</th>
+<th>週四</th>
+<th>周五</th>
+<th>週六</th>
+<th>周日</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>0</td>
+<td>14</td>
+<td>14</td>
+<td>12</td>
+<td>0</td>
+<td>18</td>
+<td>17</td>
+</tr>
+</tbody></table>
+<p>平日訂單會依照時間明顯遞減，超過20:00幾乎消失，原本預計的時間頂多跑出10單就好(為了多出那幾單，多了好幾個鐘頭)，整體約均3<br>週五至周日，原則上週六比週五好，周日又比週六好，這周約均4.3左右</p>
+<h1 id="自我提醒"><a href="#自我提醒" class="headerlink" title="自我提醒"></a>自我提醒</h1><p>外送時，我太在意路線、找門牌、和避免餐損，原本以為自己取餐和送餐部分是OK的，但時間久了，會因為躁進而失誤，提醒一下自己:</p>
+<ul>
+<li>店家端要注意對餐:雖然不一定需要跟店員打招呼可直接取餐，但打招呼避免餐點不齊全，尤其是第一次接觸的店家必須打招呼</li>
+<li>客戶端避免兩單互相拿錯:不要太相信自己保溫箱內的記憶位置，每單要核對號碼</li>
+<li>送錯餐的處理:若客服來電，接到電話按指示處理，但若沒接到電話就沒機會補救!!(回撥電話是找不到客服)，後續還是必須強制送完，原則上客人會吃到免費餐，可以跟客人說明。</li>
+</ul>
+]]></content>
+      <tags>
+        <tag>UBER EATS</tag>
       </tags>
   </entry>
 </search>
