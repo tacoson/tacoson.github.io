@@ -9,64 +9,63 @@
 ]]></content>
   </entry>
   <entry>
-    <title>20220606-after</title>
-    <url>/2022/06/06/20220606-after/</url>
-    <content><![CDATA[<h1 id="Markdown-syntax-guide"><a href="#Markdown-syntax-guide" class="headerlink" title="Markdown syntax guide"></a>Markdown syntax guide</h1><h2 id="Headers"><a href="#Headers" class="headerlink" title="Headers"></a>Headers</h2><h1 id="This-is-a-Heading-h1"><a href="#This-is-a-Heading-h1" class="headerlink" title="This is a Heading h1"></a>This is a Heading h1</h1><h2 id="This-is-a-Heading-h2"><a href="#This-is-a-Heading-h2" class="headerlink" title="This is a Heading h2"></a>This is a Heading h2</h2><h6 id="This-is-a-Heading-h6"><a href="#This-is-a-Heading-h6" class="headerlink" title="This is a Heading h6"></a>This is a Heading h6</h6><h2 id="Emphasis"><a href="#Emphasis" class="headerlink" title="Emphasis"></a>Emphasis</h2><p><em>This text will be italic</em><br><em>This will also be italic</em></p>
-<p><strong>This text will be bold</strong><br><strong>This will also be bold</strong></p>
-<p><em>You <strong>can</strong> combine them</em></p>
-<h2 id="Lists"><a href="#Lists" class="headerlink" title="Lists"></a>Lists</h2><h3 id="Unordered"><a href="#Unordered" class="headerlink" title="Unordered"></a>Unordered</h3><ul>
-<li>Item 1</li>
-<li>Item 2</li>
-<li>Item 2a</li>
-<li>Item 2b</li>
-</ul>
-<h3 id="Ordered"><a href="#Ordered" class="headerlink" title="Ordered"></a>Ordered</h3><ol>
-<li>Item 1</li>
-<li>Item 2</li>
-<li>Item 3</li>
-<li>Item 3a</li>
-<li>Item 3b</li>
-</ol>
-<h2 id="Images"><a href="#Images" class="headerlink" title="Images"></a>Images</h2><p><img src="/images/sample.jpg" alt="This is a alt text." title="This is a sample image."></p>
-<h2 id="Links"><a href="#Links" class="headerlink" title="Links"></a>Links</h2><p>You may be using <a href="https://markdownlivepreview.com/">Markdown Live Preview</a>.</p>
-<h2 id="Blockquotes"><a href="#Blockquotes" class="headerlink" title="Blockquotes"></a>Blockquotes</h2><blockquote>
-<p>Markdown is a lightweight markup language with plain-text-formatting syntax, created in 2004 by John Gruber with Aaron Swartz.</p>
-<blockquote>
-<p>Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.</p>
-</blockquote>
-</blockquote>
-<h2 id="Tables"><a href="#Tables" class="headerlink" title="Tables"></a>Tables</h2><table>
-<thead>
-<tr>
-<th>Left columns</th>
-<th align="center">Right columns</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>left foo</td>
-<td align="center">right foo</td>
-</tr>
-<tr>
-<td>left bar</td>
-<td align="center">right bar</td>
-</tr>
-<tr>
-<td>left baz</td>
-<td align="center">right baz</td>
-</tr>
-</tbody></table>
-<h2 id="Blocks-of-code"><a href="#Blocks-of-code" class="headerlink" title="Blocks of code"></a>Blocks of code</h2><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">let message = &#x27;Hello world&#x27;;</span><br><span class="line">alert(message);</span><br></pre></td></tr></table></figure>
-
-<h2 id="Inline-code"><a href="#Inline-code" class="headerlink" title="Inline code"></a>Inline code</h2><p>This web site is using <code>markedjs/marked</code>.</p>
-]]></content>
-  </entry>
-  <entry>
     <title>20220615 mood</title>
     <url>/2022/06/15/20220615-mood/</url>
     <content><![CDATA[<p>最近家裡COVID-19確診，端午連假返家造成了家人的困擾，之後也不曉得再次返家會不會有陰影。<br>最近要多撥點時間來進行英文口說，另外強化點專業能力。</p>
 ]]></content>
       <tags>
         <tag>心情</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>UBER EAT之自我提醒</title>
+    <url>/2022/06/27/UBER-EAT%E4%B9%8B%E8%87%AA%E6%88%91%E6%8F%90%E9%86%92/</url>
+    <content><![CDATA[<p>近期UBER EATS 將週四納入周一至周三的周期中，以我自己而言，趟次獎勵第一階標準分別為40趟及35趟，換言之，我不是不跑就是得最低跑至75趟才可取得完整趟次獎勵。<br>按照原定計畫，每天2~3小時，縱使均五也不太可能破15趟，因此這周有些辛苦，有些想提醒自己一下。</p>
+<ol>
+<li>趟次分配回顧</li>
+<li>自我提醒</li>
+</ol>
+<h1 id="趟次分配"><a href="#趟次分配" class="headerlink" title="趟次分配"></a>趟次分配</h1><table>
+<thead>
+<tr>
+<th>周一</th>
+<th>週二</th>
+<th>周三</th>
+<th>週四</th>
+<th>周五</th>
+<th>週六</th>
+<th>周日</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>0</td>
+<td>14</td>
+<td>14</td>
+<td>12</td>
+<td>0</td>
+<td>18</td>
+<td>17</td>
+</tr>
+<tr>
+<td>0</td>
+<td>5hrs</td>
+<td>5hrs</td>
+<td>3hrs</td>
+<td>0</td>
+<td>5hrs</td>
+<td>3hrs</td>
+</tr>
+</tbody></table>
+<p>平日訂單會依照時間明顯遞減，超過20:00幾乎消失，原本預計的時間頂多跑出10單就好(為了多出那幾單，多了好幾個鐘頭，本周最大敗筆)，整體約均3左右<br>週五至周日，原則上週六比週五好，周日又比週六好，單就晚上大約會有三個多鐘頭的不斷單，這周約均4.3左右</p>
+<h1 id="自我提醒"><a href="#自我提醒" class="headerlink" title="自我提醒"></a>自我提醒</h1><p>外送時，我太在意路線、找門牌、和避免餐損，原本以為自己取餐和送餐部分是OK的，但時間久了，會因為躁進而失誤，提醒一下自己:</p>
+<ul>
+<li>店家端要注意對餐:雖然有些店家不一定要跟店員對餐也可直接取餐，但溝通可避免餐點不齊全，尤其是第一次接觸的店家必須打招呼。</li>
+<li>客戶端避免兩單互相送錯:不要太相信記憶中保溫箱內的位置，預計送達客人手中前，必須眼見號碼為憑。</li>
+<li>送錯餐的處理:若客服來電，接到電話按指示處理；若沒接到電話就沒機會補救(<strong>回撥電話是找不到客服的</strong>)，後續還是必須強制送完，原則上客人會吃到免費餐，可以跟客人說明，會影響送外的KPI或者扣款這部分也只能接受。</li>
+</ul>
+]]></content>
+      <tags>
+        <tag>UBER EATS</tag>
       </tags>
   </entry>
   <entry>
@@ -263,55 +262,56 @@
       </tags>
   </entry>
   <entry>
-    <title>UBER EAT之自我提醒</title>
-    <url>/2022/06/27/UBER-EAT%E4%B9%8B%E8%87%AA%E6%88%91%E6%8F%90%E9%86%92/</url>
-    <content><![CDATA[<p>近期UBER EATS 將週四納入周一至周三的周期中，以我自己而言，趟次獎勵第一階標準分別為40趟及35趟，換言之，我不是不跑就是得最低跑至75趟才可取得完整趟次獎勵。<br>按照原定計畫，每天2~3小時，縱使均五也不太可能破15趟，因此這周有些辛苦，有些想提醒自己一下。</p>
-<ol>
-<li>趟次分配回顧</li>
-<li>自我提醒</li>
+    <title>20220606-after</title>
+    <url>/2022/06/06/20220606-after/</url>
+    <content><![CDATA[<h1 id="Markdown-syntax-guide"><a href="#Markdown-syntax-guide" class="headerlink" title="Markdown syntax guide"></a>Markdown syntax guide</h1><h2 id="Headers"><a href="#Headers" class="headerlink" title="Headers"></a>Headers</h2><h1 id="This-is-a-Heading-h1"><a href="#This-is-a-Heading-h1" class="headerlink" title="This is a Heading h1"></a>This is a Heading h1</h1><h2 id="This-is-a-Heading-h2"><a href="#This-is-a-Heading-h2" class="headerlink" title="This is a Heading h2"></a>This is a Heading h2</h2><h6 id="This-is-a-Heading-h6"><a href="#This-is-a-Heading-h6" class="headerlink" title="This is a Heading h6"></a>This is a Heading h6</h6><h2 id="Emphasis"><a href="#Emphasis" class="headerlink" title="Emphasis"></a>Emphasis</h2><p><em>This text will be italic</em><br><em>This will also be italic</em></p>
+<p><strong>This text will be bold</strong><br><strong>This will also be bold</strong></p>
+<p><em>You <strong>can</strong> combine them</em></p>
+<h2 id="Lists"><a href="#Lists" class="headerlink" title="Lists"></a>Lists</h2><h3 id="Unordered"><a href="#Unordered" class="headerlink" title="Unordered"></a>Unordered</h3><ul>
+<li>Item 1</li>
+<li>Item 2</li>
+<li>Item 2a</li>
+<li>Item 2b</li>
+</ul>
+<h3 id="Ordered"><a href="#Ordered" class="headerlink" title="Ordered"></a>Ordered</h3><ol>
+<li>Item 1</li>
+<li>Item 2</li>
+<li>Item 3</li>
+<li>Item 3a</li>
+<li>Item 3b</li>
 </ol>
-<h1 id="趟次分配"><a href="#趟次分配" class="headerlink" title="趟次分配"></a>趟次分配</h1><table>
+<h2 id="Images"><a href="#Images" class="headerlink" title="Images"></a>Images</h2><p><img src="/images/sample.jpg" alt="This is a alt text." title="This is a sample image."></p>
+<h2 id="Links"><a href="#Links" class="headerlink" title="Links"></a>Links</h2><p>You may be using <a href="https://markdownlivepreview.com/">Markdown Live Preview</a>.</p>
+<h2 id="Blockquotes"><a href="#Blockquotes" class="headerlink" title="Blockquotes"></a>Blockquotes</h2><blockquote>
+<p>Markdown is a lightweight markup language with plain-text-formatting syntax, created in 2004 by John Gruber with Aaron Swartz.</p>
+<blockquote>
+<p>Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.</p>
+</blockquote>
+</blockquote>
+<h2 id="Tables"><a href="#Tables" class="headerlink" title="Tables"></a>Tables</h2><table>
 <thead>
 <tr>
-<th>周一</th>
-<th>週二</th>
-<th>周三</th>
-<th>週四</th>
-<th>周五</th>
-<th>週六</th>
-<th>周日</th>
+<th>Left columns</th>
+<th align="center">Right columns</th>
 </tr>
 </thead>
 <tbody><tr>
-<td>0</td>
-<td>14</td>
-<td>14</td>
-<td>12</td>
-<td>0</td>
-<td>18</td>
-<td>17</td>
+<td>left foo</td>
+<td align="center">right foo</td>
 </tr>
 <tr>
-<td>0</td>
-<td>5hrs</td>
-<td>5hrs</td>
-<td>3hrs</td>
-<td>0</td>
-<td>5hrs</td>
-<td>3hrs</td>
+<td>left bar</td>
+<td align="center">right bar</td>
+</tr>
+<tr>
+<td>left baz</td>
+<td align="center">right baz</td>
 </tr>
 </tbody></table>
-<p>平日訂單會依照時間明顯遞減，超過20:00幾乎消失，原本預計的時間頂多跑出10單就好(為了多出那幾單，多了好幾個鐘頭，本周最大敗筆)，整體約均3左右<br>週五至周日，原則上週六比週五好，周日又比週六好，單就晚上大約會有三個多鐘頭的不斷單，這周約均4.3左右</p>
-<h1 id="自我提醒"><a href="#自我提醒" class="headerlink" title="自我提醒"></a>自我提醒</h1><p>外送時，我太在意路線、找門牌、和避免餐損，原本以為自己取餐和送餐部分是OK的，但時間久了，會因為躁進而失誤，提醒一下自己:</p>
-<ul>
-<li>店家端要注意對餐:雖然有些店家不一定要跟店員對餐也可直接取餐，但溝通可避免餐點不齊全，尤其是第一次接觸的店家必須打招呼。</li>
-<li>客戶端避免兩單互相送錯:不要太相信記憶中保溫箱內的位置，預計送達客人手中前，必須眼見號碼為憑。</li>
-<li>送錯餐的處理:若客服來電，接到電話按指示處理；若沒接到電話就沒機會補救(<strong>回撥電話是找不到客服的</strong>)，後續還是必須強制送完，原則上客人會吃到免費餐，可以跟客人說明，會影響送外的KPI或者扣款這部分也只能接受。</li>
-</ul>
+<h2 id="Blocks-of-code"><a href="#Blocks-of-code" class="headerlink" title="Blocks of code"></a>Blocks of code</h2><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">let message = &#x27;Hello world&#x27;;</span><br><span class="line">alert(message);</span><br></pre></td></tr></table></figure>
+
+<h2 id="Inline-code"><a href="#Inline-code" class="headerlink" title="Inline code"></a>Inline code</h2><p>This web site is using <code>markedjs/marked</code>.</p>
 ]]></content>
-      <tags>
-        <tag>UBER EATS</tag>
-      </tags>
   </entry>
   <entry>
     <title>Hello World</title>
@@ -339,6 +339,25 @@
       <tags>
         <tag>test</tag>
         <tag>test2</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>10分鐘週記</title>
+    <url>/2022/07/01/10%E5%88%86%E9%90%98%E9%80%B1%E8%A8%98/</url>
+    <content><![CDATA[<p>給自己一個挑戰，10分鐘來完成紀錄一週大小事，這週接觸到一些工作或自我成長心得:</p>
+<ol>
+<li>Animaker</li>
+<li>MoneyDJ &amp; 財報狗</li>
+</ol>
+<h2 id="Animaker"><a href="#Animaker" class="headerlink" title="Animaker"></a>Animaker</h2><hr>
+<p>參考網址: <a href="https://www.animaker.com/">Animaker</a><br>先談一下對於使用者來說，好處大概是網頁版，只要有瀏覽器便可以進行體驗，官方的template教學齊全，如果想要做做個人的簡歷介紹、結婚紀念、邀請函、短片..等，我想這是一個非常無腦且容易上手的作法，所有的分鏡類似投影片模式呈現，上面所有的物件可以套用動作模組去作客制，若不想修改，只要把文字添加就會是個圖文並茂的精彩動畫。<br>使用限制上跟你的帳號付費的程度成正比，若真的要使用，一個月10美元的花費是基礎開銷，若想當免費仔就必須忍受影片會有浮水印外，可使用素材少，每月五次匯出影片限制。<br>目前僅僅試用一次，改天再嘗試自己的圖片放上去做個屬於自己的動畫。</p>
+<h2 id="MoneyDJ-amp-財報狗-amp-不鏽鋼指數"><a href="#MoneyDJ-amp-財報狗-amp-不鏽鋼指數" class="headerlink" title="MoneyDJ &amp; 財報狗 &amp; 不鏽鋼指數"></a>MoneyDJ &amp; 財報狗 &amp; 不鏽鋼指數</h2><hr>
+<p>參考網址: <a href="https://www.moneydj.com/kmdj/common/listnewarticles.aspx?svc=NW&a=C0.C020114">MoneyDJ</a><br>參考網址: <a href="https://statementdog.com/">財報狗</a><br>參考網址: <a href="http://quote.eastmoney.com/qihuo/ssm.html">不鏽鋼指數</a><br>今年可謂是美國的升息年，跌跌不休的股市(五窮六絕)感受特別深刻，突然想了解鋼鐵產業，話說原本並非不了解，但總覺得自己對整個市場，或者說整個產業鏈並不是通盤理解，甚至鋼鐵也有分不同種類。<br>我個人注意力只放在<strong>不鏽鋼</strong>，不鏽鋼是和一般鋼鐵差異在哪?說穿了就是混和金屬比例不同，因金屬特性而產生不同的應用。上中下游，以我自己的理解就是煉鋼、加工裁切，應用端(只是我自己的理解，錯了別砲我)，整體鋼鐵產業就是景氣循環、高耗能低毛利、反傾銷稅的常客，高資金門檻的特性。耗能產業勢必又跟綠能產業扯上邊，畢竟是天秤的兩端。目前應該最大的消費需求都來自中國，因此他們的商品指數才會具有代表性。</p>
+<p><code>MoneyDJ</code>可以查詢產業訊息，至少更新速度算是快，下游產業要注意產品銷售情況。<br><code>財報狗</code>讓人訝異，裡面竟然也有收集到興櫃的財報，看盤軟體有時候不會這麼好心幫你收集。<br><code>不鏽鋼指數</code>可以觀察和LME鎳期貨的高度相關性，也可以比對一下和國內上游廠商的相關性。</p>
+<p>關於鋼鐵上游廠商，通常原物料漲價，也會照樣反應給中游及下游廠商，某種程度是轉嫁，原本取得的原來存貨成本低，短期具利差，視為短多，漲價若是因為通貨膨脹而非實質需求(實質需求通常是基礎建設)，必須要注意其危險性，後續若發現貨幣政策緊縮，首當其衝也會是上游廠商。</p>
+]]></content>
+      <tags>
+        <tag>10分鐘週記</tag>
       </tags>
   </entry>
 </search>
