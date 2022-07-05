@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-07-04T17:08:26.471Z</updated>
+  <updated>2022-07-05T16:37:01.269Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,20 +17,62 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>10分鐘週記-股市網站</title>
+    <link href="http://example.com/2022/07/06/10%E5%88%86%E9%90%98%E9%80%B1%E8%A8%98-2/"/>
+    <id>http://example.com/2022/07/06/10%E5%88%86%E9%90%98%E9%80%B1%E8%A8%98-2/</id>
+    <published>2022-07-05T16:22:36.000Z</published>
+    <updated>2022-07-05T16:37:01.269Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;給自己一個挑戰，10分鐘來完成紀錄一週大小事，這週把常使用的股票網站整理一下:&lt;/p&gt;
+&lt;h2 id=&quot;台灣股市資訊網-股權分散表-神秘金字塔&quot;&gt;&lt;a href=&quot;#台灣股市資訊網-股權分散表-神秘金字塔&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="10分鐘週記" scheme="http://example.com/tags/10%E5%88%86%E9%90%98%E9%80%B1%E8%A8%98/"/>
+    
+  </entry>
+  
+  <entry>
     <title>UBER EAT 趟數焦慮</title>
     <link href="http://example.com/2022/07/04/UBER-EAT-%E8%B6%9F%E6%95%B8%E7%84%A6%E6%85%AE/"/>
     <id>http://example.com/2022/07/04/UBER-EAT-%E8%B6%9F%E6%95%B8%E7%84%A6%E6%85%AE/</id>
     <published>2022-07-04T15:50:36.000Z</published>
-    <updated>2022-07-04T17:08:26.471Z</updated>
+    <updated>2022-07-05T16:24:28.704Z</updated>
     
     
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;趟數焦慮&quot;&gt;&lt;a href=&quot;#趟數焦慮&quot; class=&quot;headerlink&quot;</summary>
-        
-      
+    <summary type="html">&lt;h1 id=&quot;趟數焦慮&quot;&gt;&lt;a href=&quot;#趟數焦慮&quot; class=&quot;headerlink&quot; title=&quot;趟數焦慮&quot;&gt;&lt;/a&gt;趟數焦慮&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;這週開始我的個人標準到了新的境界，前一天還在想是不是有吃幾個負評，導致要被平台踢出個人趟獎第一標上調到65趟，再怎麼有能力跑單，以我原本預設的每日2~3小時的作法，馬上就被打破，沒辦法平均分配在每天的熱門時段，無奈之餘盡是苦惱。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;萬事總是有解法，目前面對這狀態，仔細分析一下，先以最差的方式均3跑，大約需要約20小時左右，以目前晚上熱區大約頂多停留兩小時，再加上接近消夜場，平日晚上花5小時才有辦法消耗整個65單，實務上風險很高，尤其是碰到完全沒單的時候。&lt;br&gt;假日有連續五個用餐時間可以排班，每個時段至少要接近15單，其實也是不可能的任務，可能會在冷門時段撿單，先前比較新手階段曾經花整個週六去跑單，理論上8小時要24單應該是可行的，但光是想到就覺得好累，往好處想，65趟目前一趟提升到23元，算是把時間集中化，若均單效率夠好，也許可以縮短工時也不一定。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&quot;迎接挑戰&quot;&gt;&lt;a href=&quot;#迎接挑戰&quot; class=&quot;headerlink&quot; title=&quot;迎接挑戰&quot;&gt;&lt;/a&gt;迎接挑戰&lt;/h1&gt;&lt;p&gt;除非頭殼壞掉，不然不需要每天進行，挑假日先體驗看看&lt;br&gt;當預期收入達成就不要週週跑&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;趟次策略&lt;ul&gt;
+&lt;li&gt;週五盡量擠單，信用卡單+現金單&amp;#x2F;跑陌生區域&lt;/li&gt;
+&lt;li&gt;週六延續週五跑法，但不斷單時不開現金單，注意每單的距離品質，周五和周六以40單為目標&lt;/li&gt;
+&lt;li&gt;週日延續週五跑法，不斷單時不開現金單，解決剩下的25單&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;習慣&lt;ul&gt;
+&lt;li&gt;熱門時段取捨訂單要落實&lt;/li&gt;
+&lt;li&gt;避免一定要採中柱或把長時間手機掛脖子&lt;/li&gt;
+&lt;li&gt;要補充水分及找便捷的吃飯方式&lt;/li&gt;
+&lt;li&gt;手機電池目前僅能持續白天3小時左右、晚上5小時，注意充電&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&quot;截圖&quot;&gt;&lt;a href=&quot;#截圖&quot; class=&quot;headerlink&quot; title=&quot;截圖&quot;&gt;&lt;/a&gt;截圖&lt;/h1&gt;&lt;div align=&quot;center&quot;&gt;
+&lt;blockquote class=&quot;imgur-embed-pub&quot; lang=&quot;en&quot; data-id=&quot;a/26w7Hjh&quot;  &gt;&lt;a href=&quot;//imgur.com/a/26w7Hjh&quot;&gt;bonus&lt;/a&gt;&lt;/blockquote&gt;&lt;script async src=&quot;//s.imgur.com/min/embed.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+&lt;/div&gt;</summary>
     
     
     
@@ -95,16 +137,52 @@
     <link href="http://example.com/2022/06/27/UBER-EAT%E4%B9%8B%E8%87%AA%E6%88%91%E6%8F%90%E9%86%92/"/>
     <id>http://example.com/2022/06/27/UBER-EAT%E4%B9%8B%E8%87%AA%E6%88%91%E6%8F%90%E9%86%92/</id>
     <published>2022-06-26T18:14:01.000Z</published>
-    <updated>2022-07-03T18:16:51.170Z</updated>
+    <updated>2022-07-05T16:24:20.153Z</updated>
     
     
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;近期UBER EATS</summary>
-        
-      
+    <summary type="html">&lt;p&gt;近期UBER EATS 將週四納入周一至周三的周期中，以我自己而言，趟次獎勵第一階標準分別為40趟及35趟，換言之，我不是不跑就是得最低跑至75趟才可取得完整趟次獎勵。&lt;br&gt;按照原定計畫，每天2~3小時，縱使均五也不太可能破15趟，因此這周有些辛苦，有些想提醒自己一下。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;趟次分配回顧&lt;/li&gt;
+&lt;li&gt;自我提醒&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1 id=&quot;趟次分配&quot;&gt;&lt;a href=&quot;#趟次分配&quot; class=&quot;headerlink&quot; title=&quot;趟次分配&quot;&gt;&lt;/a&gt;趟次分配&lt;/h1&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;周一&lt;/th&gt;
+&lt;th&gt;週二&lt;/th&gt;
+&lt;th&gt;周三&lt;/th&gt;
+&lt;th&gt;週四&lt;/th&gt;
+&lt;th&gt;周五&lt;/th&gt;
+&lt;th&gt;週六&lt;/th&gt;
+&lt;th&gt;周日&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;td&gt;14&lt;/td&gt;
+&lt;td&gt;14&lt;/td&gt;
+&lt;td&gt;12&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;td&gt;18&lt;/td&gt;
+&lt;td&gt;17&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;td&gt;5hrs&lt;/td&gt;
+&lt;td&gt;5hrs&lt;/td&gt;
+&lt;td&gt;3hrs&lt;/td&gt;
+&lt;td&gt;0&lt;/td&gt;
+&lt;td&gt;5hrs&lt;/td&gt;
+&lt;td&gt;3hrs&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;p&gt;平日訂單會依照時間明顯遞減，超過20:00幾乎消失，原本預計的時間頂多跑出10單就好(為了多出那幾單，多了好幾個鐘頭，本周最大敗筆)，整體約均3左右&lt;br&gt;週五至周日，原則上週六比週五好，周日又比週六好，單就晚上大約會有三個多鐘頭的不斷單，這周約均4.3左右&lt;/p&gt;
+&lt;h1 id=&quot;自我提醒&quot;&gt;&lt;a href=&quot;#自我提醒&quot; class=&quot;headerlink&quot; title=&quot;自我提醒&quot;&gt;&lt;/a&gt;自我提醒&lt;/h1&gt;&lt;p&gt;外送時，我太在意路線、找門牌、和避免餐損，原本以為自己取餐和送餐部分是OK的，但時間久了，會因為躁進而失誤，提醒一下自己:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;店家端要注意對餐:雖然有些店家不一定要跟店員對餐也可直接取餐，但溝通可避免餐點不齊全，尤其是第一次接觸的店家必須打招呼。&lt;/li&gt;
+&lt;li&gt;客戶端避免兩單互相送錯:不要太相信記憶中保溫箱內的位置，預計送達客人手中前，必須眼見號碼為憑。&lt;/li&gt;
+&lt;li&gt;送錯餐的處理:若客服來電，接到電話按指示處理；若沒接到電話就沒機會補救(回撥電話是找不到客服的，&lt;strong&gt;正確做法:[幫助]-&amp;gt;[行程相關協助]-&amp;gt;[外送行程問題]-&amp;gt;[我有線上訂單需要協助]-&amp;gt;拉到最下面的[與我們對談]&lt;/strong&gt;)，後續還是必須強制送完，原則上客人會吃到免費餐，可以跟客人說明，會影響送外的KPI或者扣款這部分也只能接受。&lt;/li&gt;
+&lt;/ul&gt;</summary>
     
     
     
@@ -118,46 +196,197 @@
     <link href="http://example.com/2022/06/19/UBER-EAT-%E5%88%9D%E5%BF%83%E8%80%85%E4%B9%8B%E6%9B%B8/"/>
     <id>http://example.com/2022/06/19/UBER-EAT-%E5%88%9D%E5%BF%83%E8%80%85%E4%B9%8B%E6%9B%B8/</id>
     <published>2022-06-19T14:52:58.000Z</published>
-    <updated>2022-07-04T16:56:19.718Z</updated>
+    <updated>2022-07-05T16:24:15.133Z</updated>
     
     
-      
-      
-        
-        
-    <summary type="html">&lt;h1 id=&quot;序言&quot;&gt;&lt;a href=&quot;#序言&quot; class=&quot;headerlink&quot;</summary>
-        
-      
+    <summary type="html">&lt;h1 id=&quot;序言&quot;&gt;&lt;a href=&quot;#序言&quot; class=&quot;headerlink&quot; title=&quot;序言&quot;&gt;&lt;/a&gt;序言&lt;/h1&gt;&lt;p&gt;2021年11月，過去並沒有特別注意日常開銷，生活中無名的經濟壓力感，導致有了量入為出的想法，因此開始檢討自己的日常開銷。&lt;/p&gt;
+&lt;p&gt;日常開銷逐一檢視，無論汽車、摩托車、個人保險、電信費…等皆在檢討範圍，討論到電動機車(GOGORO VIVA)時，突然想起我採用吃到飽月租費，因此腦中靈光一閃，外送的想法油然而生，當時直覺地問自己:倘若把吃到飽的里程數再利用，有效把剩餘價值換取現金流，是不是個聰明的選擇。&lt;/p&gt;
+&lt;p&gt;下決定前，由於去年我已申請好外送帳號，選擇&lt;strong&gt;適合自己外送模式&lt;/strong&gt;反而是最重要的，我先分析外送收入績效，爬了一些文，主要觀察 &lt;strong&gt;跑單效率&lt;/strong&gt; (單&amp;#x2F;小時)及 &lt;strong&gt;外送時間&lt;/strong&gt; (小時計)兩個變因。由於我本身有份朝九晚五的工作，因此我外送狀態在 &lt;strong&gt;兼職&lt;/strong&gt; 且不影響本身工作為前題，對於外送時間，我的設定是平均每日2~3小時，以避免影響次日工作；跑單效率觀察許多前輩的經驗分享:均3等同勉強打平，因此必須避免均3以下。&lt;/p&gt;
+&lt;p&gt;萬丈高樓平地起，以下會把接近半年的心得，切分成幾個項目描述：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;UBER EAT 帳戶&lt;/li&gt;
+&lt;li&gt;行前準備(硬體)&lt;/li&gt;
+&lt;li&gt;跑單心態及技巧&lt;/li&gt;
+&lt;li&gt;關鍵策略養成&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1 id=&quot;UBER-EAT-帳戶&quot;&gt;&lt;a href=&quot;#UBER-EAT-帳戶&quot; class=&quot;headerlink&quot; title=&quot;UBER EAT 帳戶&quot;&gt;&lt;/a&gt;UBER EAT 帳戶&lt;/h1&gt;&lt;p&gt;關於UBER EAT帳戶，如果要申請，基本上就根據官方要求到警局申請良明證(&lt;strong&gt;此文件需要每年重新申請一次&lt;/strong&gt;)，而後下載安裝UBER DRIVER後，按照上面的要求將行照、駕照、良明證..等文件上傳。&lt;/p&gt;
+&lt;p&gt;等審核完畢後，有份線上測驗…&lt;/p&gt;
+&lt;p&gt;新手第一次需要買外送大箱，直接上UBER商城定即可。印象中只要買箱子就等於告訴官方請將我系統開通。&lt;/p&gt;
+&lt;p&gt;接著就是設定銀行帳號(國泰世華)，如果要收現金單，必須設定信用卡帳號，主要是要付款給UBER公司用，實務上會端看每周結算的時候是否需要回刷回UBER公司。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;到目前為止，我只收信用卡單，想法也很單純，不太想有顧客一定要出現否則沒錢拿的窘境，以及下雨天手濕找錢的不方便&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;另外我也有實測過，現金單確實是會增加單量&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&quot;行前準備-硬體&quot;&gt;&lt;a href=&quot;#行前準備-硬體&quot; class=&quot;headerlink&quot; title=&quot;行前準備(硬體)&quot;&gt;&lt;/a&gt;行前準備(硬體)&lt;/h1&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;硬體&lt;/th&gt;
+&lt;th&gt;用途&lt;/th&gt;
+&lt;th align=&quot;center&quot;&gt;必要&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;摩托車&lt;/td&gt;
+&lt;td&gt;GOGORO VIVA(小50)&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;Y&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;後置物架&lt;/td&gt;
+&lt;td&gt;此為活動式置物架&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;Y&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;外送小箱&lt;/td&gt;
+&lt;td&gt;避免傾倒，避免雨天食物淋濕&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;Y&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;雨鞋&lt;/td&gt;
+&lt;td&gt;下雨天使用&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;Y&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;防寒手套&lt;/td&gt;
+&lt;td&gt;冬天使用&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;Y&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;手機架&lt;/td&gt;
+&lt;td&gt;看導航好用&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;Y&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;兩件式雨衣&lt;/td&gt;
+&lt;td&gt;下雨天使用&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;Y&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;杯架、衛生紙&lt;/td&gt;
+&lt;td&gt;裝餐用&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;Y&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;外送箱雨套&lt;/td&gt;
+&lt;td&gt;下雨天使用&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;N&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;3D坐墊&lt;/td&gt;
+&lt;td&gt;補償摩托車避震不佳&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;N&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;證件&lt;/td&gt;
+&lt;td&gt;有些社區需要換證&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;N&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;p&gt;關於後置物架，主要考量因素是原本GOGORO VIVA，我有安裝舒適型扶手，若安裝普通的固定式貨架，必須要卸除。反之，活動式貨架可以夾扣於原本的扶手上，增加便利性又不會閒置原本扶手。&lt;/p&gt;
+&lt;p&gt;實際上跑單，硬體會產生維運成本，以下把我的狀況列出：&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;營業開銷&lt;/th&gt;
+&lt;th&gt;花費&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;GOGORO月租&lt;/td&gt;
+&lt;td&gt;399+99&amp;#x2F;mon&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;台灣之星門號&lt;/td&gt;
+&lt;td&gt;30&amp;#x2F;mon(99用多少省多少方案)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;GOGORO保養&lt;/td&gt;
+&lt;td&gt;249&amp;#x2F;5000km&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;後輪胎&lt;/td&gt;
+&lt;td&gt;1400&amp;#x2F;10000km&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;前輪胎&lt;/td&gt;
+&lt;td&gt;1400&amp;#x2F;15000km&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;p&gt;我使用的電動機車為GOGORO VIVA，採用的是輪轂馬達為動力，選擇他主要是因為在城市裡除了過橋或者一些主要幹道，否則很少有機會不碰到紅綠燈，一旦碰到紅綠燈，慢車不一定會趕不上快車，GOGORO常被詬病的維修花費，也不會出現在GOGORO VIVA上(重型摩托車會出現的保養問題 - 鍊條或皮帶)，導致先天就是保養便宜，當然這跟外送的考量沒什麼關聯，單純是當時為什麼要換電動車的抉擇。&lt;/p&gt;
+&lt;p&gt;這台車缺點是要常換電池且速度最高僅53km&amp;#x2F;h(turbo可以到63&amp;#x2F;hr)，但只要&lt;strong&gt;把握一些騎車的技巧和掌握路線，送單的效率應該是不會差異太大&lt;/strong&gt;。單顆電池的設計，在取餐送餐的續航力考量上，必須非常注意，因此我在行前給自己有一項功課便是熟悉各充電站，不臨時查APP。舉例來說要跑新北永和、中和、新店、北市萬華區、中正區、大安區，就先單純出門兜風，從A充電站到B充電站一直到繞完整個要跑的區域。&lt;/p&gt;
+&lt;p&gt;台灣之星門號，我是專門辦來進行外送，到目前為止，每個月我的跑法大約網路僅有約1G用量，大約台幣30元(一週跑14小時左右)。&lt;/p&gt;
+&lt;p&gt;總結來說，維運成本各項費用已壓到非常低(維運的費用應該平均一個月不超過 1K)，這是我在跑單的特色，圖示如下：&lt;/p&gt;
+&lt;div align=&quot;center&quot;&gt;
+&lt;blockquote class=&quot;imgur-embed-pub&quot; lang=&quot;en&quot; data-id=&quot;a/IjaxKg9&quot; data-context=&quot;false&quot; &gt;&lt;a href=&quot;//imgur.com/a/IjaxKg9&quot;&gt;&lt;/a&gt;&lt;/blockquote&gt;&lt;script async src=&quot;//s.imgur.com/min/embed.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+&lt;/div&gt;
+
+&lt;h1 id=&quot;跑單心態及技巧&quot;&gt;&lt;a href=&quot;#跑單心態及技巧&quot; class=&quot;headerlink&quot; title=&quot;跑單心態及技巧&quot;&gt;&lt;/a&gt;跑單心態及技巧&lt;/h1&gt;&lt;p&gt;&lt;code&gt;客人&lt;/code&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;可注意負評，但不要在意，永遠都有5%的客人是不合的&lt;/li&gt;
+&lt;li&gt;伸手不打笑臉人&lt;/li&gt;
+&lt;li&gt;禮貌用語請掛嘴邊&lt;/li&gt;
+&lt;li&gt;多對客人關心&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;code&gt;店家&lt;/code&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;注意拖餐店家&lt;/li&gt;
+&lt;li&gt;速食店(SUBWAY、麥當勞、優食)不太疊單，如超過60元要注意可能跨區，用餐時段要注意取捨&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;code&gt;交通&lt;/code&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;巷弄內臨停必須不能擋車，可能會被檢舉開單&lt;/li&gt;
+&lt;li&gt;人行道臨停可能會被檢舉開單&lt;/li&gt;
+&lt;li&gt;注意雙黃線迴轉會被開單&lt;/li&gt;
+&lt;li&gt;社區應跟警衛打招呼，報上外送門牌樓層&lt;/li&gt;
+&lt;li&gt;大社區有前後門需評估從何門進入&lt;/li&gt;
+&lt;li&gt;紅綠燈前如要右轉，注意有無右巷弄引道&lt;/li&gt;
+&lt;li&gt;紅綠燈前如要左轉，但不想待轉，則先直行找非雙黃線迴轉&lt;/li&gt;
+&lt;li&gt;摩托車位置如非順向，可來回步行取單&lt;/li&gt;
+&lt;li&gt;快速移動至最近商圈&lt;ul&gt;
+&lt;li&gt;永和(竹林路、樂華夜市)&lt;/li&gt;
+&lt;li&gt;中和(南勢角站)&lt;/li&gt;
+&lt;li&gt;新店(家樂福、中正路)&lt;/li&gt;
+&lt;li&gt;文山(景美夜市、萬芳醫院站)&lt;/li&gt;
+&lt;li&gt;中正(公館)&lt;/li&gt;
+&lt;li&gt;大安(師大)&lt;/li&gt;
+&lt;li&gt;萬華(西門町)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;購物中心及百貨要留意停車及取貨位置&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;code&gt;應變&lt;/code&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;當熱區消失極快，善用新區域未曾送過的店家優先&lt;/li&gt;
+&lt;li&gt;餐期接到單張近單，不急著取單以求疊單&lt;/li&gt;
+&lt;li&gt;跟車可以學習走小路&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&quot;關鍵策略養成&quot;&gt;&lt;a href=&quot;#關鍵策略養成&quot; class=&quot;headerlink&quot; title=&quot;關鍵策略養成&quot;&gt;&lt;/a&gt;關鍵策略養成&lt;/h1&gt;&lt;p&gt;雖然非常多介紹文都會講到每趟的薪資組成怎麼計算，包含自動加成獎勵或行程費用補貼，以及大家UBER同伴最關心的趟次獎勵及限時的趟次獎勵，但說真的我只關心最後換算出來的時薪，以及每周趟次獎勵能否在預期時間達成。&lt;/p&gt;
+&lt;p&gt;UBER EAT趟次獎金是主要收入來源，但因沒辦法看見全貌，例如趟次獎勵不想升級就僅跑第一階就好，但我自己又覺得不知道為什麼，我只控制跑一階，但我的第一階會自己慢慢從30趟-&amp;gt;35趟-&amp;gt;40趟。哈(苦笑ing)…感覺系統在誘導我增加跑單量，但在2022年6月的今天，UBER官方才在大量招募新血，倘若市場需求是固定，我的趟次獎勵目標增加和外送夥伴增加間是矛盾，似乎是激化新人與老手間的競爭關係；但若市場需求是變動，就得看UBER公司內部如何去預估上線司機數量進行動態調整，從司機觀點看或許也不完全公允。&lt;/p&gt;
+&lt;p&gt;從UBER公司角度來看，不難想像其商業盤算，招募新人也是收取一筆規費(箱子的費用)；商家的抽成和顧客訂購的數量金額有關係，不會因為外送員增加而有所改變；外送員多等同於覆蓋率高且在線時間因為均單下降而拉長，可增加送餐至顧客的效率，但支付給外送員的成本卻還是固定。&lt;/p&gt;
+&lt;p&gt;UBER EAT外送其實也如孫子兵法一樣，講求天時地利人和。平日得看老天爺的天氣及UBER演算法的派單邏輯，不同的區域的市場單量也有所不同，外送員出勤的數量更是直接影響接單的難易。&lt;/p&gt;
+&lt;p&gt;最後分享最近四周的數據&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&quot;center&quot;&gt;效率&lt;/th&gt;
+&lt;th align=&quot;center&quot;&gt;周薪&lt;/th&gt;
+&lt;th align=&quot;center&quot;&gt;時薪&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td align=&quot;center&quot;&gt;均4&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;4000&amp;#x2F;avg&lt;/td&gt;
+&lt;td align=&quot;center&quot;&gt;300~350&amp;#x2F;hr&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;p&gt;目前碰到最艱困的時候，餐期熱區出現時間不超過1小時，深刻體會為什麼有些人跑不到均3，餐期都是一張單一張單接，碰到真的很悶，我想哪天我開啟現金單或許會好些。&lt;/p&gt;
+&lt;p&gt;增加時薪的核心概念是:&lt;strong&gt;增加效率以求快速達成趟次獎勵&lt;/strong&gt;而非增加單趟收入，無論任何因素只要出現不斷單在我的碰到的狀況至少都是均4.5起跳，雨天雖然會不斷單，但並非是最好外送的時候，為了安全駕駛以及穿雨衣在公寓樓梯間移動都較不方便，但錢會是最多；若想無痛增加單趟收入，進台北市跑會是最好選擇，自動加成倍數高，而且搞不好小費會比較多些，也說不定。&lt;/p&gt;</summary>
     
     
     
     
     <category term="UBER EATS" scheme="http://example.com/tags/UBER-EATS/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>test</title>
-    <link href="http://example.com/2022/06/15/test/"/>
-    <id>http://example.com/2022/06/15/test/</id>
-    <published>2022-06-14T18:16:37.000Z</published>
-    <updated>2022-06-14T18:17:02.498Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;test 1 2</summary>
-        
-      
-    
-    
-    
-    
-    <category term="test" scheme="http://example.com/tags/test/"/>
-    
-    <category term="test2" scheme="http://example.com/tags/test2/"/>
     
   </entry>
   
