@@ -110,7 +110,7 @@
 <p>參考網址: <a href="https://yakimhsu.com/project/project_w4_Network_http.html">HTTP 基礎知識</a></p>
 <p>裡面有提到.js的套件(‘request’和’http’)可以玩玩看( 但經查看 request 已經廢棄使用)<br>node.js執行js程式，js中透過 require(‘xxxx’)來載入模組，Node module來源三種途徑:原生、NPM安裝、自己寫。</p>
 <h6 id="chrome-開發人員工具"><a href="#chrome-開發人員工具" class="headerlink" title="chrome 開發人員工具"></a>chrome 開發人員工具</h6><ul>
-<li>[F12] -&gt; [Network] 可以觀察 request 和 reponse 的內容<h6 id="HTTP-Method"><a href="#HTTP-Method" class="headerlink" title="HTTP Method"></a>HTTP Method</h6></li>
+<li>CTRL + SHIFT + I -&gt; [Network] 可以觀察 request 和 reponse 的內容<h6 id="HTTP-Method"><a href="#HTTP-Method" class="headerlink" title="HTTP Method"></a>HTTP Method</h6></li>
 <li>GET 跟SERVER要一個連結或者圖片，通常只是要獲取資訊，因此沒有request BODY。</li>
 <li>POST 需要執行一些動作，把資料放在request body</li>
 <li>PUT 取代整個 request (POST和PUT差異在於POST動作為create、PUT動作為replace)</li>
@@ -138,94 +138,6 @@
 ]]></content>
       <tags>
         <tag>RESTful API</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>UBER EAT 趟數焦慮</title>
-    <url>/2022/07/04/UBER-EAT-%E8%B6%9F%E6%95%B8%E7%84%A6%E6%85%AE/</url>
-    <content><![CDATA[<h1 id="趟數焦慮"><a href="#趟數焦慮" class="headerlink" title="趟數焦慮"></a>趟數焦慮</h1><blockquote>
-<p>這週開始我的個人標準到了新的境界，前一天還在想是不是有吃幾個負評，導致要被平台踢出個人趟獎而第一標上調到65趟，再怎麼有能力跑單，以我原本預設的每日2~3小時的作法，馬上就被打破，沒辦法平均分配在每天的熱門時段，無奈之餘盡是苦惱。</p>
-<blockquote>
-<p>萬事總是有解法，目前面對這狀態，仔細分析一下，先以最差的方式均3跑，大約需要約20小時左右，以目前晚上熱區大約頂多停留兩小時，再加上接近消夜場，平日晚上花5小時才有辦法消耗整個65單，實務上風險很高，尤其是碰到完全沒單的時候。<br>假日有連續五個用餐時間可以排班，每個時段至少要接近15單，其實也是不可能的任務，可能會在冷門時段撿單，先前比較新手階段曾經花整個週六去跑單，理論上8小時要24單應該是可行的，但光是想到就覺得好累，往好處想，65趟目前一趟提升到23元，算是把時間集中化，若均單效率夠好，也許可以縮短工時也不一定。</p>
-</blockquote>
-</blockquote>
-<span id="more"></span>
-
-<h1 id="迎接挑戰"><a href="#迎接挑戰" class="headerlink" title="迎接挑戰"></a>迎接挑戰</h1><p>除非頭殼壞掉，不然不需要每天進行，挑假日先體驗看看<br>當預期收入達成就不要週週跑</p>
-<ul>
-<li>趟次策略<ul>
-<li>週五盡量擠單，信用卡單+現金單&#x2F;跑陌生區域</li>
-<li>週六延續週五跑法，但不斷單時不開現金單，注意每單的距離品質，周五和周六以40單為目標</li>
-<li>週日延續週五跑法，不斷單時不開現金單，解決剩下的25單</li>
-</ul>
-</li>
-<li>習慣<ul>
-<li>熱門時段取捨訂單要落實</li>
-<li>避免一定要採中柱或把長時間手機掛脖子</li>
-<li>要補充水分及找便捷的吃飯方式</li>
-<li>手機電池目前僅能持續白天3小時左右、晚上5小時，注意充電</li>
-</ul>
-</li>
-</ul>
-<h1 id="截圖"><a href="#截圖" class="headerlink" title="截圖"></a>截圖</h1><div align="center">
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/26w7Hjh"  ><a href="//imgur.com/a/26w7Hjh">bonus</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-</div>
-]]></content>
-      <tags>
-        <tag>UBER EATS</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>UBER EAT之自我提醒</title>
-    <url>/2022/06/27/UBER-EAT%E4%B9%8B%E8%87%AA%E6%88%91%E6%8F%90%E9%86%92/</url>
-    <content><![CDATA[<p>近期UBER EATS 將週四納入周一至周三的周期中，以我自己而言，趟次獎勵第一階標準分別為40趟及35趟，換言之，我不是不跑就是得最低跑至75趟才可取得完整趟次獎勵。<br>按照原定計畫，每天2~3小時，縱使均五也不太可能破15趟，因此這周有些辛苦，有些想提醒自己一下。</p>
-<ol>
-<li>趟次分配回顧</li>
-<li>自我提醒</li>
-</ol>
-<span id="more"></span>
-
-<h1 id="趟次分配"><a href="#趟次分配" class="headerlink" title="趟次分配"></a>趟次分配</h1><table>
-<thead>
-<tr>
-<th>周一</th>
-<th>週二</th>
-<th>周三</th>
-<th>週四</th>
-<th>周五</th>
-<th>週六</th>
-<th>周日</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>0</td>
-<td>14</td>
-<td>14</td>
-<td>12</td>
-<td>0</td>
-<td>18</td>
-<td>17</td>
-</tr>
-<tr>
-<td>0</td>
-<td>5hrs</td>
-<td>5hrs</td>
-<td>3hrs</td>
-<td>0</td>
-<td>5hrs</td>
-<td>3hrs</td>
-</tr>
-</tbody></table>
-<p>平日訂單會依照時間明顯遞減，超過20:00幾乎消失，原本預計的時間頂多跑出10單就好(為了多出那幾單，多了好幾個鐘頭，本周最大敗筆)，整體約均3左右<br>週五至周日，原則上週六比週五好，周日又比週六好，單就晚上大約會有三個多鐘頭的不斷單，這周約均4.3左右</p>
-<h1 id="自我提醒"><a href="#自我提醒" class="headerlink" title="自我提醒"></a>自我提醒</h1><p>外送時，我太在意路線、找門牌、和避免餐損，原本以為自己取餐和送餐部分是OK的，但時間久了，會因為躁進而失誤，提醒一下自己:</p>
-<ul>
-<li>店家端要注意對餐:雖然有些店家不一定要跟店員對餐也可直接取餐，但溝通可避免餐點不齊全，尤其是第一次接觸的店家必須打招呼。</li>
-<li>客戶端避免兩單互相送錯:不要太相信記憶中保溫箱內的位置，預計送達客人手中前，必須眼見號碼為憑。</li>
-<li>送錯餐的處理:若客服來電，接到電話按指示處理；若沒接到電話就沒機會補救(回撥電話是找不到客服的，<strong>正確做法:[幫助]-&gt;[行程相關協助]-&gt;[外送行程問題]-&gt;[我有線上訂單需要協助]-&gt;拉到最下面的[與我們對談]</strong>)，後續還是必須強制送完，原則上客人會吃到免費餐，可以跟客人說明，會影響送外的KPI或者扣款這部分也只能接受。</li>
-</ul>
-]]></content>
-      <tags>
-        <tag>UBER EATS</tag>
       </tags>
   </entry>
   <entry>
@@ -416,6 +328,94 @@
 </tbody></table>
 <p>目前碰到最艱困的時候，餐期熱區出現時間不超過1小時，深刻體會為什麼有些人跑不到均3，餐期都是一張單一張單接，碰到真的很悶，我想哪天我開啟現金單或許會好些。</p>
 <p>增加時薪的核心概念是:<strong>增加效率以求快速達成趟次獎勵</strong>而非增加單趟收入，無論任何因素只要出現不斷單在我的碰到的狀況至少都是均4.5起跳，雨天雖然會不斷單，但並非是最好外送的時候，為了安全駕駛以及穿雨衣在公寓樓梯間移動都較不方便，但錢會是最多；若想無痛增加單趟收入，進台北市跑會是最好選擇，自動加成倍數高，而且搞不好小費會比較多些，也說不定。</p>
+]]></content>
+      <tags>
+        <tag>UBER EATS</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>UBER EAT 趟數焦慮</title>
+    <url>/2022/07/04/UBER-EAT-%E8%B6%9F%E6%95%B8%E7%84%A6%E6%85%AE/</url>
+    <content><![CDATA[<h1 id="趟數焦慮"><a href="#趟數焦慮" class="headerlink" title="趟數焦慮"></a>趟數焦慮</h1><blockquote>
+<p>這週開始我的個人標準到了新的境界，前一天還在想是不是有吃幾個負評，導致要被平台踢出個人趟獎而第一標上調到65趟，再怎麼有能力跑單，以我原本預設的每日2~3小時的作法，馬上就被打破，沒辦法平均分配在每天的熱門時段，無奈之餘盡是苦惱。</p>
+<blockquote>
+<p>萬事總是有解法，目前面對這狀態，仔細分析一下，先以最差的方式均3跑，大約需要約20小時左右，以目前晚上熱區大約頂多停留兩小時，再加上接近消夜場，平日晚上花5小時才有辦法消耗整個65單，實務上風險很高，尤其是碰到完全沒單的時候。<br>假日有連續五個用餐時間可以排班，每個時段至少要接近15單，其實也是不可能的任務，可能會在冷門時段撿單，先前比較新手階段曾經花整個週六去跑單，理論上8小時要24單應該是可行的，但光是想到就覺得好累，往好處想，65趟目前一趟提升到23元，算是把時間集中化，若均單效率夠好，也許可以縮短工時也不一定。</p>
+</blockquote>
+</blockquote>
+<span id="more"></span>
+
+<h1 id="迎接挑戰"><a href="#迎接挑戰" class="headerlink" title="迎接挑戰"></a>迎接挑戰</h1><p>除非頭殼壞掉，不然不需要每天進行，挑假日先體驗看看<br>當預期收入達成就不要週週跑</p>
+<ul>
+<li>趟次策略<ul>
+<li>週五盡量擠單，信用卡單+現金單&#x2F;跑陌生區域</li>
+<li>週六延續週五跑法，但不斷單時不開現金單，注意每單的距離品質，周五和周六以40單為目標</li>
+<li>週日延續週五跑法，不斷單時不開現金單，解決剩下的25單</li>
+</ul>
+</li>
+<li>習慣<ul>
+<li>熱門時段取捨訂單要落實</li>
+<li>避免一定要採中柱或把長時間手機掛脖子</li>
+<li>要補充水分及找便捷的吃飯方式</li>
+<li>手機電池目前僅能持續白天3小時左右、晚上5小時，注意充電</li>
+</ul>
+</li>
+</ul>
+<h1 id="截圖"><a href="#截圖" class="headerlink" title="截圖"></a>截圖</h1><div align="center">
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/26w7Hjh"  ><a href="//imgur.com/a/26w7Hjh">bonus</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+</div>
+]]></content>
+      <tags>
+        <tag>UBER EATS</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>UBER EAT之自我提醒</title>
+    <url>/2022/06/27/UBER-EAT%E4%B9%8B%E8%87%AA%E6%88%91%E6%8F%90%E9%86%92/</url>
+    <content><![CDATA[<p>近期UBER EATS 將週四納入周一至周三的周期中，以我自己而言，趟次獎勵第一階標準分別為40趟及35趟，換言之，我不是不跑就是得最低跑至75趟才可取得完整趟次獎勵。<br>按照原定計畫，每天2~3小時，縱使均五也不太可能破15趟，因此這周有些辛苦，有些想提醒自己一下。</p>
+<ol>
+<li>趟次分配回顧</li>
+<li>自我提醒</li>
+</ol>
+<span id="more"></span>
+
+<h1 id="趟次分配"><a href="#趟次分配" class="headerlink" title="趟次分配"></a>趟次分配</h1><table>
+<thead>
+<tr>
+<th>周一</th>
+<th>週二</th>
+<th>周三</th>
+<th>週四</th>
+<th>周五</th>
+<th>週六</th>
+<th>周日</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>0</td>
+<td>14</td>
+<td>14</td>
+<td>12</td>
+<td>0</td>
+<td>18</td>
+<td>17</td>
+</tr>
+<tr>
+<td>0</td>
+<td>5hrs</td>
+<td>5hrs</td>
+<td>3hrs</td>
+<td>0</td>
+<td>5hrs</td>
+<td>3hrs</td>
+</tr>
+</tbody></table>
+<p>平日訂單會依照時間明顯遞減，超過20:00幾乎消失，原本預計的時間頂多跑出10單就好(為了多出那幾單，多了好幾個鐘頭，本周最大敗筆)，整體約均3左右<br>週五至周日，原則上週六比週五好，周日又比週六好，單就晚上大約會有三個多鐘頭的不斷單，這周約均4.3左右</p>
+<h1 id="自我提醒"><a href="#自我提醒" class="headerlink" title="自我提醒"></a>自我提醒</h1><p>外送時，我太在意路線、找門牌、和避免餐損，原本以為自己取餐和送餐部分是OK的，但時間久了，會因為躁進而失誤，提醒一下自己:</p>
+<ul>
+<li>店家端要注意對餐:雖然有些店家不一定要跟店員對餐也可直接取餐，但溝通可避免餐點不齊全，尤其是第一次接觸的店家必須打招呼。</li>
+<li>客戶端避免兩單互相送錯:不要太相信記憶中保溫箱內的位置，預計送達客人手中前，必須眼見號碼為憑。</li>
+<li>送錯餐的處理:若客服來電，接到電話按指示處理；若沒接到電話就沒機會補救(回撥電話是找不到客服的，<strong>正確做法:[幫助]-&gt;[行程相關協助]-&gt;[外送行程問題]-&gt;[我有線上訂單需要協助]-&gt;拉到最下面的[與我們對談]</strong>)，後續還是必須強制送完，原則上客人會吃到免費餐，可以跟客人說明，會影響送外的KPI或者扣款這部分也只能接受。</li>
+</ul>
 ]]></content>
       <tags>
         <tag>UBER EATS</tag>
