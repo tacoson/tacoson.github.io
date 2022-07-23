@@ -120,6 +120,15 @@
 ]]></content>
   </entry>
   <entry>
+    <title>20220615 mood</title>
+    <url>/2022/06/15/20220615-mood/</url>
+    <content><![CDATA[<p>最近家裡COVID-19確診，端午連假返家造成了家人的困擾，之後也不曉得再次返家會不會有陰影。<br>最近要多撥點時間來進行英文口說，另外強化點專業能力。</p>
+]]></content>
+      <tags>
+        <tag>心情</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>RESTful API</title>
     <url>/2022/07/09/RESTful-API/</url>
     <content><![CDATA[<h2 id="HTTP-基礎知識"><a href="#HTTP-基礎知識" class="headerlink" title="HTTP 基礎知識"></a>HTTP 基礎知識</h2><hr>
@@ -154,6 +163,26 @@
 ]]></content>
       <tags>
         <tag>RESTful API</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>UBER EAT Milestone</title>
+    <url>/2022/07/24/UBER-EAT-Milestone/</url>
+    <content><![CDATA[<p><img src="/images/uber_1.jpg" title="10萬達成"></p>
+<h1 id="話說初衷"><a href="#話說初衷" class="headerlink" title="話說初衷"></a>話說初衷</h1><p>話說去年底檢討自己的開銷後，歷經約9個月的part-time生活，經過風吹日曬，把街頭送餐當作生活的一部分，也差不多到了一個里程碑。最初並沒有特別給自己太大的績效目標，主因是GOGORO有里程限制，因此每個月我只會拿出限制內的多餘里程數出來跑，當然次要原因也是畢竟這是體力活，雖然會增加收入但並非長久之計，打著貼補生活費的態度也是要來個反思，自己心裏訂下的目標就是10萬營收，就來個盤點驗收一下吧。</p>
+<h1 id="流水帳"><a href="#流水帳" class="headerlink" title="流水帳"></a>流水帳</h1><p>截至目前，總共外送訂單有1,320趟，收入為100,299，運送成本約11,305(包含電車月租費、電話費、罰單一張及各項外送用的硬體)。外送偶爾會比較敢進行消費(我想這是一種補償心態)，這部分就五花八門、琳瑯滿目(最大一筆開銷是母親節送的工學椅)，這部分大約花了9,367。<br>總結來說，大約還有78000左右，以9個月來說，生活費大概回補了六成左右。</p>
+<h1 id="心得"><a href="#心得" class="headerlink" title="心得"></a>心得</h1><ul>
+<li>年初有個願望清單，關於要<em>打消平時2022生活開銷</em>這項應該是達成了，成功的自我實現。</li>
+<li>給沒打過工的我體驗人生的機會。</li>
+<li>自我觀察我大概一周出勤12小時，我就開始懷疑人生了，說到這點我真的很佩服可以跑六小時以上且每天持續的外送員。</li>
+<li>對身體影響上，對於陽光會感覺特別敏感，眼睛有變得容易疲勞而且下背部的血液循環變差。</li>
+<li>當結束外送時，身體疲憊像是加過班，導致休息容易不足的情況，滿常發生下班吃飽飯後就倒頭睡著。<h1 id="未來"><a href="#未來" class="headerlink" title="未來"></a>未來</h1></li>
+<li>這是一份收入不低的打工，但只能當作備胎，只能要擺在第二順位。(渣男思維)</li>
+<li>思考一下這攢下來的78000，能否再做有效利用</li>
+</ul>
+]]></content>
+      <tags>
+        <tag>UBER EATS</tag>
       </tags>
   </entry>
   <entry>
@@ -350,15 +379,6 @@
       </tags>
   </entry>
   <entry>
-    <title>20220615 mood</title>
-    <url>/2022/06/15/20220615-mood/</url>
-    <content><![CDATA[<p>最近家裡COVID-19確診，端午連假返家造成了家人的困擾，之後也不曉得再次返家會不會有陰影。<br>最近要多撥點時間來進行英文口說，另外強化點專業能力。</p>
-]]></content>
-      <tags>
-        <tag>心情</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>UBER EAT 趟數焦慮</title>
     <url>/2022/07/04/UBER-EAT-%E8%B6%9F%E6%95%B8%E7%84%A6%E6%85%AE/</url>
     <content><![CDATA[<h1 id="趟數焦慮"><a href="#趟數焦慮" class="headerlink" title="趟數焦慮"></a>趟數焦慮</h1><blockquote>
@@ -392,6 +412,24 @@
       <tags>
         <tag>UBER EATS</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/2022/06/03/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
   </entry>
   <entry>
     <title>UBER EAT之自我提醒</title>
@@ -472,27 +510,30 @@
       </tags>
   </entry>
   <entry>
-    <title>Hello World</title>
-    <url>/2022/06/03/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
-  </entry>
-  <entry>
     <title>力不從心</title>
     <url>/2022/07/03/%E5%8A%9B%E4%B8%8D%E5%BE%9E%E5%BF%83/</url>
     <content><![CDATA[<p>週六突然有很多感觸，我想是前一日晚間熬夜的關係，精神疲憊時進行思考總是會掉入悲觀主義的陷阱。<br>地球不停的自轉，我的世界也跟著一起漫無目的自轉中，好好學習變成一個讓人失去目標的課題<br>優雅的逃避是種奢侈，不讓人找、也不找人<br>今晚金曲獎年度最佳歌曲樂團在頒獎典禮，和去年台詞一樣，最後爽朗地說出<strong>積極樂觀、感恩惜福</strong><br>現在沒什麼玩耍的本錢!!繼續加油~~ Keep going.</p>
+]]></content>
+      <tags>
+        <tag>心情</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>吃貨街走趣</title>
+    <url>/2022/07/20/%E5%90%83%E8%B2%A8%E8%A1%97%E8%B5%B0%E8%B6%A3/</url>
+    <content><![CDATA[<p>本周每天從復興南騎車到復興北，通過地下通道到北安路，路經不熟悉的區域，眼前都是新鮮感，好奇寶寶如我，不免俗的會開始探索附近的店家。早期我對大直的印象來自於實踐大學和空中英語教室，後來美麗華摩天輪的開幕，甚至附近的高爾夫練習場也去過。這周常逛了大直家樂福1F大食代、美麗華B1美食廣場、ATT，大部分都吃B1美食廣場，日式咖哩蛋包飯、韓式石鍋拌飯、周氏蝦捲套餐，香菇雞火鍋、麻醬麵貢丸湯組合，說實在CP值並不高。<br>松本清和有個國外超市倒是滿好逛的，為什麼我這麼說，可以在百貨公司內部超市找到22元的純喫茶700ml是不太容易的，松本清的自有品牌泡洗顏只要109元，荷包差點失守。</p>
+<p>可以推薦的美食，大部分都是下班後去朝聖(其中有一家我只有走到門口，發現我正在調整體重，最後還是忍住，可以猜猜是哪家)</p>
+<h2 id="慶城街一號"><a href="#慶城街一號" class="headerlink" title="慶城街一號"></a>慶城街一號</h2><ol>
+<li>慶城街海南雞飯 - 這家其實常訂來吃，買法有配菜120無配菜90，旁邊應該是還可以加雞肉(但是字比較小我沒注意看)，湯品也好喝，這是滿安全的選擇。</li>
+<li>樂檸漢堡 - 標誌是短褲，穿短褲訂餐可以免費加大飲料或者薯條，和其他常見的麥當勞、漢堡王比較起來，比較優一點，但是價格也貴一點，當作生命體驗。</li>
+<li>Tulip Timeout - 有名的是丹麥熱狗堡，但我點的是另外一個脆皮雙層豬肉漢堡，坦白說這種煙燻脆皮的口感還滿讓我驚豔的，漢堡180的價格，難怪都不用排隊:)。</li>
+<li>吳哥窟海南雞 - 柬埔寨風味海南雞，之前我都是當慶城街海南雞飯需要排隊時，我會把這家列入第二選擇。</li>
+</ol>
+<p>慶城街一號樓上還有海底撈、小螺波、bbq.chicken、汰汰熱情食堂(泰式料理)、誠記河粉公司…<br>呵呵!!我想吃的都聚集在這棟(大好き)，我喜歡這種複合式商城更甚於信義區的百貨公司(棟距太大，沒有溫馨感)，</p>
+<h2 id="北安路"><a href="#北安路" class="headerlink" title="北安路"></a>北安路</h2><ol>
+<li>NENE chicken - 韓國最有名的連鎖店，每一種口味有500g和1000g，也有兩種口味混和的1000g。</li>
+<li>林文必涼麵 - 雞排類千萬不要點，我點120的套餐，涼麵確實不錯，湯品和配菜普通，雞排卻有點雷。</li>
+</ol>
 ]]></content>
       <tags>
         <tag>心情</tag>
@@ -590,27 +631,6 @@
       <tags>
         <tag>筆記</tag>
         <tag>資訊安全</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>吃貨街走趣</title>
-    <url>/2022/07/20/%E5%90%83%E8%B2%A8%E8%A1%97%E8%B5%B0%E8%B6%A3/</url>
-    <content><![CDATA[<p>本周每天從復興南騎車到復興北，通過地下通道到北安路，路經不熟悉的區域，眼前都是新鮮感，好奇寶寶如我，不免俗的會開始探索附近的店家。早期我對大直的印象來自於實踐大學和空中英語教室，後來美麗華摩天輪的開幕，甚至附近的高爾夫練習場也去過。這周常逛了大直家樂福1F大食代、美麗華B1美食廣場、ATT，大部分都吃B1美食廣場，日式咖哩蛋包飯、韓式石鍋拌飯、周氏蝦捲套餐，香菇雞火鍋、麻醬麵貢丸湯組合，說實在CP值並不高。<br>松本清和有個國外超市倒是滿好逛的，為什麼我這麼說，可以在百貨公司內部超市找到22元的純喫茶700ml是不太容易的，松本清的自有品牌泡洗顏只要109元，荷包差點失守。</p>
-<p>可以推薦的美食，大部分都是下班後去朝聖(其中有一家我只有走到門口，發現我正在調整體重，最後還是忍住，可以猜猜是哪家)</p>
-<h2 id="慶城街一號"><a href="#慶城街一號" class="headerlink" title="慶城街一號"></a>慶城街一號</h2><ol>
-<li>慶城街海南雞飯 - 這家其實常訂來吃，買法有配菜120無配菜90，旁邊應該是還可以加雞肉(但是字比較小我沒注意看)，湯品也好喝，這是滿安全的選擇。</li>
-<li>樂檸漢堡 - 標誌是短褲，穿短褲訂餐可以免費加大飲料或者薯條，和其他常見的麥當勞、漢堡王比較起來，比較優一點，但是價格也貴一點，當作生命體驗。</li>
-<li>Tulip Timeout - 有名的是丹麥熱狗堡，但我點的是另外一個脆皮雙層豬肉漢堡，坦白說這種煙燻脆皮的口感還滿讓我驚豔的，漢堡180的價格，難怪都不用排隊:)。</li>
-<li>吳哥窟海南雞 - 柬埔寨風味海南雞，之前我都是當慶城街海南雞飯需要排隊時，我會把這家列入第二選擇。</li>
-</ol>
-<p>慶城街一號樓上還有海底撈、小螺波、bbq.chicken、汰汰熱情食堂(泰式料理)、誠記河粉公司…<br>呵呵!!我想吃的都聚集在這棟(大好き)，我喜歡這種複合式商城更甚於信義區的百貨公司(棟距太大，沒有溫馨感)，</p>
-<h2 id="北安路"><a href="#北安路" class="headerlink" title="北安路"></a>北安路</h2><ol>
-<li>NENE chicken - 韓國最有名的連鎖店，每一種口味有500g和1000g，也有兩種口味混和的1000g。</li>
-<li>林文必涼麵 - 雞排類千萬不要點，我點120的套餐，涼麵確實不錯，湯品和配菜普通，雞排卻有點雷。</li>
-</ol>
-]]></content>
-      <tags>
-        <tag>心情</tag>
       </tags>
   </entry>
 </search>
