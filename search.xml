@@ -32,30 +32,6 @@
       </tags>
   </entry>
   <entry>
-    <title>10分鐘週記</title>
-    <url>/2022/07/01/10%E5%88%86%E9%90%98%E9%80%B1%E8%A8%98/</url>
-    <content><![CDATA[<p>給自己一個挑戰，10分鐘來完成紀錄一週大小事，這週接觸到一些工作或自我成長心得:</p>
-<ol>
-<li>Animaker</li>
-<li>MoneyDJ &amp; 財報狗</li>
-<li>演算法筆記</li>
-</ol>
-<h2 id="Animaker"><a href="#Animaker" class="headerlink" title="Animaker"></a>Animaker</h2><hr>
-<p>參考網址: <a href="https://www.animaker.com/">Animaker</a><br>先談一下對於使用者來說，好處大概是網頁版，只要有瀏覽器便可以進行體驗，官方的template教學齊全，如果想要做做個人的簡歷介紹、結婚紀念、邀請函、短片..等，我想這是一個非常無腦且容易上手的作法，所有的分鏡類似投影片模式呈現，上面所有的物件可以套用動作模組去作客制，若不想修改，只要把文字添加就會是個圖文並茂的精彩動畫。<br>使用限制上跟你的帳號付費的程度成正比，若真的要使用，一個月10美元的花費是基礎開銷，若想當免費仔就必須忍受影片會有浮水印外，可使用素材少，每月五次匯出影片限制。<br>目前僅僅試用一次，改天再嘗試自己的圖片放上去做個屬於自己的動畫。</p>
-<h2 id="MoneyDJ-amp-財報狗-amp-不鏽鋼指數"><a href="#MoneyDJ-amp-財報狗-amp-不鏽鋼指數" class="headerlink" title="MoneyDJ &amp; 財報狗 &amp; 不鏽鋼指數"></a>MoneyDJ &amp; 財報狗 &amp; 不鏽鋼指數</h2><hr>
-<p>參考網址: <a href="https://www.moneydj.com/kmdj/common/listnewarticles.aspx?svc=NW&a=C0.C020114">MoneyDJ</a><br>參考網址: <a href="https://statementdog.com/">財報狗</a><br>參考網址: <a href="http://quote.eastmoney.com/qihuo/ssm.html">不鏽鋼指數</a><br>今年可謂是美國的升息年，跌跌不休的股市(五窮六絕)感受特別深刻，突然想了解鋼鐵產業，話說原本並非不了解，但總覺得自己對整個市場，或者說整個產業鏈並不是通盤理解，甚至鋼鐵也有分不同種類。<br>我個人注意力只放在<strong>不鏽鋼</strong>，不鏽鋼是和一般鋼鐵差異在哪?說穿了就是混和金屬比例不同，因金屬特性而產生不同的應用。上中下游，以我自己的理解就是煉鋼、加工+裁切、應用端(只是我自己的理解，錯了別砲我)，整體鋼鐵產業就是景氣循環、高耗能低毛利、反傾銷稅的常客，高資金門檻的特性。耗能產業勢必又跟綠能產業扯上邊，畢竟是天秤的兩端。目前應該最大的消費需求都來自中國，因此他們的商品指數才會具有代表性。</p>
-<p><code>MoneyDJ</code>可以查詢產業訊息，至少更新速度算是快，下游產業要注意產品銷售情況。<br><code>財報狗</code>讓人訝異，裡面竟然也有收集到興櫃的財報，看盤軟體有時候不會這麼好心幫你收集。<br><code>不鏽鋼指數</code>可以觀察和LME鎳期貨的高度相關性，也可以比對一下和國內上游廠商的相關性。</p>
-<p>關於鋼鐵上游廠商，通常原物料漲價，也會照樣反應給中游及下游廠商，某種程度是轉嫁，原本取得存貨成本低，短期具利差，視為短多，漲價若是因為通貨膨脹而非實質需求(實質需求通常是基礎建設)，必須要注意其危險性，後續若發現貨幣政策緊縮，首當其衝也會是上游廠商。</p>
-<h2 id="演算法筆記"><a href="#演算法筆記" class="headerlink" title="演算法筆記"></a>演算法筆記</h2><hr>
-<p>參考網址: <a href="https://web.ntnu.edu.tw/~algo/">演算法筆記</a></p>
-<p>這是一個很有意思的網站，架在台師大教職員網域內，筆記簡單好懂。<br>裡面有個參考網站 <strong><a href="https://github.com/jwasham/coding-interview-university">Coding Interview University</a></strong> 內的內容滿吸引我，看到好多Cheating Sheet,我就想起以前Linux學習的時候，最喜歡的一張Vi操作指令表，這對記性不好的我來說是一大助益。</p>
-]]></content>
-      <tags>
-        <tag>10分鐘週記</tag>
-        <tag>演算法</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>10分鐘週記-GIMP and Krita</title>
     <url>/2022/07/17/10%E5%88%86%E9%90%98%E9%80%B1%E8%A8%98-4/</url>
     <content><![CDATA[<p>給自己一個挑戰，10分鐘來完成紀錄一週大小事，簡短紀錄一下影像編輯和手繪的開放源碼工具:<br>1.GIMP<br>2.Krita</p>
@@ -120,6 +96,30 @@
 ]]></content>
   </entry>
   <entry>
+    <title>10分鐘週記</title>
+    <url>/2022/07/01/10%E5%88%86%E9%90%98%E9%80%B1%E8%A8%98/</url>
+    <content><![CDATA[<p>給自己一個挑戰，10分鐘來完成紀錄一週大小事，這週接觸到一些工作或自我成長心得:</p>
+<ol>
+<li>Animaker</li>
+<li>MoneyDJ &amp; 財報狗</li>
+<li>演算法筆記</li>
+</ol>
+<h2 id="Animaker"><a href="#Animaker" class="headerlink" title="Animaker"></a>Animaker</h2><hr>
+<p>參考網址: <a href="https://www.animaker.com/">Animaker</a><br>先談一下對於使用者來說，好處大概是網頁版，只要有瀏覽器便可以進行體驗，官方的template教學齊全，如果想要做做個人的簡歷介紹、結婚紀念、邀請函、短片..等，我想這是一個非常無腦且容易上手的作法，所有的分鏡類似投影片模式呈現，上面所有的物件可以套用動作模組去作客制，若不想修改，只要把文字添加就會是個圖文並茂的精彩動畫。<br>使用限制上跟你的帳號付費的程度成正比，若真的要使用，一個月10美元的花費是基礎開銷，若想當免費仔就必須忍受影片會有浮水印外，可使用素材少，每月五次匯出影片限制。<br>目前僅僅試用一次，改天再嘗試自己的圖片放上去做個屬於自己的動畫。</p>
+<h2 id="MoneyDJ-amp-財報狗-amp-不鏽鋼指數"><a href="#MoneyDJ-amp-財報狗-amp-不鏽鋼指數" class="headerlink" title="MoneyDJ &amp; 財報狗 &amp; 不鏽鋼指數"></a>MoneyDJ &amp; 財報狗 &amp; 不鏽鋼指數</h2><hr>
+<p>參考網址: <a href="https://www.moneydj.com/kmdj/common/listnewarticles.aspx?svc=NW&a=C0.C020114">MoneyDJ</a><br>參考網址: <a href="https://statementdog.com/">財報狗</a><br>參考網址: <a href="http://quote.eastmoney.com/qihuo/ssm.html">不鏽鋼指數</a><br>今年可謂是美國的升息年，跌跌不休的股市(五窮六絕)感受特別深刻，突然想了解鋼鐵產業，話說原本並非不了解，但總覺得自己對整個市場，或者說整個產業鏈並不是通盤理解，甚至鋼鐵也有分不同種類。<br>我個人注意力只放在<strong>不鏽鋼</strong>，不鏽鋼是和一般鋼鐵差異在哪?說穿了就是混和金屬比例不同，因金屬特性而產生不同的應用。上中下游，以我自己的理解就是煉鋼、加工+裁切、應用端(只是我自己的理解，錯了別砲我)，整體鋼鐵產業就是景氣循環、高耗能低毛利、反傾銷稅的常客，高資金門檻的特性。耗能產業勢必又跟綠能產業扯上邊，畢竟是天秤的兩端。目前應該最大的消費需求都來自中國，因此他們的商品指數才會具有代表性。</p>
+<p><code>MoneyDJ</code>可以查詢產業訊息，至少更新速度算是快，下游產業要注意產品銷售情況。<br><code>財報狗</code>讓人訝異，裡面竟然也有收集到興櫃的財報，看盤軟體有時候不會這麼好心幫你收集。<br><code>不鏽鋼指數</code>可以觀察和LME鎳期貨的高度相關性，也可以比對一下和國內上游廠商的相關性。</p>
+<p>關於鋼鐵上游廠商，通常原物料漲價，也會照樣反應給中游及下游廠商，某種程度是轉嫁，原本取得存貨成本低，短期具利差，視為短多，漲價若是因為通貨膨脹而非實質需求(實質需求通常是基礎建設)，必須要注意其危險性，後續若發現貨幣政策緊縮，首當其衝也會是上游廠商。</p>
+<h2 id="演算法筆記"><a href="#演算法筆記" class="headerlink" title="演算法筆記"></a>演算法筆記</h2><hr>
+<p>參考網址: <a href="https://web.ntnu.edu.tw/~algo/">演算法筆記</a></p>
+<p>這是一個很有意思的網站，架在台師大教職員網域內，筆記簡單好懂。<br>裡面有個參考網站 <strong><a href="https://github.com/jwasham/coding-interview-university">Coding Interview University</a></strong> 內的內容滿吸引我，看到好多Cheating Sheet,我就想起以前Linux學習的時候，最喜歡的一張Vi操作指令表，這對記性不好的我來說是一大助益。</p>
+]]></content>
+      <tags>
+        <tag>10分鐘週記</tag>
+        <tag>演算法</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>20220615 mood</title>
     <url>/2022/06/15/20220615-mood/</url>
     <content><![CDATA[<p>最近家裡COVID-19確診，端午連假返家造成了家人的困擾，之後也不曉得再次返家會不會有陰影。<br>最近要多撥點時間來進行英文口說，另外強化點專業能力。</p>
@@ -170,15 +170,15 @@
     <url>/2022/07/24/UBER-EAT-Milestone/</url>
     <content><![CDATA[<p><img src="/images/uber_1.jpg" title="10萬達成"></p>
 <h1 id="話說初衷"><a href="#話說初衷" class="headerlink" title="話說初衷"></a>話說初衷</h1><p>話說去年底檢討自己的開銷後，歷經約9個月的part-time生活，經過風吹日曬，把街頭送餐當作生活的一部分，也差不多到了一個里程碑。最初並沒有特別給自己太大的績效目標，主因是GOGORO有里程限制，因此每個月我只會拿出限制內的多餘里程數出來跑，當然次要原因也是畢竟這是體力活，雖然會增加收入但並非長久之計，打著貼補生活費的態度也是要來個反思，自己心裏訂下的目標就是10萬營收，就來個盤點驗收一下吧。</p>
-<h1 id="流水帳"><a href="#流水帳" class="headerlink" title="流水帳"></a>流水帳</h1><p>截至目前，總共外送訂單有1,320趟，收入為100,299，運送成本約11,305(包含電車月租費、電話費、罰單一張及各項外送用的硬體)。外送偶爾會比較敢進行消費(我想這是一種補償心態)，這部分就五花八門、琳瑯滿目(最大一筆開銷是母親節送的工學椅)，這部分大約花了9,367。<br>總結來說，大約還有78000左右，以9個月來說，生活費大概回補了六成左右。</p>
+<h1 id="流水帳"><a href="#流水帳" class="headerlink" title="流水帳"></a>流水帳</h1><p>截至目前，總共外送訂單有1,320趟，收入為100,299，運送成本約11,305(包含電車月租費、電話費、罰單一張及各項外送用的硬體)。外送偶爾會比較敢進行消費(我想這是一種補償心態)，這部分就五花八門、琳瑯滿目(最大一筆開銷是母親節送的工學椅)，這部分大約花了9,367。<br>總結來說，大約還有78,000左右，以9個月來說，生活費大概回補了六成左右。</p>
 <h1 id="心得"><a href="#心得" class="headerlink" title="心得"></a>心得</h1><ul>
 <li>年初有個願望清單，關於要<em>打消平時2022生活開銷</em>這項應該是達成了，成功的自我實現。</li>
 <li>給沒打過工的我體驗人生的機會。</li>
 <li>自我觀察我大概一周出勤12小時，我就開始懷疑人生了，說到這點我真的很佩服可以跑六小時以上且每天持續的外送員。</li>
 <li>對身體影響上，對於陽光會感覺特別敏感，眼睛有變得容易疲勞而且下背部的血液循環變差。</li>
 <li>當結束外送時，身體疲憊像是加過班，導致休息容易不足的情況，滿常發生下班吃飽飯後就倒頭睡著。<h1 id="未來"><a href="#未來" class="headerlink" title="未來"></a>未來</h1></li>
-<li>這是一份收入不低的打工，但只能當作備胎，只能要擺在第二順位。(渣男思維)</li>
-<li>思考一下這攢下來的78000，能否再做有效利用</li>
+<li>這是一份收入不低的打工，但只能當作備胎，擺在第二順位。(渣男思維)</li>
+<li>思考一下這攢下來的78,000，能否再做有效利用</li>
 </ul>
 ]]></content>
       <tags>
@@ -414,24 +414,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Hello World</title>
-    <url>/2022/06/03/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
-  </entry>
-  <entry>
     <title>UBER EAT之自我提醒</title>
     <url>/2022/06/27/UBER-EAT%E4%B9%8B%E8%87%AA%E6%88%91%E6%8F%90%E9%86%92/</url>
     <content><![CDATA[<p>近期UBER EATS 將週四納入周一至周三的周期中，以我自己而言，趟次獎勵第一階標準分別為40趟及35趟，換言之，我不是不跑就是得最低跑至75趟才可取得完整趟次獎勵。<br>按照原定計畫，每天2~3小時，縱使均五也不太可能破15趟，因此這周有些辛苦，有些想提醒自己一下。</p>
@@ -483,6 +465,24 @@
       <tags>
         <tag>UBER EATS</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/2022/06/03/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
   </entry>
   <entry>
     <title>健康體重</title>
