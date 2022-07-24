@@ -19,6 +19,18 @@
       </tags>
   </entry>
   <entry>
+    <title>10分鐘週記-GIMP and Krita</title>
+    <url>/2022/07/17/10%E5%88%86%E9%90%98%E9%80%B1%E8%A8%98-4/</url>
+    <content><![CDATA[<p>給自己一個挑戰，10分鐘來完成紀錄一週大小事，簡短紀錄一下影像編輯和手繪的開放源碼工具:<br>1.GIMP<br>2.Krita</p>
+<h2 id="GIMP"><a href="#GIMP" class="headerlink" title="GIMP"></a>GIMP</h2><p>參考網址: <a href="https://docs.gimp.org/2.10/zh_CN/">GIMP使用指南</a></p>
+<h2 id="Krita"><a href="#Krita" class="headerlink" title="Krita"></a>Krita</h2><p>參考網址: <a href="https://docs.krita.org/zh_CN/user_manual.html">Krita使用指南</a></p>
+<p>剛好有AERY繪圖板搭配使用</p>
+]]></content>
+      <tags>
+        <tag>10分鐘週記</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>10分鐘週記-綜合所得稅</title>
     <url>/2022/07/12/10%E5%88%86%E9%90%98%E9%80%B1%E8%A8%98-3/</url>
     <content><![CDATA[<p>給自己一個挑戰，10分鐘來完成紀錄一週大小事，這週把今年報稅的大小事整理一下，每年到五月的時候同樣的事情都會困擾一次，究竟我能否找到更好的報稅方式。<br>以今年度(2022)的小弟我報稅方式，單身、無扶養人口、標準扣除額(120,000)，我想應該是相同收入下最悲壯的繳稅方式了，尤其我還是北漂族，所得級距進入12%的深淵。<br>目前想到的方法如下:</p>
@@ -26,18 +38,6 @@
 <h2 id="標準扣除額改列舉扣除額"><a href="#標準扣除額改列舉扣除額" class="headerlink" title="標準扣除額改列舉扣除額"></a>標準扣除額改列舉扣除額</h2><p>這部分就較無可置喙，畢竟標準扣除額是12萬，我的人身保險應可報滿24000，健保費大概18000，最大的癥結點在於房租，這又陷入另外一個難處，我租的不夠貴，目前住的是月租金5500的小套房，縱使申報列舉，可能也是接近12萬左右，差異並不會太明顯。</p>
 <h2 id="勞退自提"><a href="#勞退自提" class="headerlink" title="勞退自提"></a>勞退自提</h2><p>參考網址: <a href="http://www.ga.ntnu.edu.tw/aff/form/111%E5%B9%B4%E5%8B%9E%E4%BF%9D%E5%81%A5%E4%BF%9D%E5%8B%9E%E9%80%80%E4%BF%9D%E8%B2%BB%E5%B0%8D%E7%85%A7%E8%A1%A8.pdf">111年勞保、健保、勞退保費對照表</a><br>日前想到有效的方法，便是增加勞退自提的比率(每年1月和7月可以調整自提比率)，法規目前規範個人可以最高選擇6%進行提撥，這部分免納入所得計算，以目前我的級距，每個月提撥5526，明年節稅接近7957 (5526 * 12 * 0.12)。</p>
 <p>這有點強迫儲蓄和節稅的雙重效果。</p>
-]]></content>
-      <tags>
-        <tag>10分鐘週記</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>10分鐘週記-GIMP and Krita</title>
-    <url>/2022/07/17/10%E5%88%86%E9%90%98%E9%80%B1%E8%A8%98-4/</url>
-    <content><![CDATA[<p>給自己一個挑戰，10分鐘來完成紀錄一週大小事，簡短紀錄一下影像編輯和手繪的開放源碼工具:<br>1.GIMP<br>2.Krita</p>
-<h2 id="GIMP"><a href="#GIMP" class="headerlink" title="GIMP"></a>GIMP</h2><p>參考網址: <a href="https://docs.gimp.org/2.10/zh_CN/">GIMP使用指南</a></p>
-<h2 id="Krita"><a href="#Krita" class="headerlink" title="Krita"></a>Krita</h2><p>參考網址: <a href="https://docs.krita.org/zh_CN/user_manual.html">Krita使用指南</a></p>
-<p>剛好有AERY繪圖板搭配使用</p>
 ]]></content>
       <tags>
         <tag>10分鐘週記</tag>
@@ -65,6 +65,27 @@
       <tags>
         <tag>10分鐘週記</tag>
         <tag>演算法</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>10分鐘週記-Krita筆記</title>
+    <url>/2022/07/24/10%E5%88%86%E9%90%98%E9%80%B1%E8%A8%98-Krita%E7%AD%86%E8%A8%98/</url>
+    <content><![CDATA[<p>給自己一個挑戰，10分鐘來完成紀錄一週大小事，簡短紀錄一下筆記:</p>
+<h1 id="教學影片"><a href="#教學影片" class="headerlink" title="教學影片"></a>教學影片</h1><p>參考網址: <a href="https://youtu.be/Z06RRp81iDM">HOW TO PAINT IN KRITA</a><br>參考網址: <a href="https://youtu.be/WSbgaSWEqks">Clipping Masks: Alpha inheritance, Alpha Lock &amp; Groups in Krita</a></p>
+<p>第一部影片主要是Step by step把從無到有的繪圖教學，開畫布、基本介面介紹，移動畫布、選擇筆刷、顏色選擇…等，後半段會實際演練出一部作品。<br>第二部影片為專門介紹如果介紹什麼是Alpha(透明層)、怎麼進行Alpha鎖定並與群組圖層(Group)應用、Alpha繼承用途，最後有個人像繪製。</p>
+<p>目前看的懵懵懂懂，自己理解的部分<br>Alpha : 其實就是我們看到的非繪製的區域，白說講究是去背的區域<br>Alpha lock : Alpha區域不給你畫，這樣上色區域就會被限制<br>Alpha繼承: 看起來可用於物體光影著色</p>
+<h1 id="實際操作"><a href="#實際操作" class="headerlink" title="實際操作"></a>實際操作</h1><p>玩了一會兒，列舉一下有使用過的功能</p>
+<ul>
+<li>匯入影像: [圖層] → [匯入&#x2F;匯出] → [匯入] → [作為顏料塗層]</li>
+<li>圖層: Alpha鎖定、GROUP Layer、Alpha繼承</li>
+<li>匯出 GIF: [檔案] → [繪製動畫]</li>
+<li>工具箱: 色彩取樣(P)、手繪筆刷工具(B)、移動工具(T)、填充工具(F)、選擇區域變形(CTRL+T)、剪裁工具(C)…等</li>
+<li>檢視畫布: [1]:100%原比例大小檢視 [2]:fit顯示區域的檢視 [3]鼠標所在位置的檢視 [4]左邊選轉 [5]擺正 [6]右邊旋轉 [m]左右邊鏡像檢視</li>
+<li>筆刷: 整理喜歡的筆刷到 My favorite</li>
+</ul>
+]]></content>
+      <tags>
+        <tag>10分鐘週記</tag>
       </tags>
   </entry>
   <entry>
@@ -120,15 +141,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>20220615 mood</title>
-    <url>/2022/06/15/20220615-mood/</url>
-    <content><![CDATA[<p>最近家裡COVID-19確診，端午連假返家造成了家人的困擾，之後也不曉得再次返家會不會有陰影。<br>最近要多撥點時間來進行英文口說，另外強化點專業能力。</p>
-]]></content>
-      <tags>
-        <tag>心情</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>RESTful API</title>
     <url>/2022/07/09/RESTful-API/</url>
     <content><![CDATA[<h2 id="HTTP-基礎知識"><a href="#HTTP-基礎知識" class="headerlink" title="HTTP 基礎知識"></a>HTTP 基礎知識</h2><hr>
@@ -163,6 +175,15 @@
 ]]></content>
       <tags>
         <tag>RESTful API</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>20220615 mood</title>
+    <url>/2022/06/15/20220615-mood/</url>
+    <content><![CDATA[<p>最近家裡COVID-19確診，端午連假返家造成了家人的困擾，之後也不曉得再次返家會不會有陰影。<br>最近要多撥點時間來進行英文口說，另外強化點專業能力。</p>
+]]></content>
+      <tags>
+        <tag>心情</tag>
       </tags>
   </entry>
   <entry>
@@ -379,41 +400,6 @@
       </tags>
   </entry>
   <entry>
-    <title>UBER EAT 趟數焦慮</title>
-    <url>/2022/07/04/UBER-EAT-%E8%B6%9F%E6%95%B8%E7%84%A6%E6%85%AE/</url>
-    <content><![CDATA[<h1 id="趟數焦慮"><a href="#趟數焦慮" class="headerlink" title="趟數焦慮"></a>趟數焦慮</h1><blockquote>
-<p>這週開始我的個人標準到了新的境界，前一天還在想是不是有吃幾個負評，導致要被平台踢出個人趟獎而第一標上調到65趟，再怎麼有能力跑單，以我原本預設的每日2~3小時的作法，馬上就被打破，沒辦法平均分配在每天的熱門時段，無奈之餘盡是苦惱。</p>
-<blockquote>
-<p>萬事總是有解法，目前面對這狀態，仔細分析一下，先以最差的方式均3跑，大約需要約20小時左右，以目前晚上熱區大約頂多停留兩小時，再加上接近消夜場，平日晚上花5小時才有辦法消耗整個65單，實務上風險很高，尤其是碰到完全沒單的時候。<br>假日有連續五個用餐時間可以排班，每個時段至少要接近15單，其實也是不可能的任務，可能會在冷門時段撿單，先前比較新手階段曾經花整個週六去跑單，理論上8小時要24單應該是可行的，但光是想到就覺得好累，往好處想，65趟目前一趟提升到23元，算是把時間集中化，若均單效率夠好，也許可以縮短工時也不一定。</p>
-</blockquote>
-</blockquote>
-<span id="more"></span>
-
-<h1 id="迎接挑戰"><a href="#迎接挑戰" class="headerlink" title="迎接挑戰"></a>迎接挑戰</h1><p>除非頭殼壞掉，不然不需要每天進行，挑假日先體驗看看<br>當預期收入達成就不要週週跑</p>
-<ul>
-<li>趟次策略<ul>
-<li>週五盡量擠單，信用卡單+現金單&#x2F;跑陌生區域</li>
-<li>週六延續週五跑法，但不斷單時不開現金單，注意每單的距離品質，周五和周六以40單為目標</li>
-<li>週日延續週五跑法，不斷單時不開現金單，解決剩下的25單</li>
-</ul>
-</li>
-<li>習慣<ul>
-<li>熱門時段取捨訂單要落實</li>
-<li>避免一定要採中柱或把長時間手機掛脖子</li>
-<li>要補充水分及找便捷的吃飯方式</li>
-<li>手機電池目前僅能持續白天3小時左右、晚上5小時，注意充電</li>
-</ul>
-</li>
-</ul>
-<h1 id="截圖"><a href="#截圖" class="headerlink" title="截圖"></a>截圖</h1><div align="center">
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/26w7Hjh"  ><a href="//imgur.com/a/26w7Hjh">bonus</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-</div>
-]]></content>
-      <tags>
-        <tag>UBER EATS</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>UBER EAT之自我提醒</title>
     <url>/2022/06/27/UBER-EAT%E4%B9%8B%E8%87%AA%E6%88%91%E6%8F%90%E9%86%92/</url>
     <content><![CDATA[<p>近期UBER EATS 將週四納入周一至周三的周期中，以我自己而言，趟次獎勵第一階標準分別為40趟及35趟，換言之，我不是不跑就是得最低跑至75趟才可取得完整趟次獎勵。<br>按照原定計畫，每天2~3小時，縱使均五也不太可能破15趟，因此這周有些辛苦，有些想提醒自己一下。</p>
@@ -461,6 +447,41 @@
 <li>客戶端避免兩單互相送錯:不要太相信記憶中保溫箱內的位置，預計送達客人手中前，必須眼見號碼為憑。</li>
 <li>送錯餐的處理:若客服來電，接到電話按指示處理；若沒接到電話就沒機會補救(回撥電話是找不到客服的，<strong>正確做法:[幫助]-&gt;[行程相關協助]-&gt;[外送行程問題]-&gt;[我有線上訂單需要協助]-&gt;拉到最下面的[與我們對談]</strong>)，後續還是必須強制送完，原則上客人會吃到免費餐，可以跟客人說明，會影響送外的KPI或者扣款這部分也只能接受。</li>
 </ul>
+]]></content>
+      <tags>
+        <tag>UBER EATS</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>UBER EAT 趟數焦慮</title>
+    <url>/2022/07/04/UBER-EAT-%E8%B6%9F%E6%95%B8%E7%84%A6%E6%85%AE/</url>
+    <content><![CDATA[<h1 id="趟數焦慮"><a href="#趟數焦慮" class="headerlink" title="趟數焦慮"></a>趟數焦慮</h1><blockquote>
+<p>這週開始我的個人標準到了新的境界，前一天還在想是不是有吃幾個負評，導致要被平台踢出個人趟獎而第一標上調到65趟，再怎麼有能力跑單，以我原本預設的每日2~3小時的作法，馬上就被打破，沒辦法平均分配在每天的熱門時段，無奈之餘盡是苦惱。</p>
+<blockquote>
+<p>萬事總是有解法，目前面對這狀態，仔細分析一下，先以最差的方式均3跑，大約需要約20小時左右，以目前晚上熱區大約頂多停留兩小時，再加上接近消夜場，平日晚上花5小時才有辦法消耗整個65單，實務上風險很高，尤其是碰到完全沒單的時候。<br>假日有連續五個用餐時間可以排班，每個時段至少要接近15單，其實也是不可能的任務，可能會在冷門時段撿單，先前比較新手階段曾經花整個週六去跑單，理論上8小時要24單應該是可行的，但光是想到就覺得好累，往好處想，65趟目前一趟提升到23元，算是把時間集中化，若均單效率夠好，也許可以縮短工時也不一定。</p>
+</blockquote>
+</blockquote>
+<span id="more"></span>
+
+<h1 id="迎接挑戰"><a href="#迎接挑戰" class="headerlink" title="迎接挑戰"></a>迎接挑戰</h1><p>除非頭殼壞掉，不然不需要每天進行，挑假日先體驗看看<br>當預期收入達成就不要週週跑</p>
+<ul>
+<li>趟次策略<ul>
+<li>週五盡量擠單，信用卡單+現金單&#x2F;跑陌生區域</li>
+<li>週六延續週五跑法，但不斷單時不開現金單，注意每單的距離品質，周五和周六以40單為目標</li>
+<li>週日延續週五跑法，不斷單時不開現金單，解決剩下的25單</li>
+</ul>
+</li>
+<li>習慣<ul>
+<li>熱門時段取捨訂單要落實</li>
+<li>避免一定要採中柱或把長時間手機掛脖子</li>
+<li>要補充水分及找便捷的吃飯方式</li>
+<li>手機電池目前僅能持續白天3小時左右、晚上5小時，注意充電</li>
+</ul>
+</li>
+</ul>
+<h1 id="截圖"><a href="#截圖" class="headerlink" title="截圖"></a>截圖</h1><div align="center">
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/26w7Hjh"  ><a href="//imgur.com/a/26w7Hjh">bonus</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+</div>
 ]]></content>
       <tags>
         <tag>UBER EATS</tag>
