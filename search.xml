@@ -33,6 +33,18 @@
       </tags>
   </entry>
   <entry>
+    <title>10分鐘週記-GIMP and Krita</title>
+    <url>/2022/07/17/10%E5%88%86%E9%90%98%E9%80%B1%E8%A8%98-4/</url>
+    <content><![CDATA[<p>給自己一個挑戰，10分鐘來完成紀錄一週大小事，簡短紀錄一下影像編輯和手繪的開放源碼工具:<br>1.GIMP<br>2.Krita</p>
+<h2 id="GIMP"><a href="#GIMP" class="headerlink" title="GIMP"></a>GIMP</h2><p>參考網址: <a href="https://docs.gimp.org/2.10/zh_CN/">GIMP使用指南</a></p>
+<h2 id="Krita"><a href="#Krita" class="headerlink" title="Krita"></a>Krita</h2><p>參考網址: <a href="https://docs.krita.org/zh_CN/user_manual.html">Krita使用指南</a></p>
+<p>剛好有AERY繪圖板搭配使用</p>
+]]></content>
+      <tags>
+        <tag>10分鐘週記</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>10分鐘週記-Krita筆記</title>
     <url>/2022/07/24/10%E5%88%86%E9%90%98%E9%80%B1%E8%A8%98-Krita%E7%AD%86%E8%A8%98/</url>
     <content><![CDATA[<p>給自己一個挑戰，10分鐘來完成紀錄一週大小事，簡短紀錄一下筆記:</p>
@@ -50,18 +62,6 @@
 </ul>
 <h1 id="可愛繪本"><a href="#可愛繪本" class="headerlink" title="可愛繪本"></a>可愛繪本</h1><p>參考網址: <a href="https://www.youtube.com/watch?v=cC_QxRQTFOE">You matter</a></p>
 <p>看完之後，告訴自己無論你有多少如果，You matter.</p>
-]]></content>
-      <tags>
-        <tag>10分鐘週記</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>10分鐘週記-GIMP and Krita</title>
-    <url>/2022/07/17/10%E5%88%86%E9%90%98%E9%80%B1%E8%A8%98-4/</url>
-    <content><![CDATA[<p>給自己一個挑戰，10分鐘來完成紀錄一週大小事，簡短紀錄一下影像編輯和手繪的開放源碼工具:<br>1.GIMP<br>2.Krita</p>
-<h2 id="GIMP"><a href="#GIMP" class="headerlink" title="GIMP"></a>GIMP</h2><p>參考網址: <a href="https://docs.gimp.org/2.10/zh_CN/">GIMP使用指南</a></p>
-<h2 id="Krita"><a href="#Krita" class="headerlink" title="Krita"></a>Krita</h2><p>參考網址: <a href="https://docs.krita.org/zh_CN/user_manual.html">Krita使用指南</a></p>
-<p>剛好有AERY繪圖板搭配使用</p>
 ]]></content>
       <tags>
         <tag>10分鐘週記</tag>
@@ -90,6 +90,57 @@
       <tags>
         <tag>10分鐘週記</tag>
         <tag>股市</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>10分鐘週記-周末聽講</title>
+    <url>/2022/08/02/10%E5%88%86%E9%90%98%E9%80%B1%E8%A8%98-%E8%81%BD%E8%AC%9B%E7%AD%86%E8%A8%98/</url>
+    <content><![CDATA[<p>本週週記主要是參加演講，由於這次主辦的地點距離我住的地方很近，講者所表達的內容雖然有些屬於我不熟悉的領域，但聽講增加點知識廣度也不錯，除了真的講到SOURCE CODE，不然其實或多或少都能有反應，或者馬上用手機查這關鍵字是什麼。<br>其中某位開發者分享到他的職涯，身在這個時代的我們應該感到幸福，資訊知識隨手可得，在家就可以跟全世界學習，確實假設和我以前研究生時代相比，現在接收新知效率快非常多，知識迭代生活。<br>畢竟有些只有30分鐘，所以都是抓關鍵字，有點像是速記，以下就有廳的演講題目當頭：</p>
+<h2 id="打造資訊雙向連結的地圖應用"><a href="#打造資訊雙向連結的地圖應用" class="headerlink" title="打造資訊雙向連結的地圖應用"></a>打造資訊雙向連結的地圖應用</h2><hr>
+<p>主要概念應該是透過日常影片看到的地點和地圖連結(似乎為的是知道座標)，可以從前台操作加入至spreadsheet中，待將來若造訪可以透過視角中四個角的地圖座標來逐一尋找資料集中符合的地點並顯示於地圖上(有點像是每個故事點生活紀錄，爾後進行回顧)。</p>
+<ul>
+<li>google spreadsheet (儲存資料)</li>
+<li>google APPs script(後台)</li>
+<li>github page (前台)<h2 id="帶您讀源碼：LIFF-Mock"><a href="#帶您讀源碼：LIFF-Mock" class="headerlink" title="帶您讀源碼：LIFF Mock"></a>帶您讀源碼：LIFF Mock</h2></li>
+</ul>
+<hr>
+<p>老實說，只知道是Line聊天API中用來進行自動化測試使用的套件，細節不是很清楚。</p>
+<h2 id="Introduction-to-Property-Based-Testing"><a href="#Introduction-to-Property-Based-Testing" class="headerlink" title="Introduction to Property-Based Testing"></a>Introduction to Property-Based Testing</h2><hr>
+<ul>
+<li>fast-check(PBT測試套件)</li>
+<li>Example based testing Rust doctest (註解本身就是測試腳本)</li>
+<li>XState testing(狀態機模式測試)</li>
+<li>John Hughes (PBT作者)</li>
+<li>測試只是一種對於不變函式提出證明</li>
+<li>Arbitrators(產生資料) Runners(跑測試) Shrinker (Input 產生，位移產生test case,當一個很大的測試資料 可以縮小至錯誤發生的大小，降低錯誤發生時的除錯時間)</li>
+<li>slido (投影片旁邊的互動外掛)<h2 id="開源工具使用與貢獻-從機器工程師到機器學習工程師的轉身與降肉"><a href="#開源工具使用與貢獻-從機器工程師到機器學習工程師的轉身與降肉" class="headerlink" title="開源工具使用與貢獻 - 從機器工程師到機器學習工程師的轉身與降肉"></a>開源工具使用與貢獻 - 從機器工程師到機器學習工程師的轉身與降肉</h2></li>
+</ul>
+<hr>
+<p>主要在講機械工程師如何變身成AI工程師</p>
+<ul>
+<li>硬體很難復現，軟體可貴之處可大量自動化且很有生產力</li>
+<li>參加比賽，獲得新平均的機會</li>
+<li>建立自信心 打造作品集</li>
+<li>Fast fail recovery faster 高手思維</li>
+<li>Kaggle裡面有資料集和比賽</li>
+<li>站在巨人肩膀，別重新打造輪子</li>
+<li>資源有限，集中精神專攻某領域</li>
+<li>實踐踩坑扎根深度、參加演講補充知識廣度</li>
+<li>先寫架構（Compact），再添加feature. (前後端駁雜 串到後來技能樹歪了)</li>
+<li>Streamlit</li>
+<li>demo 老電影選擇器<h2 id="閱讀原始碼-再戰十年的-jQuery"><a href="#閱讀原始碼-再戰十年的-jQuery" class="headerlink" title="閱讀原始碼 - 再戰十年的 jQuery"></a>閱讀原始碼 - 再戰十年的 jQuery</h2></li>
+</ul>
+<hr>
+<p>參考網址: <a href="https://kaochenlong.com/2022/07/31/jquery-source-code/">投影片</a></p>
+<ul>
+<li>講者本身有出書</li>
+<li>主要講 jQuery source</li>
+<li>IIFE (Immediately Invoked Function Expression) 是一個定義完馬上就執行的函式</li>
+<li>匿名函式</li>
+</ul>
+]]></content>
+      <tags>
+        <tag>10分鐘週記</tag>
       </tags>
   </entry>
   <entry>
@@ -179,6 +230,26 @@
       </tags>
   </entry>
   <entry>
+    <title>UBER EAT Milestone</title>
+    <url>/2022/07/24/UBER-EAT-Milestone/</url>
+    <content><![CDATA[<p><img src="/images/uber_1.jpg" title="10萬達成"></p>
+<h1 id="話說初衷"><a href="#話說初衷" class="headerlink" title="話說初衷"></a>話說初衷</h1><p>話說去年底檢討自己的開銷後，歷經約9個月的part-time生活，經過風吹日曬，把街頭送餐當作生活的一部分，也差不多到了一個里程碑。最初並沒有特別給自己太大的績效目標，主因是GOGORO有里程限制，因此每個月我只會拿出限制內的多餘里程數出來跑，當然次要原因也是畢竟這是體力活，雖然會增加收入但並非長久之計，打著貼補生活費的態度也是要來個反思，自己心裏訂下的目標就是10萬營收，就來個盤點驗收一下吧。</p>
+<h1 id="流水帳"><a href="#流水帳" class="headerlink" title="流水帳"></a>流水帳</h1><p>截至目前，總共外送訂單有1,320趟，收入為100,299，運送成本約11,305(包含電車月租費、電話費、罰單一張及各項外送用的硬體)。外送偶爾會比較敢進行消費(我想這是一種補償心態)，這部分就五花八門、琳瑯滿目(最大一筆開銷是母親節送的工學椅)，這部分大約花了9,367。<br>總結來說，大約還有78,000左右，以9個月來說，生活費大概回補了六成左右。</p>
+<h1 id="心得"><a href="#心得" class="headerlink" title="心得"></a>心得</h1><ul>
+<li>年初有個願望清單，關於要<em>打消平時2022生活開銷</em>這項應該是達成了，成功的自我實現。</li>
+<li>給沒打過工的我體驗人生的機會。</li>
+<li>自我觀察我大概一周出勤12小時，我就開始懷疑人生了，說到這點我真的很佩服可以跑六小時以上且每天持續的外送員。</li>
+<li>對身體影響上，對於陽光會感覺特別敏感，眼睛有變得容易疲勞而且下背部的血液循環變差。</li>
+<li>當結束外送時，身體疲憊像是加過班，導致休息容易不足的情況，滿常發生下班吃飽飯後就倒頭睡著。<h1 id="未來"><a href="#未來" class="headerlink" title="未來"></a>未來</h1></li>
+<li>這是一份收入不低的打工，但只能當作備胎，擺在第二順位。(渣男思維)</li>
+<li>思考一下這攢下來的78,000，能否再做有效利用</li>
+</ul>
+]]></content>
+      <tags>
+        <tag>UBER EATS</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>RESTful API</title>
     <url>/2022/07/09/RESTful-API/</url>
     <content><![CDATA[<h2 id="HTTP-基礎知識"><a href="#HTTP-基礎知識" class="headerlink" title="HTTP 基礎知識"></a>HTTP 基礎知識</h2><hr>
@@ -213,26 +284,6 @@
 ]]></content>
       <tags>
         <tag>RESTful API</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>UBER EAT Milestone</title>
-    <url>/2022/07/24/UBER-EAT-Milestone/</url>
-    <content><![CDATA[<p><img src="/images/uber_1.jpg" title="10萬達成"></p>
-<h1 id="話說初衷"><a href="#話說初衷" class="headerlink" title="話說初衷"></a>話說初衷</h1><p>話說去年底檢討自己的開銷後，歷經約9個月的part-time生活，經過風吹日曬，把街頭送餐當作生活的一部分，也差不多到了一個里程碑。最初並沒有特別給自己太大的績效目標，主因是GOGORO有里程限制，因此每個月我只會拿出限制內的多餘里程數出來跑，當然次要原因也是畢竟這是體力活，雖然會增加收入但並非長久之計，打著貼補生活費的態度也是要來個反思，自己心裏訂下的目標就是10萬營收，就來個盤點驗收一下吧。</p>
-<h1 id="流水帳"><a href="#流水帳" class="headerlink" title="流水帳"></a>流水帳</h1><p>截至目前，總共外送訂單有1,320趟，收入為100,299，運送成本約11,305(包含電車月租費、電話費、罰單一張及各項外送用的硬體)。外送偶爾會比較敢進行消費(我想這是一種補償心態)，這部分就五花八門、琳瑯滿目(最大一筆開銷是母親節送的工學椅)，這部分大約花了9,367。<br>總結來說，大約還有78,000左右，以9個月來說，生活費大概回補了六成左右。</p>
-<h1 id="心得"><a href="#心得" class="headerlink" title="心得"></a>心得</h1><ul>
-<li>年初有個願望清單，關於要<em>打消平時2022生活開銷</em>這項應該是達成了，成功的自我實現。</li>
-<li>給沒打過工的我體驗人生的機會。</li>
-<li>自我觀察我大概一周出勤12小時，我就開始懷疑人生了，說到這點我真的很佩服可以跑六小時以上且每天持續的外送員。</li>
-<li>對身體影響上，對於陽光會感覺特別敏感，眼睛有變得容易疲勞而且下背部的血液循環變差。</li>
-<li>當結束外送時，身體疲憊像是加過班，導致休息容易不足的情況，滿常發生下班吃飽飯後就倒頭睡著。<h1 id="未來"><a href="#未來" class="headerlink" title="未來"></a>未來</h1></li>
-<li>這是一份收入不低的打工，但只能當作備胎，擺在第二順位。(渣男思維)</li>
-<li>思考一下這攢下來的78,000，能否再做有效利用</li>
-</ul>
-]]></content>
-      <tags>
-        <tag>UBER EATS</tag>
       </tags>
   </entry>
   <entry>
