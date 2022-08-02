@@ -95,7 +95,7 @@
   <entry>
     <title>10分鐘週記-周末聽講</title>
     <url>/2022/08/02/10%E5%88%86%E9%90%98%E9%80%B1%E8%A8%98-%E8%81%BD%E8%AC%9B%E7%AD%86%E8%A8%98/</url>
-    <content><![CDATA[<p>本週週記主要是參加演講，由於這次主辦的地點距離我住的地方很近，講者所表達的內容雖然有些屬於我不熟悉的領域，但聽講增加點知識廣度也不錯，除了真的講到SOURCE CODE，不然其實或多或少都能有反應，或者馬上用手機查這關鍵字是什麼。<br>其中某位開發者分享到他的職涯，身在這個時代的我們應該感到幸福，資訊知識隨手可得，在家就可以跟全世界學習，確實假設和我以前研究生時代相比，現在接收新知效率快非常多，知識迭代生活。<br>畢竟有些只有30分鐘，所以都是抓關鍵字，有點像是速記，以下就有廳的演講題目當頭：</p>
+    <content><![CDATA[<p>本週週記主要是參加演講，由於這次主辦的地點距離我住的地方很近，聽講增加點知識廣度也不錯，因此就到現場吹冷氣，除了真的講到SOURCE CODE，不然其實或多或少都能有概念，反正不懂就馬上用手機查這關鍵字是什麼。<br>其中某位開發者分享到他的職涯，提到身在這個時代的我們應該感到幸福，資訊知識隨手可得，在家就可跟全世界學習。讓我想起以前研究生時代，不是問人就只能看書，這是活在2022現代的優勢。<br>資訊迭代效率快，資訊量也大，學習的方法也要跟著改變才行。<br>畢竟有些只有30分鐘，所以都是抓關鍵字，有點像是速記(如果有錯是正常的，懶得額外求證)，以有聽的演講題目當標題：</p>
 <h2 id="打造資訊雙向連結的地圖應用"><a href="#打造資訊雙向連結的地圖應用" class="headerlink" title="打造資訊雙向連結的地圖應用"></a>打造資訊雙向連結的地圖應用</h2><hr>
 <p>主要概念應該是透過日常影片看到的地點和地圖連結(似乎為的是知道座標)，可以從前台操作加入至spreadsheet中，待將來若造訪可以透過視角中四個角的地圖座標來逐一尋找資料集中符合的地點並顯示於地圖上(有點像是每個故事點生活紀錄，爾後進行回顧)。</p>
 <ul>
@@ -104,15 +104,15 @@
 <li>github page (前台)<h2 id="帶您讀源碼：LIFF-Mock"><a href="#帶您讀源碼：LIFF-Mock" class="headerlink" title="帶您讀源碼：LIFF Mock"></a>帶您讀源碼：LIFF Mock</h2></li>
 </ul>
 <hr>
-<p>老實說，只知道是Line聊天API中用來進行自動化測試使用的套件，細節不是很清楚。</p>
+<p>老實說，只知道是Line Bot 聊天API中用來進行自動化測試使用的套件，細節不是很清楚。</p>
 <h2 id="Introduction-to-Property-Based-Testing"><a href="#Introduction-to-Property-Based-Testing" class="headerlink" title="Introduction to Property-Based Testing"></a>Introduction to Property-Based Testing</h2><hr>
 <ul>
 <li>fast-check(PBT測試套件)</li>
-<li>Example based testing Rust doctest (註解本身就是測試腳本)</li>
+<li>Example based testing: Rust doctest (註解本身就是測試腳本)</li>
 <li>XState testing(狀態機模式測試)</li>
 <li>John Hughes (PBT作者)</li>
 <li>測試只是一種對於不變函式提出證明</li>
-<li>Arbitrators(產生資料) Runners(跑測試) Shrinker (Input 產生，位移產生test case,當一個很大的測試資料 可以縮小至錯誤發生的大小，降低錯誤發生時的除錯時間)</li>
+<li>Arbitrators Runners Shrinker (Input 產生，位移產生test case,當一個很大的測試資料 可以縮小至錯誤發生的大小，降低錯誤發生時的除錯時間)</li>
 <li>slido (投影片旁邊的互動外掛)<h2 id="開源工具使用與貢獻-從機器工程師到機器學習工程師的轉身與降肉"><a href="#開源工具使用與貢獻-從機器工程師到機器學習工程師的轉身與降肉" class="headerlink" title="開源工具使用與貢獻 - 從機器工程師到機器學習工程師的轉身與降肉"></a>開源工具使用與貢獻 - 從機器工程師到機器學習工程師的轉身與降肉</h2></li>
 </ul>
 <hr>
@@ -121,13 +121,13 @@
 <li>硬體很難復現，軟體可貴之處可大量自動化且很有生產力</li>
 <li>參加比賽，獲得新平均的機會</li>
 <li>建立自信心 打造作品集</li>
-<li>Fast fail recovery faster 高手思維</li>
+<li>Fast fail recovery faster</li>
 <li>Kaggle裡面有資料集和比賽</li>
 <li>站在巨人肩膀，別重新打造輪子</li>
 <li>資源有限，集中精神專攻某領域</li>
 <li>實踐踩坑扎根深度、參加演講補充知識廣度</li>
-<li>先寫架構（Compact），再添加feature. (前後端駁雜 串到後來技能樹歪了)</li>
-<li>Streamlit</li>
+<li>先寫架構，再添加feature. (前後端駁雜 串到後來技能樹歪了)</li>
+<li>Streamlit : 自動產生 dashboard 和 APP</li>
 <li>demo 老電影選擇器<h2 id="閱讀原始碼-再戰十年的-jQuery"><a href="#閱讀原始碼-再戰十年的-jQuery" class="headerlink" title="閱讀原始碼 - 再戰十年的 jQuery"></a>閱讀原始碼 - 再戰十年的 jQuery</h2></li>
 </ul>
 <hr>
