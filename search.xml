@@ -20,6 +20,18 @@
       </tags>
   </entry>
   <entry>
+    <title>10分鐘週記-GIMP and Krita</title>
+    <url>/2022/07/17/10%E5%88%86%E9%90%98%E9%80%B1%E8%A8%98-4/</url>
+    <content><![CDATA[<p>給自己一個挑戰，10分鐘來完成紀錄一週大小事，簡短紀錄一下影像編輯和手繪的開放源碼工具:<br>1.GIMP<br>2.Krita</p>
+<h2 id="GIMP"><a href="#GIMP" class="headerlink" title="GIMP"></a>GIMP</h2><p>參考網址: <a href="https://docs.gimp.org/2.10/zh_CN/">GIMP使用指南</a></p>
+<h2 id="Krita"><a href="#Krita" class="headerlink" title="Krita"></a>Krita</h2><p>參考網址: <a href="https://docs.krita.org/zh_CN/user_manual.html">Krita使用指南</a></p>
+<p>剛好有AERY繪圖板搭配使用</p>
+]]></content>
+      <tags>
+        <tag>10分鐘週記</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>10分鐘週記-綜合所得稅</title>
     <url>/2022/07/12/10%E5%88%86%E9%90%98%E9%80%B1%E8%A8%98-3/</url>
     <content><![CDATA[<p>給自己一個挑戰，10分鐘來完成紀錄一週大小事，這週把今年報稅的大小事整理一下，每年到五月的時候同樣的事情都會困擾一次，究竟我能否找到更好的報稅方式。<br>以今年度(2022)的小弟我報稅方式，單身、無扶養人口、標準扣除額(120,000)，我想應該是相同收入下最悲壯的繳稅方式了，尤其我還是北漂族，所得級距進入12%的深淵。<br>目前想到的方法如下:</p>
@@ -27,18 +39,6 @@
 <h2 id="標準扣除額改列舉扣除額"><a href="#標準扣除額改列舉扣除額" class="headerlink" title="標準扣除額改列舉扣除額"></a>標準扣除額改列舉扣除額</h2><p>這部分就較無可置喙，畢竟標準扣除額是12萬，我的人身保險應可報滿24000，健保費大概18000，最大的癥結點在於房租，這又陷入另外一個難處，我租的不夠貴，目前住的是月租金5500的小套房，縱使申報列舉，可能也是接近12萬左右，差異並不會太明顯。</p>
 <h2 id="勞退自提"><a href="#勞退自提" class="headerlink" title="勞退自提"></a>勞退自提</h2><p>參考網址: <a href="http://www.ga.ntnu.edu.tw/aff/form/111%E5%B9%B4%E5%8B%9E%E4%BF%9D%E5%81%A5%E4%BF%9D%E5%8B%9E%E9%80%80%E4%BF%9D%E8%B2%BB%E5%B0%8D%E7%85%A7%E8%A1%A8.pdf">111年勞保、健保、勞退保費對照表</a><br>日前想到有效的方法，便是增加勞退自提的比率(每年1月和7月可以調整自提比率)，法規目前規範個人可以最高選擇6%進行提撥，這部分免納入所得計算，以目前我的級距，每個月提撥5526，明年節稅接近7957 (5526 * 12 * 0.12)。</p>
 <p>這有點強迫儲蓄和節稅的雙重效果。</p>
-]]></content>
-      <tags>
-        <tag>10分鐘週記</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>10分鐘週記-GIMP and Krita</title>
-    <url>/2022/07/17/10%E5%88%86%E9%90%98%E9%80%B1%E8%A8%98-4/</url>
-    <content><![CDATA[<p>給自己一個挑戰，10分鐘來完成紀錄一週大小事，簡短紀錄一下影像編輯和手繪的開放源碼工具:<br>1.GIMP<br>2.Krita</p>
-<h2 id="GIMP"><a href="#GIMP" class="headerlink" title="GIMP"></a>GIMP</h2><p>參考網址: <a href="https://docs.gimp.org/2.10/zh_CN/">GIMP使用指南</a></p>
-<h2 id="Krita"><a href="#Krita" class="headerlink" title="Krita"></a>Krita</h2><p>參考網址: <a href="https://docs.krita.org/zh_CN/user_manual.html">Krita使用指南</a></p>
-<p>剛好有AERY繪圖板搭配使用</p>
 ]]></content>
       <tags>
         <tag>10分鐘週記</tag>
@@ -230,23 +230,61 @@
       </tags>
   </entry>
   <entry>
-    <title>UBER EAT Milestone</title>
-    <url>/2022/07/24/UBER-EAT-Milestone/</url>
-    <content><![CDATA[<p><img src="/images/uber_1.jpg" title="10萬達成"></p>
-<h1 id="話說初衷"><a href="#話說初衷" class="headerlink" title="話說初衷"></a>話說初衷</h1><p>話說去年底檢討自己的開銷後，歷經約9個月的part-time生活，經過風吹日曬，把街頭送餐當作生活的一部分，也差不多到了一個里程碑。最初並沒有特別給自己太大的績效目標，主因是GOGORO有里程限制，因此每個月我只會拿出限制內的多餘里程數出來跑，當然次要原因也是畢竟這是體力活，雖然會增加收入但並非長久之計，打著貼補生活費的態度也是要來個反思，自己心裏訂下的目標就是10萬營收，就來個盤點驗收一下吧。</p>
-<h1 id="流水帳"><a href="#流水帳" class="headerlink" title="流水帳"></a>流水帳</h1><p>截至目前，總共外送訂單有1,320趟，收入為100,299，運送成本約11,305(包含電車月租費、電話費、罰單一張及各項外送用的硬體)。外送偶爾會比較敢進行消費(我想這是一種補償心態)，這部分就五花八門、琳瑯滿目(最大一筆開銷是母親節送的工學椅)，這部分大約花了9,367。<br>總結來說，大約還有78,000左右，以9個月來說，生活費大概回補了六成左右。</p>
-<h1 id="心得"><a href="#心得" class="headerlink" title="心得"></a>心得</h1><ul>
-<li>年初有個願望清單，關於要<em>打消平時2022生活開銷</em>這項應該是達成了，成功的自我實現。</li>
-<li>給沒打過工的我體驗人生的機會。</li>
-<li>自我觀察我大概一周出勤12小時，我就開始懷疑人生了，說到這點我真的很佩服可以跑六小時以上且每天持續的外送員。</li>
-<li>對身體影響上，對於陽光會感覺特別敏感，眼睛有變得容易疲勞而且下背部的血液循環變差。</li>
-<li>當結束外送時，身體疲憊像是加過班，導致休息容易不足的情況，滿常發生下班吃飽飯後就倒頭睡著。<h1 id="未來"><a href="#未來" class="headerlink" title="未來"></a>未來</h1></li>
-<li>這是一份收入不低的打工，但只能當作備胎，擺在第二順位。(渣男思維)</li>
-<li>思考一下這攢下來的78,000，能否再做有效利用</li>
+    <title>10分鐘週記-GIT指令參考</title>
+    <url>/2022/08/31/GIT%E6%8C%87%E4%BB%A4%E5%8F%83%E8%80%83/</url>
+    <content><![CDATA[<h2 id="GIT"><a href="#GIT" class="headerlink" title="GIT"></a>GIT</h2><hr>
+<p>參考網址: <a href="https://git-scm.com/book/zh-tw/v2/%E9%96%8B%E5%A7%8B-Git-%E5%9F%BA%E7%A4%8E%E8%A6%81%E9%BB%9E">GIT ebook</a></p>
+<p>GIT 已經紅滿久的，10年前對他的概念只知道是分散式的版控軟體，但對於實際上的分支系統設計並不清楚，官網的說明文件寫得滿有知識含量，值得一看<br>目前我只有看第2章Git基礎及第3章使用GIT分支，先把看到的指令做個剪貼本:</p>
+<ul>
+<li><p>檔案放置在有Working Directory(WD), Staging Area(預存區), .git repository(Repository)，三個區域</p>
+<table>
+<thead>
+<tr>
+<th>檔案狀態</th>
+<th></th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Modified</td>
+<td>檔案已經變更但是尚未存於本地端資料庫</td>
+</tr>
+<tr>
+<td>Staged</td>
+<td>已預存這檔案會被存在下次快照</td>
+</tr>
+<tr>
+<td>Commited</td>
+<td>已儲存至本地端(local)資料庫</td>
+</tr>
+</tbody></table>
+</li>
+<li><p>預存區實體是單一檔案</p>
+</li>
+<li><p>基本 Git流程，在工作目錄修改檔案；預存檔案並將快照新增至預存區；做提交動作，這會讓預存區的檔案快照永久存在Git目錄中</p>
+</li>
+<li><p>Git的分支模型和其他 (Version Control System, 以下簡稱VCS) 與眾不同的地方，便是每次新增的快照都會以”增加”存在，而並非以DIFF方式，大幅度降低本地資料庫故障機率。</p>
+</li>
+<li><p>單次提交的目錄結構(Tree)，也可視為快照，有使用SHA當雜湊碼物件識別</p>
+</li>
+<li><p>提交和親代提交的關係(注意master和HEAD指標意義)</p>
+</li>
+<li><p>Master是第一個建立的分支；HEAD並非像其他CVS下git branch指令會切換”目前”分支。</p>
+</li>
 </ul>
+<p>基礎指令(Command)</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">$ git init                                        //產出.git子資料夾，裡面有repository資料</span><br><span class="line">$ git add *.c                                     //加入.c檔</span><br><span class="line">$ git add LICENSE                                 //加入LICENSE檔</span><br><span class="line">$ git commit -m &#x27;initial project version&#x27;         //指定標籤並提交</span><br><span class="line">$ git clone https://github.com/libgit2/libgit2    //從遠端 repository clone一個回來</span><br><span class="line">$ git status –s                                   //簡潔的輸出方式</span><br><span class="line">$ cat .gitignore                                  //忽略不要的檔案，這邊會忽略.o .a的檔案</span><br><span class="line">*.[oa]</span><br><span class="line">*~</span><br><span class="line">$ git diff                                        //想瞭解尚未預存的修改</span><br><span class="line">$ git diff –staged                                //檢視你已經預存而接下來將會被提交的內容</span><br><span class="line">$ git commit                                      //提交修改</span><br><span class="line">$ git commit -a -m &#x27;added new benchmarks&#x27;         //使用指定訊息進行提交</span><br><span class="line">$ git rm PROJECTS.md                              //從預存區進行移除動作，同時會刪除工作目錄內資料</span><br><span class="line">$ git status                                      //確認衝突狀態</span><br><span class="line">$ git rm --cached README                          //保留工作目錄的檔案但是要從預存區刪除</span><br><span class="line">$ git mv file_from file_to                        //重新命名檔案(Git不會追蹤，但是還是會找出來)</span><br><span class="line">$ git remote                                      //顯示遠端，預設ORIGIN</span><br><span class="line">$ git remote -v                                   //顯示 Git 用來讀寫遠端簡稱時所用的網址</span><br><span class="line">$ git remote add pb https://github.com/paulboone/ticgit //git remote add &lt;簡稱&gt; &lt;url&gt;</span><br><span class="line">$ git fetch pb                                    //取得pb所有資訊</span><br><span class="line">$ git push origin master                          //git push [remote-name] [branch-name]。</span><br><span class="line">                                                  // master 分支推送到 origin 伺服器上時</span><br><span class="line">$ git remote show origin                          // git remote show [remote-name] </span><br><span class="line">$ git remote rename pb paul                       // git remote rename 來重新命名遠端的簡稱</span><br><span class="line">$ git tag                                         // 列出 Git 中所有標籤</span><br><span class="line">$ git tag -a v1.4 -m &quot;my version 1.4&quot;             //有註解的標籤</span><br><span class="line">$ git log --pretty=oneline                        //提交歷史</span><br><span class="line">$ git config --global alias.co checkout           //替指令設定別名</span><br></pre></td></tr></table></figure>
+
+<p>分支(Branch)</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">$ git add README test.rb LICENSE                       //add 到預存區</span><br><span class="line">$ git commit -m &#x27;The initial commit of my project&#x27;     //把預存區資料commit</span><br><span class="line">$ git branch testing                                   //建立分支testing</span><br><span class="line">$ git log --oneline –decorate                          //分支指標指向何處</span><br><span class="line">$ git checkout testing                                 //這條命令做了兩件事， 它把 HEAD 指標移回去並指向</span><br><span class="line">                                                       //master 分支，然後把工作目錄中的檔案換成 master </span><br><span class="line">                                                       //分支所指向的快照內容</span><br><span class="line">$ git log --oneline --decorate --graph –all            //它會印出你的提交歷史，顯示你的分支指標在哪裡，</span><br><span class="line">                                                       //以及歷史如何被分離開來</span><br><span class="line">$ git checkout -b hotfix                               //先創造一個新的分支(用來準備和master合併使用)</span><br><span class="line">$ git commit -a -m &#x27;fixed the broken email address&#x27;    //加入異動檔案並以指定標籤提交</span><br><span class="line">$ git checkout master                                  //切換至master</span><br><span class="line">$ git merge hotfix                                     //訊息中Fast-forward代表合併的提交可以直接往回</span><br><span class="line">                                                       //追溯歷史，因此實際上並不需要合併</span><br><span class="line">$ git branch -d hotfix                                 //不需要原本的hotfix了</span><br><span class="line">$ git checkout master                                  //切換至master</span><br><span class="line">$ git merge iss53                                      //訊息中出現recursive strategy</span><br><span class="line">                                                       //代表進行一次three-way merge</span><br><span class="line">$ git status                                           //確認衝突狀態</span><br><span class="line">                                                       //當merge時候出現合併衝突(merge conflict)便會暫停</span><br><span class="line">                                                       //等待解決衝突；此時衝突的檔案會出標記( &lt;&lt;&lt;&lt;&lt;&lt;&lt;、=======</span><br><span class="line">                                                       //和 &gt;&gt;&gt;&gt;&gt;&gt;&gt; )，當手動解決後，並git add</span><br><span class="line">                                                       //會將他們標記為已解決狀態</span><br><span class="line">$ git mergetool                                        //圖形化解決工具</span><br><span class="line">$ git push origin serverfix                            // git push &lt;remote&gt; &lt;branch&gt;</span><br><span class="line">$ git checkout -b sf origin/serverfix                  // git checkout -b [branch] [remotename]/[branch]</span><br><span class="line">$ git pull                                             // git fetch和 git merge 一併的意思</span><br><span class="line">$ git push origin --delete serverfix                   //刪除遠端分支</span><br></pre></td></tr></table></figure>
+
+<h2 id="Gitbook教學"><a href="#Gitbook教學" class="headerlink" title="Gitbook教學"></a>Gitbook教學</h2><hr>
+<p>參考網址: <a href="https://hackmd.io/@htlin222/gitbook-how">Gitbook教學</a></p>
+<h2 id="Cookies-and-Session差異"><a href="#Cookies-and-Session差異" class="headerlink" title="Cookies and Session差異"></a>Cookies and Session差異</h2><hr>
+<p>參考網址: <a href="https://medium.com/tsungs-blog/day14-session%E8%88%87cookie%E5%B7%AE%E5%88%A5-eb7b4035a382">Cookies and Session差異</a></p>
 ]]></content>
       <tags>
-        <tag>UBER EATS</tag>
+        <tag>10分鐘週記</tag>
+        <tag>GIT</tag>
       </tags>
   </entry>
   <entry>
@@ -284,6 +322,26 @@
 ]]></content>
       <tags>
         <tag>RESTful API</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>UBER EAT Milestone</title>
+    <url>/2022/07/24/UBER-EAT-Milestone/</url>
+    <content><![CDATA[<p><img src="/images/uber_1.jpg" title="10萬達成"></p>
+<h1 id="話說初衷"><a href="#話說初衷" class="headerlink" title="話說初衷"></a>話說初衷</h1><p>話說去年底檢討自己的開銷後，歷經約9個月的part-time生活，經過風吹日曬，把街頭送餐當作生活的一部分，也差不多到了一個里程碑。最初並沒有特別給自己太大的績效目標，主因是GOGORO有里程限制，因此每個月我只會拿出限制內的多餘里程數出來跑，當然次要原因也是畢竟這是體力活，雖然會增加收入但並非長久之計，打著貼補生活費的態度也是要來個反思，自己心裏訂下的目標就是10萬營收，就來個盤點驗收一下吧。</p>
+<h1 id="流水帳"><a href="#流水帳" class="headerlink" title="流水帳"></a>流水帳</h1><p>截至目前，總共外送訂單有1,320趟，收入為100,299，運送成本約11,305(包含電車月租費、電話費、罰單一張及各項外送用的硬體)。外送偶爾會比較敢進行消費(我想這是一種補償心態)，這部分就五花八門、琳瑯滿目(最大一筆開銷是母親節送的工學椅)，這部分大約花了9,367。<br>總結來說，大約還有78,000左右，以9個月來說，生活費大概回補了六成左右。</p>
+<h1 id="心得"><a href="#心得" class="headerlink" title="心得"></a>心得</h1><ul>
+<li>年初有個願望清單，關於要<em>打消平時2022生活開銷</em>這項應該是達成了，成功的自我實現。</li>
+<li>給沒打過工的我體驗人生的機會。</li>
+<li>自我觀察我大概一周出勤12小時，我就開始懷疑人生了，說到這點我真的很佩服可以跑六小時以上且每天持續的外送員。</li>
+<li>對身體影響上，對於陽光會感覺特別敏感，眼睛有變得容易疲勞而且下背部的血液循環變差。</li>
+<li>當結束外送時，身體疲憊像是加過班，導致休息容易不足的情況，滿常發生下班吃飽飯後就倒頭睡著。<h1 id="未來"><a href="#未來" class="headerlink" title="未來"></a>未來</h1></li>
+<li>這是一份收入不低的打工，但只能當作備胎，擺在第二順位。(渣男思維)</li>
+<li>思考一下這攢下來的78,000，能否再做有效利用</li>
+</ul>
+]]></content>
+      <tags>
+        <tag>UBER EATS</tag>
       </tags>
   </entry>
   <entry>
@@ -586,6 +644,17 @@
 ]]></content>
   </entry>
   <entry>
+    <title>健康注意事項</title>
+    <url>/2022/08/17/%E5%81%A5%E5%BA%B7%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A0%85/</url>
+    <content><![CDATA[<h2 id="單側耳鳴"><a href="#單側耳鳴" class="headerlink" title="單側耳鳴"></a>單側耳鳴</h2><p>提醒自己:偶爾耳鳴不要緊，若是持續加重則需要趕緊檢查，很多都是重症，就診方式可先到診所看再請他開轉診單(這樣會比較省錢而且也符合健保精神)。</p>
+<h2 id="症狀出現"><a href="#症狀出現" class="headerlink" title="症狀出現"></a>症狀出現</h2><p>先說明一下背景，必須承認一下，我的作息並不算正常，常撐到凌晨入眠，雖早上8點起床，平時在公司靠茶飲提神。<br>恰逢週日開始看手機影片時，突然耳朵開始出現回聲，立馬覺得不行，除了出門慢跑一下外，晚上雖然有想早點睡，但當晚似乎是太亢奮，我只記得反覆都在作夢。次日，碰到上班日騎摩托車的時候，覺得精神不好外，耳朵旁的聲音似乎像是左右不同步，導致我頭很脹，耳朵轟隆轟隆叫。<br>早上工作中發現不對勁，緊急返家並到診所掛號拿藥，由於公司仍有案子正在忙，稍作休息下午還是到公司上班。除了頭脹外，印象很深刻是女聲在我的右耳會有變聲的感覺(應該是回音共鳴)，在辦公室環境還算是可以忍受，我最不能忍受是走在馬路上車水馬龍的摩托車引擎聲。<br>想當然爾，我先把醫師的藥單看一遍；另外該症狀可能的原因也查一遍，由於常聽到找不出病因的狀態，這邊分享網路上病友的原則，「<strong>西醫主要是檢查，排除某些重大疾病導致的情況，原則上都得靠自己身體修復，因此可以改以中醫調理身體的角度來看待</strong>」<br>由於到晚上還沒好，而且我的症狀比較像耳咽管開放症，確切原因不清楚，因此當晚到診所再詢問一次意見並請醫生開轉診單，想做進一步檢查。<br>雖然很慌張，後續是打算先把醫師開的三天藥吃完後再說，應該還是會去教學醫院檢查一次。</p>
+<h2 id="症狀出現後第三日"><a href="#症狀出現後第三日" class="headerlink" title="症狀出現後第三日"></a>症狀出現後第三日</h2><p>症狀每天睡醒之後都有逐步減輕，自我觀察我身體上除了耳朵不舒服的狀況外，伴隨右邊肩膀一路延伸到右後腦杓都產生緊繃劇痛感，臉部肌肉也很沒有力氣。<br>這期間我做的就是睡足，吃的部分就是每天奇異果或者富士蘋果，正餐保持少油且增加好的蛋白質來源，比較特別的是由於中醫提到耳鳴都會順便講到腎虛，因此每天來蚵仔或蛤蜊湯，另外強化水分攝取，保持鼻腔的濕潤。<br>每天河堤快走流汗一下，腹式呼吸法讓自己身體的氣可以順暢點(畢竟平常都戴著口罩)，運動同時要同時擺手，有點像是太極，口訣是:想像一下自己很像大海，雙臂是海浪。<br>按摩可以用手常按虎口(對腸胃)和風池穴(頭部血液循環)讓自體循環好一點。<br>雖然還沒完全好，但我覺得和過度疲勞脫離不了關係，過度疲勞也是也是自律神經失調，氣血不順身體並不聽從指揮。<br>希望這次不要有後遺症!!</p>
+]]></content>
+      <tags>
+        <tag>健康</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>健康體重</title>
     <url>/2022/07/16/%E5%81%A5%E5%BA%B7%E9%AB%94%E9%87%8D/</url>
     <content><![CDATA[<p>今天站在體重計上測量，我距離上次測量增加了兩公斤，BMI已經到25.6，過重的型態，或許是近期天熱我迷上雪花冰及中元節有好多零食都在特價，導致最近我覺得精神倦怠、容易累，看來需要注意一下自己的身體狀況，擬定一下計畫(即日起開始實施)。</p>
@@ -635,6 +704,17 @@
 <li>NENE chicken - 韓國最有名的連鎖店，每一種口味有500g和1000g，也有兩種口味混和的1000g。</li>
 <li>林文必涼麵 - 雞排類千萬不要點，我點120的套餐，涼麵確實不錯，湯品和配菜普通，雞排卻有點雷。</li>
 </ol>
+]]></content>
+      <tags>
+        <tag>心情</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>夏天熱過頭了</title>
+    <url>/2022/08/06/%E5%A4%8F%E5%A4%A9%E7%86%B1%E9%81%8E%E9%A0%AD%E4%BA%86/</url>
+    <content><![CDATA[<p>夏天中午前往餐廳的路上，熱浪讓我感到酷暑威力，難道是我獨有的感受?在外奔波的生意人、出遠洋的討海人、挑戰自我極限的山友或許會消遣我吧：「小CASE這還不是最熱，且還有偶爾的對流雨消暑」。<br>熱著熱著…<br>想起大暑過後，非經濟因素襲擾股市，臨時專案也是破壞我的生活步調，下周要連續加班了!!承辦人做事心法:分析規劃、工作分配、管理進度、保持溝通。</p>
+<p>Far Oasis<br>綠洲雖然遙遠，終將近矣</p>
+<p>YYES<br>!! 講著同時，餐廳到了，今天要點什麼呢?</p>
 ]]></content>
       <tags>
         <tag>心情</tag>
@@ -732,28 +812,6 @@
       <tags>
         <tag>筆記</tag>
         <tag>資訊安全</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>夏天熱過頭了</title>
-    <url>/2022/08/06/%E5%A4%8F%E5%A4%A9%E7%86%B1%E9%81%8E%E9%A0%AD%E4%BA%86/</url>
-    <content><![CDATA[<p>夏天中午前往餐廳的路上，熱浪讓我感到酷暑威力，難道是我獨有的感受?在外奔波的生意人、出遠洋的討海人、挑戰自我極限的山友或許會消遣我吧：「小CASE這還不是最熱，且還有偶爾的對流雨消暑」。<br>熱著熱著…<br>想起大暑過後，非經濟因素襲擾股市，臨時專案也是破壞我的生活步調，下周要連續加班了!!承辦人做事心法:分析規劃、工作分配、管理進度、保持溝通。</p>
-<p>Far Oasis<br>綠洲雖然遙遠，終將近矣</p>
-<p>YYES<br>!! 講著同時，餐廳到了，今天要點什麼呢?</p>
-]]></content>
-      <tags>
-        <tag>心情</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>健康注意事項</title>
-    <url>/2022/08/17/%E5%81%A5%E5%BA%B7%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A0%85/</url>
-    <content><![CDATA[<h2 id="單側耳鳴"><a href="#單側耳鳴" class="headerlink" title="單側耳鳴"></a>單側耳鳴</h2><p>提醒自己:偶爾耳鳴不要緊，若是持續加重則需要趕緊檢查，很多都是重症，就診方式可先到診所看再請他開轉診單(這樣會比較省錢而且也符合健保精神)。</p>
-<h2 id="症狀出現"><a href="#症狀出現" class="headerlink" title="症狀出現"></a>症狀出現</h2><p>先說明一下背景，必須承認一下，我的作息並不算正常，常撐到凌晨入眠，雖早上8點起床，平時在公司靠茶飲提神。<br>恰逢週日開始看手機影片時，突然耳朵開始出現回聲，立馬覺得不行，除了出門慢跑一下外，晚上雖然有想早點睡，但當晚似乎是太亢奮，我只記得反覆都在作夢。次日，碰到上班日騎摩托車的時候，覺得精神不好外，耳朵旁的聲音似乎像是左右不同步，導致我頭很脹，耳朵轟隆轟隆叫。<br>早上工作中發現不對勁，緊急返家並到診所掛號拿藥，由於公司仍有案子正在忙，稍作休息下午還是到公司上班。除了頭脹外，印象很深刻是女聲在我的右耳會有變聲的感覺(應該是回音共鳴)，在辦公室環境還算是可以忍受，我最不能忍受是走在馬路上車水馬龍的摩托車引擎聲。<br>想當然爾，我先把醫師的藥單看一遍；另外該症狀可能的原因也查一遍，由於常聽到找不出病因的狀態，這邊分享網路上病友的原則，「<strong>西醫主要是檢查，排除某些重大疾病導致的情況，原則上都得靠自己身體修復，因此可以改以中醫調理身體的角度來看待</strong>」<br>由於到晚上還沒好，而且我的症狀比較像耳咽管開放症，確切原因不清楚，因此當晚到診所再詢問一次意見並請醫生開轉診單，想做進一步檢查。<br>雖然很慌張，後續是打算先把醫師開的三天藥吃完後再說，應該還是會去教學醫院檢查一次。</p>
-<h2 id="症狀出現後第三日"><a href="#症狀出現後第三日" class="headerlink" title="症狀出現後第三日"></a>症狀出現後第三日</h2><p>症狀每天睡醒之後都有逐步減輕，自我觀察我身體上除了耳朵不舒服的狀況外，伴隨右邊肩膀一路延伸到右後腦杓都產生緊繃劇痛感，臉部肌肉也很沒有力氣。<br>這期間我做的就是睡足，吃的部分就是每天奇異果或者富士蘋果，正餐保持少油且增加好的蛋白質來源，比較特別的是由於中醫提到耳鳴都會順便講到腎虛，因此每天來蚵仔或蛤蜊湯，另外強化水分攝取，保持鼻腔的濕潤。<br>每天河堤快走流汗一下，腹式呼吸法讓自己身體的氣可以順暢點(畢竟平常都戴著口罩)，運動同時要同時擺手，有點像是太極，口訣是:想像一下自己很像大海，雙臂是海浪。<br>按摩可以用手常按虎口(對腸胃)和風池穴(頭部血液循環)讓自體循環好一點。<br>雖然還沒完全好，但我覺得和過度疲勞脫離不了關係，過度疲勞也是也是自律神經失調，氣血不順身體並不聽從指揮。<br>希望這次不要有後遺症!!</p>
-]]></content>
-      <tags>
-        <tag>健康</tag>
       </tags>
   </entry>
 </search>
