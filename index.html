@@ -112,7 +112,7 @@
     
     
     <article
-  id="post-十分鐘週記-SFTP研究番外篇"
+  id="post-10分鐘週記-SFTP研究番外篇"
   class="article article-type-post"
   itemscope
   itemprop="blogPost"
@@ -123,8 +123,8 @@
     <header class="article-header">
        
 <h2 itemprop="name">
-  <a class="article-title" href="/2022/12/14/%E5%8D%81%E5%88%86%E9%90%98%E9%80%B1%E8%A8%98-SFTP%E7%A0%94%E7%A9%B6%E7%95%AA%E5%A4%96%E7%AF%87/"
-    >十分鐘週記 - SFTP研究番外篇</a> 
+  <a class="article-title" href="/2022/12/14/10%E5%88%86%E9%90%98%E9%80%B1%E8%A8%98-SFTP%E7%A0%94%E7%A9%B6%E7%95%AA%E5%A4%96%E7%AF%87/"
+    >10分鐘週記 - SFTP研究番外篇</a> 
 </h2>
  
 
@@ -132,14 +132,28 @@
     </header>
      
     <div class="article-meta">
-      <a href="/2022/12/14/%E5%8D%81%E5%88%86%E9%90%98%E9%80%B1%E8%A8%98-SFTP%E7%A0%94%E7%A9%B6%E7%95%AA%E5%A4%96%E7%AF%87/" class="article-date">
+      <a href="/2022/12/14/10%E5%88%86%E9%90%98%E9%80%B1%E8%A8%98-SFTP%E7%A0%94%E7%A9%B6%E7%95%AA%E5%A4%96%E7%AF%87/" class="article-date">
   <time datetime="2022-12-14T15:30:20.000Z" itemprop="datePublished">2022-12-14</time>
 </a>    
     </div>
       
     <div class="article-entry" itemprop="articleBody">
        
-   
+  <h2 id="SFTP番外篇"><a href="#SFTP番外篇" class="headerlink" title="SFTP番外篇"></a>SFTP番外篇</h2><p>近期主要因為需要研究SFTP SERVER而起，SFTP(SSH File Transfer Protocol AKA. Secure FTP)，主要是透過SSH登入作業時，會進行加密，使得竊聽者無法竊取密碼<br>主要對話通道會進行作業</p>
+<ul>
+<li>建立和終止階段作業</li>
+<li>識別、導覽和列出目錄的內容</li>
+<li>將檔案移入&#x2F;移出目錄及在目錄內移動檔案</li>
+<li>刪除檔案</li>
+</ul>
+<p>實務上，SSH(port22)也常用來取代telnet，他可以透過產生SSH host key pair的方式，透過提供SERVER public key 取代密碼進行登入，且無有效期限設計，不用每次都需要輸入密碼<br>產生的金耀，用工具讀取需要輸入的密碼稱之 passphrase</p>
+<p>番外篇，大部分都在研究CRUSHFTP操作時產生的疑惑<br>主要就是些五花八門的關鍵疑惑，還是列舉一下:</p>
+<h3 id="PUTTY-SSH-教學"><a href="#PUTTY-SSH-教學" class="headerlink" title="PUTTY SSH 教學"></a>PUTTY SSH 教學</h3><p>參考網址: <a target="_blank" rel="noopener" href="https://www.liquidweb.com/kb/putty-ssh-keys/">PUTTY SSH 教學</a></p>
+<h3 id="JAR-如何執行"><a href="#JAR-如何執行" class="headerlink" title="JAR 如何執行?"></a>JAR 如何執行?</h3><p>參考網址: <a target="_blank" rel="noopener" href="https://openhome.cc/Gossip/JavaGossip-V2/ExecutableJAR.htm">JAR 如何執行?</a></p>
+<h3 id="PGP-Pretty-Good-Privacy-應用"><a href="#PGP-Pretty-Good-Privacy-應用" class="headerlink" title="PGP(Pretty Good Privacy)應用"></a>PGP(Pretty Good Privacy)應用</h3><p>PGP 常應用於Email情境，混合應用的場景，如下圖，對稱式加密速度較快，把session key加密[資料]，並把[加密資料]和 [公鑰加密session key] 合併成 傳送訊息。<br>參考網址: <a target="_blank" rel="noopener" href="https://www.encryptionconsulting.com/how-to-generate-pgp-key-pair/">PGP應用</a></p>
+<h3 id="DMZ"><a href="#DMZ" class="headerlink" title="DMZ"></a>DMZ</h3><p>主要是用來隔離內部主機提供給外部服務，做一個區隔(介於內部網路及外部網路間的網段)，對內外都有防火牆區隔，類似大樓管理員，協助住家轉信，對於外部而言，大家只認得大樓住址<br>參考網址: <a target="_blank" rel="noopener" href="https://ithelp.ithome.com.tw/questions/10188598">DMZ</a></p>
+<h3 id="數位簽章與憑證"><a href="#數位簽章與憑證" class="headerlink" title="數位簽章與憑證"></a>數位簽章與憑證</h3><h2 id="數位簽章-DS-Digital-Signature"><a href="#數位簽章-DS-Digital-Signature" class="headerlink" title="數位簽章(DS, Digital Signature)"></a>數位簽章(DS, Digital Signature)</h2><p>傳送端本質上是透過hash訊息的方式計算出hash值，將hash加密後變成[數位簽章]和[訊息]傳送給接收端;接收端則將[訊息]和[數位簽章]分離，針對[數位簽章]進行解密，得到hash值，和[訊息]計算出來的hash值進行比對得知其完整性<br>實務上，傳送與接收，會將資料和數位簽章再次進行加密<br>參考網址: <a target="_blank" rel="noopener" href="http://www.tsnien.idv.tw/Security_WebBook/%E7%AC%AC%E4%B8%83%E7%AB%A0%20%E6%95%B8%E4%BD%8D%E7%B0%BD%E7%AB%A0%E8%88%87%E6%95%B8%E4%BD%8D%E6%86%91%E8%AD%89.html">數位簽章與憑證</a></p>
+ 
       <!-- reward -->
       
     </div>
@@ -149,6 +163,8 @@
     
     <footer class="article-footer">
        
+  <ul class="article-tag-list" itemprop="keywords"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/10%E5%88%86%E9%90%98%E9%80%B1%E8%A8%98/" rel="tag">10分鐘週記</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/SFTP/" rel="tag">SFTP</a></li></ul>
+
     </footer>
   </div>
 
