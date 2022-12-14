@@ -68,6 +68,30 @@
       </tags>
   </entry>
   <entry>
+    <title>10分鐘週記 - SFTP研究番外篇</title>
+    <url>/2022/12/14/10%E5%88%86%E9%90%98%E9%80%B1%E8%A8%98-SFTP%E7%A0%94%E7%A9%B6%E7%95%AA%E5%A4%96%E7%AF%87/</url>
+    <content><![CDATA[<h2 id="SFTP番外篇"><a href="#SFTP番外篇" class="headerlink" title="SFTP番外篇"></a>SFTP番外篇</h2><p>近期主要因為需要研究SFTP SERVER而起，SFTP(SSH File Transfer Protocol AKA. Secure FTP)，主要是透過SSH登入作業時，會進行加密，使得竊聽者無法竊取密碼<br>主要對話通道會進行作業</p>
+<ul>
+<li>建立和終止階段作業</li>
+<li>識別、導覽和列出目錄的內容</li>
+<li>將檔案移入&#x2F;移出目錄及在目錄內移動檔案</li>
+<li>刪除檔案</li>
+</ul>
+<p>實務上，SSH(port22)也常用來取代telnet，他可以透過產生SSH host key pair的方式，透過提供SERVER public key 取代密碼進行登入，且無有效期限設計，不用每次都需要輸入密碼<br>產生的金耀，用工具讀取需要輸入的密碼稱之 passphrase</p>
+<p>番外篇，大部分都在研究 CRUSHFTP 額外產生網路搜尋的<br>疑惑彼此沒直接關聯性，雖然很跳TONE，還是列舉一下:</p>
+<h3 id="PUTTY-SSH-教學"><a href="#PUTTY-SSH-教學" class="headerlink" title="PUTTY SSH 教學"></a>PUTTY SSH 教學</h3><p>有自己安裝 ubuntu ssh server 驗證過，但僅先用root測試<br>參考網址: <a href="https://www.liquidweb.com/kb/putty-ssh-keys/">PUTTY SSH 教學</a><br>下載連結: <a href="https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html">putty</a></p>
+<h3 id="JAR-如何執行"><a href="#JAR-如何執行" class="headerlink" title="JAR 如何執行?"></a>JAR 如何執行?</h3><p>參考網址: <a href="https://openhome.cc/Gossip/JavaGossip-V2/ExecutableJAR.htm">JAR 如何執行?</a></p>
+<h3 id="PGP-Pretty-Good-Privacy-應用"><a href="#PGP-Pretty-Good-Privacy-應用" class="headerlink" title="PGP(Pretty Good Privacy)應用"></a>PGP(Pretty Good Privacy)應用</h3><p>PGP 常應用於Email情境，混合應用的場景，如下圖，對稱式加密速度較快，把session key加密[資料]，並把[加密資料]和 [公鑰加密session key] 合併成 傳送訊息。<br>參考網址: <a href="https://www.encryptionconsulting.com/how-to-generate-pgp-key-pair/">PGP應用</a></p>
+<h3 id="DMZ"><a href="#DMZ" class="headerlink" title="DMZ"></a>DMZ</h3><p>主要是用來隔離內部主機提供給外部服務，做一個區隔(介於內部網路及外部網路間的網段)，對內外都有防火牆區隔，類似大樓管理員，協助住家轉信，對於外部而言，大家只認得大樓住址<br>參考網址: <a href="https://ithelp.ithome.com.tw/questions/10188598">DMZ</a></p>
+<h3 id="數位簽章與憑證"><a href="#數位簽章與憑證" class="headerlink" title="數位簽章與憑證"></a>數位簽章與憑證</h3><p>數位簽章(DS, Digital Signature)<br>傳送端本質上是透過hash<code>[訊息]</code>的方式計算出hash值，將hash加密後變成<code>[數位簽章]</code>和<code>[訊息]</code>傳送給接收端;接收端則將<code>[訊息]</code>和<code>[數位簽章]</code>分離，針對<code>[數位簽章]</code>進行解密，得hash值，和<code>[訊息]</code>計算出來的hash值進行比對得知其<strong>完整性</strong>及<strong>不可否認性</strong><br>實務上，傳送與接收，會將資料和數位簽章再次進行加密</p>
+<p>數位憑證(Digital Certificate)<br>概念上是一種由公信力機構發行的證明文件，說白一點就是記載姓名、地址、電子郵件、公鑰，並且具有有效期限，概念上與身分證件一樣，對於擁有者來說，CA(憑證授權)中心會負責賦予公鑰與私鑰，並提供公鑰公信力，取得信任。<br>參考網址: <a href="http://www.tsnien.idv.tw/Security_WebBook/%E7%AC%AC%E4%B8%83%E7%AB%A0%20%E6%95%B8%E4%BD%8D%E7%B0%BD%E7%AB%A0%E8%88%87%E6%95%B8%E4%BD%8D%E6%86%91%E8%AD%89.html">數位簽章與憑證</a></p>
+]]></content>
+      <tags>
+        <tag>10分鐘週記</tag>
+        <tag>SFTP</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>10分鐘週記-大暑過後</title>
     <url>/2022/09/04/10%E5%88%86%E9%90%98%E9%80%B1%E8%A8%98-%E5%A4%A7%E6%9A%91%E9%81%8E%E5%BE%8C/</url>
     <content><![CDATA[<p><img src="/images/remind.png" title="提醒"></p>
@@ -128,6 +152,31 @@
 ]]></content>
       <tags>
         <tag>10分鐘週記</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>10分鐘週記-投資觀念筆記</title>
+    <url>/2022/07/29/10%E5%88%86%E9%90%98%E9%80%B1%E8%A8%98-%E6%8A%95%E8%B3%87%E8%A7%80%E5%BF%B5%E7%AD%86%E8%A8%98/</url>
+    <content><![CDATA[<p>給自己一個挑戰，10分鐘來完成紀錄一週大小事。談起投資觀念，一開始是看財經電視台、各大分析師、Youtuber…等介紹學習，後來，通常是不懂什麼上網查，查詢資料常會搜尋到blogger的介紹，這種網站的特性都是主題式導向的介紹，不太可能系統性的教學，大多只到應用層面。常見的技術分析和籌碼，面對面我都無法以條理明確說明，那我應該無法運用自如，充其量我只能稱是不懂與懂之間徘徊的股市小白。</p>
+<p>路雖很遠，但還是要慢慢靠攏ＰＲＯ，至少要講一口好投資（噗～～），因此來彙整瞥到的股市知識點，給自己備忘</p>
+<p>（參考網站內部都有些文章可以學習，但熟悉的我就不列出備忘）</p>
+<h2 id="投資觀念筆記-妮可要投資"><a href="#投資觀念筆記-妮可要投資" class="headerlink" title="投資觀念筆記-妮可要投資"></a>投資觀念筆記-妮可要投資</h2><hr>
+<p>參考網址: <a href="https://nico-invest.com/2020/07/06/calendar/">妮可要投資</a></p>
+<ul>
+<li>均線扣抵：假設MA5(五日移動平均線)，扣抵值為最舊的一天，最新的一天若超過扣抵值，均線就會向上移動；反之亦然。各類型均線扣抵值都可以這樣解釋，這可以用來推定未來均線的走向。</li>
+<li>當紅K出現但籌碼主要為自營商(避險)購買，有可能會發生隔日沖情況。</li>
+<li>多頭排列 ： 股價&gt;短期均線&gt;中期均線&gt;長期均線</li>
+<li>空頭排列 ： 股價&lt;短期均線&lt;中期均線&lt;長期均線</li>
+<li>短均帶動長均、長均保護短均</li>
+<li>內盤 ： 想買進股票掛的價格</li>
+<li>外盤 ： 想賣出股票掛的價格</li>
+<li>交易成本: 股票價金 * 0.1425(手續費,買和賣都要收一次); 股票價金 * 0.004(證交稅,賣出時收)</li>
+<li>不得不說圖超會畫，股市行事曆畫得很清楚</li>
+</ul>
+]]></content>
+      <tags>
+        <tag>10分鐘週記</tag>
+        <tag>股市</tag>
       </tags>
   </entry>
   <entry>
@@ -275,26 +324,6 @@
       </tags>
   </entry>
   <entry>
-    <title>UBER EAT Milestone</title>
-    <url>/2022/07/24/UBER-EAT-Milestone/</url>
-    <content><![CDATA[<p><img src="/images/uber_1.jpg" title="10萬達成"></p>
-<h1 id="話說初衷"><a href="#話說初衷" class="headerlink" title="話說初衷"></a>話說初衷</h1><p>話說去年底檢討自己的開銷後，歷經約9個月的part-time生活，經過風吹日曬，把街頭送餐當作生活的一部分，也差不多到了一個里程碑。最初並沒有特別給自己太大的績效目標，主因是GOGORO有里程限制，因此每個月我只會拿出限制內的多餘里程數出來跑，當然次要原因也是畢竟這是體力活，雖然會增加收入但並非長久之計，打著貼補生活費的態度也是要來個反思，自己心裏訂下的目標就是10萬營收，就來個盤點驗收一下吧。</p>
-<h1 id="流水帳"><a href="#流水帳" class="headerlink" title="流水帳"></a>流水帳</h1><p>截至目前，總共外送訂單有1,320趟，收入為100,299，運送成本約11,305(包含電車月租費、電話費、罰單一張及各項外送用的硬體)。外送偶爾會比較敢進行消費(我想這是一種補償心態)，這部分就五花八門、琳瑯滿目(最大一筆開銷是母親節送的工學椅)，這部分大約花了9,367。<br>總結來說，大約還有78,000左右，以9個月來說，生活費大概回補了六成左右。</p>
-<h1 id="心得"><a href="#心得" class="headerlink" title="心得"></a>心得</h1><ul>
-<li>年初有個願望清單，關於要<em>打消平時2022生活開銷</em>這項應該是達成了，成功的自我實現。</li>
-<li>給沒打過工的我體驗人生的機會。</li>
-<li>自我觀察我大概一周出勤12小時，我就開始懷疑人生了，說到這點我真的很佩服可以跑六小時以上且每天持續的外送員。</li>
-<li>對身體影響上，對於陽光會感覺特別敏感，眼睛有變得容易疲勞而且下背部的血液循環變差。</li>
-<li>當結束外送時，身體疲憊像是加過班，導致休息容易不足的情況，滿常發生下班吃飽飯後就倒頭睡著。<h1 id="未來"><a href="#未來" class="headerlink" title="未來"></a>未來</h1></li>
-<li>這是一份收入不低的打工，但只能當作備胎，擺在第二順位。(渣男思維)</li>
-<li>思考一下這攢下來的78,000，能否再做有效利用</li>
-</ul>
-]]></content>
-      <tags>
-        <tag>UBER EATS</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>RESTful API</title>
     <url>/2022/07/09/RESTful-API/</url>
     <content><![CDATA[<h2 id="HTTP-基礎知識"><a href="#HTTP-基礎知識" class="headerlink" title="HTTP 基礎知識"></a>HTTP 基礎知識</h2><hr>
@@ -329,6 +358,26 @@
 ]]></content>
       <tags>
         <tag>RESTful API</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>UBER EAT Milestone</title>
+    <url>/2022/07/24/UBER-EAT-Milestone/</url>
+    <content><![CDATA[<p><img src="/images/uber_1.jpg" title="10萬達成"></p>
+<h1 id="話說初衷"><a href="#話說初衷" class="headerlink" title="話說初衷"></a>話說初衷</h1><p>話說去年底檢討自己的開銷後，歷經約9個月的part-time生活，經過風吹日曬，把街頭送餐當作生活的一部分，也差不多到了一個里程碑。最初並沒有特別給自己太大的績效目標，主因是GOGORO有里程限制，因此每個月我只會拿出限制內的多餘里程數出來跑，當然次要原因也是畢竟這是體力活，雖然會增加收入但並非長久之計，打著貼補生活費的態度也是要來個反思，自己心裏訂下的目標就是10萬營收，就來個盤點驗收一下吧。</p>
+<h1 id="流水帳"><a href="#流水帳" class="headerlink" title="流水帳"></a>流水帳</h1><p>截至目前，總共外送訂單有1,320趟，收入為100,299，運送成本約11,305(包含電車月租費、電話費、罰單一張及各項外送用的硬體)。外送偶爾會比較敢進行消費(我想這是一種補償心態)，這部分就五花八門、琳瑯滿目(最大一筆開銷是母親節送的工學椅)，這部分大約花了9,367。<br>總結來說，大約還有78,000左右，以9個月來說，生活費大概回補了六成左右。</p>
+<h1 id="心得"><a href="#心得" class="headerlink" title="心得"></a>心得</h1><ul>
+<li>年初有個願望清單，關於要<em>打消平時2022生活開銷</em>這項應該是達成了，成功的自我實現。</li>
+<li>給沒打過工的我體驗人生的機會。</li>
+<li>自我觀察我大概一周出勤12小時，我就開始懷疑人生了，說到這點我真的很佩服可以跑六小時以上且每天持續的外送員。</li>
+<li>對身體影響上，對於陽光會感覺特別敏感，眼睛有變得容易疲勞而且下背部的血液循環變差。</li>
+<li>當結束外送時，身體疲憊像是加過班，導致休息容易不足的情況，滿常發生下班吃飽飯後就倒頭睡著。<h1 id="未來"><a href="#未來" class="headerlink" title="未來"></a>未來</h1></li>
+<li>這是一份收入不低的打工，但只能當作備胎，擺在第二順位。(渣男思維)</li>
+<li>思考一下這攢下來的78,000，能否再做有效利用</li>
+</ul>
+]]></content>
+      <tags>
+        <tag>UBER EATS</tag>
       </tags>
   </entry>
   <entry>
@@ -525,31 +574,6 @@
       </tags>
   </entry>
   <entry>
-    <title>10分鐘週記-投資觀念筆記</title>
-    <url>/2022/07/29/10%E5%88%86%E9%90%98%E9%80%B1%E8%A8%98-%E6%8A%95%E8%B3%87%E8%A7%80%E5%BF%B5%E7%AD%86%E8%A8%98/</url>
-    <content><![CDATA[<p>給自己一個挑戰，10分鐘來完成紀錄一週大小事。談起投資觀念，一開始是看財經電視台、各大分析師、Youtuber…等介紹學習，後來，通常是不懂什麼上網查，查詢資料常會搜尋到blogger的介紹，這種網站的特性都是主題式導向的介紹，不太可能系統性的教學，大多只到應用層面。常見的技術分析和籌碼，面對面我都無法以條理明確說明，那我應該無法運用自如，充其量我只能稱是不懂與懂之間徘徊的股市小白。</p>
-<p>路雖很遠，但還是要慢慢靠攏ＰＲＯ，至少要講一口好投資（噗～～），因此來彙整瞥到的股市知識點，給自己備忘</p>
-<p>（參考網站內部都有些文章可以學習，但熟悉的我就不列出備忘）</p>
-<h2 id="投資觀念筆記-妮可要投資"><a href="#投資觀念筆記-妮可要投資" class="headerlink" title="投資觀念筆記-妮可要投資"></a>投資觀念筆記-妮可要投資</h2><hr>
-<p>參考網址: <a href="https://nico-invest.com/2020/07/06/calendar/">妮可要投資</a></p>
-<ul>
-<li>均線扣抵：假設MA5(五日移動平均線)，扣抵值為最舊的一天，最新的一天若超過扣抵值，均線就會向上移動；反之亦然。各類型均線扣抵值都可以這樣解釋，這可以用來推定未來均線的走向。</li>
-<li>當紅K出現但籌碼主要為自營商(避險)購買，有可能會發生隔日沖情況。</li>
-<li>多頭排列 ： 股價&gt;短期均線&gt;中期均線&gt;長期均線</li>
-<li>空頭排列 ： 股價&lt;短期均線&lt;中期均線&lt;長期均線</li>
-<li>短均帶動長均、長均保護短均</li>
-<li>內盤 ： 想買進股票掛的價格</li>
-<li>外盤 ： 想賣出股票掛的價格</li>
-<li>交易成本: 股票價金 * 0.1425(手續費,買和賣都要收一次); 股票價金 * 0.004(證交稅,賣出時收)</li>
-<li>不得不說圖超會畫，股市行事曆畫得很清楚</li>
-</ul>
-]]></content>
-      <tags>
-        <tag>10分鐘週記</tag>
-        <tag>股市</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>UBER EAT 趟數焦慮</title>
     <url>/2022/07/04/UBER-EAT-%E8%B6%9F%E6%95%B8%E7%84%A6%E6%85%AE/</url>
     <content><![CDATA[<h1 id="趟數焦慮"><a href="#趟數焦慮" class="headerlink" title="趟數焦慮"></a>趟數焦慮</h1><blockquote>
@@ -638,17 +662,6 @@
       </tags>
   </entry>
   <entry>
-    <title>健康注意事項</title>
-    <url>/2022/08/17/%E5%81%A5%E5%BA%B7%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A0%85/</url>
-    <content><![CDATA[<h2 id="單側耳鳴"><a href="#單側耳鳴" class="headerlink" title="單側耳鳴"></a>單側耳鳴</h2><p>提醒自己:偶爾耳鳴不要緊，若是持續加重則需要趕緊檢查，很多都是重症，就診方式可先到診所看再請他開轉診單(這樣會比較省錢而且也符合健保精神)。</p>
-<h2 id="症狀出現"><a href="#症狀出現" class="headerlink" title="症狀出現"></a>症狀出現</h2><p>先說明一下背景，必須承認一下，我的作息並不算正常，常撐到凌晨入眠，雖早上8點起床，平時在公司靠茶飲提神。<br>恰逢週日開始看手機影片時，突然耳朵開始出現回聲，立馬覺得不行，除了出門慢跑一下外，晚上雖然有想早點睡，但當晚似乎是太亢奮，我只記得反覆都在作夢。次日，碰到上班日騎摩托車的時候，覺得精神不好外，耳朵旁的聲音似乎像是左右不同步，導致我頭很脹，耳朵轟隆轟隆叫。<br>早上工作中發現不對勁，緊急返家並到診所掛號拿藥，由於公司仍有案子正在忙，稍作休息下午還是到公司上班。除了頭脹外，印象很深刻是女聲在我的右耳會有變聲的感覺(應該是回音共鳴)，在辦公室環境還算是可以忍受，我最不能忍受是走在馬路上車水馬龍的摩托車引擎聲。<br>想當然爾，我先把醫師的藥單看一遍；另外該症狀可能的原因也查一遍，由於常聽到找不出病因的狀態，這邊分享網路上病友的原則，「<strong>西醫主要是檢查，排除某些重大疾病導致的情況，原則上都得靠自己身體修復，因此可以改以中醫調理身體的角度來看待</strong>」<br>由於到晚上還沒好，而且我的症狀比較像耳咽管開放症，確切原因不清楚，因此當晚到診所再詢問一次意見並請醫生開轉診單，想做進一步檢查。<br>雖然很慌張，後續是打算先把醫師開的三天藥吃完後再說，應該還是會去教學醫院檢查一次。</p>
-<h2 id="症狀出現後第三日"><a href="#症狀出現後第三日" class="headerlink" title="症狀出現後第三日"></a>症狀出現後第三日</h2><p>症狀每天睡醒之後都有逐步減輕，自我觀察我身體上除了耳朵不舒服的狀況外，伴隨右邊肩膀一路延伸到右後腦杓都產生緊繃劇痛感，臉部肌肉也很沒有力氣。<br>這期間我做的就是睡足，吃的部分就是每天奇異果或者富士蘋果，正餐保持少油且增加好的蛋白質來源，比較特別的是由於中醫提到耳鳴都會順便講到腎虛，因此每天來蚵仔或蛤蜊湯，另外強化水分攝取，保持鼻腔的濕潤。<br>每天河堤快走流汗一下，腹式呼吸法讓自己身體的氣可以順暢點(畢竟平常都戴著口罩)，運動同時要同時擺手，有點像是太極，口訣是:想像一下自己很像大海，雙臂是海浪。<br>按摩可以用手常按虎口(對腸胃)和風池穴(頭部血液循環)讓自體循環好一點。<br>雖然還沒完全好，但我覺得和過度疲勞脫離不了關係，過度疲勞也是也是自律神經失調，氣血不順身體並不聽從指揮。<br>希望這次不要有後遺症!!</p>
-]]></content>
-      <tags>
-        <tag>健康</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Hello World</title>
     <url>/2022/06/03/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
@@ -665,6 +678,17 @@
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
+  </entry>
+  <entry>
+    <title>健康注意事項</title>
+    <url>/2022/08/17/%E5%81%A5%E5%BA%B7%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A0%85/</url>
+    <content><![CDATA[<h2 id="單側耳鳴"><a href="#單側耳鳴" class="headerlink" title="單側耳鳴"></a>單側耳鳴</h2><p>提醒自己:偶爾耳鳴不要緊，若是持續加重則需要趕緊檢查，很多都是重症，就診方式可先到診所看再請他開轉診單(這樣會比較省錢而且也符合健保精神)。</p>
+<h2 id="症狀出現"><a href="#症狀出現" class="headerlink" title="症狀出現"></a>症狀出現</h2><p>先說明一下背景，必須承認一下，我的作息並不算正常，常撐到凌晨入眠，雖早上8點起床，平時在公司靠茶飲提神。<br>恰逢週日開始看手機影片時，突然耳朵開始出現回聲，立馬覺得不行，除了出門慢跑一下外，晚上雖然有想早點睡，但當晚似乎是太亢奮，我只記得反覆都在作夢。次日，碰到上班日騎摩托車的時候，覺得精神不好外，耳朵旁的聲音似乎像是左右不同步，導致我頭很脹，耳朵轟隆轟隆叫。<br>早上工作中發現不對勁，緊急返家並到診所掛號拿藥，由於公司仍有案子正在忙，稍作休息下午還是到公司上班。除了頭脹外，印象很深刻是女聲在我的右耳會有變聲的感覺(應該是回音共鳴)，在辦公室環境還算是可以忍受，我最不能忍受是走在馬路上車水馬龍的摩托車引擎聲。<br>想當然爾，我先把醫師的藥單看一遍；另外該症狀可能的原因也查一遍，由於常聽到找不出病因的狀態，這邊分享網路上病友的原則，「<strong>西醫主要是檢查，排除某些重大疾病導致的情況，原則上都得靠自己身體修復，因此可以改以中醫調理身體的角度來看待</strong>」<br>由於到晚上還沒好，而且我的症狀比較像耳咽管開放症，確切原因不清楚，因此當晚到診所再詢問一次意見並請醫生開轉診單，想做進一步檢查。<br>雖然很慌張，後續是打算先把醫師開的三天藥吃完後再說，應該還是會去教學醫院檢查一次。</p>
+<h2 id="症狀出現後第三日"><a href="#症狀出現後第三日" class="headerlink" title="症狀出現後第三日"></a>症狀出現後第三日</h2><p>症狀每天睡醒之後都有逐步減輕，自我觀察我身體上除了耳朵不舒服的狀況外，伴隨右邊肩膀一路延伸到右後腦杓都產生緊繃劇痛感，臉部肌肉也很沒有力氣。<br>這期間我做的就是睡足，吃的部分就是每天奇異果或者富士蘋果，正餐保持少油且增加好的蛋白質來源，比較特別的是由於中醫提到耳鳴都會順便講到腎虛，因此每天來蚵仔或蛤蜊湯，另外強化水分攝取，保持鼻腔的濕潤。<br>每天河堤快走流汗一下，腹式呼吸法讓自己身體的氣可以順暢點(畢竟平常都戴著口罩)，運動同時要同時擺手，有點像是太極，口訣是:想像一下自己很像大海，雙臂是海浪。<br>按摩可以用手常按虎口(對腸胃)和風池穴(頭部血液循環)讓自體循環好一點。<br>雖然還沒完全好，但我覺得和過度疲勞脫離不了關係，過度疲勞也是也是自律神經失調，氣血不順身體並不聽從指揮。<br>希望這次不要有後遺症!!</p>
+]]></content>
+      <tags>
+        <tag>健康</tag>
+      </tags>
   </entry>
   <entry>
     <title>健康體重</title>
@@ -722,6 +746,17 @@
       </tags>
   </entry>
   <entry>
+    <title>夏天熱過頭了</title>
+    <url>/2022/08/06/%E5%A4%8F%E5%A4%A9%E7%86%B1%E9%81%8E%E9%A0%AD%E4%BA%86/</url>
+    <content><![CDATA[<p>夏天中午前往餐廳的路上，熱浪讓我感到酷暑威力，難道是我獨有的感受?在外奔波的生意人、出遠洋的討海人、挑戰自我極限的山友或許會消遣我吧：「小CASE這還不是最熱，且還有偶爾的對流雨消暑」。<br>熱著熱著…<br>想起大暑過後，非經濟因素襲擾股市，臨時專案也是破壞我的生活步調，下周要連續加班了!!承辦人做事心法:分析規劃、工作分配、管理進度、保持溝通。</p>
+<p>Far Oasis<br>綠洲雖然遙遠，終將近矣</p>
+<p>YYES<br>!! 講著同時，餐廳到了，今天要點什麼呢?</p>
+]]></content>
+      <tags>
+        <tag>心情</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>美股選擇權R.I.P.</title>
     <url>/2022/12/14/%E7%BE%8E%E8%82%A1%E9%81%B8%E6%93%87%E6%AC%8A/</url>
     <content><![CDATA[<p>很久時間沒有更新，沒想到要先來個懺悔文XD<br>時間也來到12月中旬，美股選擇權熟悉也陌生，約莫9月開始，把外送的酬勞再投入，期望可以做有效使用。<br>以下分成兩個階段說明:</p>
@@ -732,17 +767,6 @@
 <hr>
 <p>第二階段開始，大致上以APPL為主，開始像是游擊戰般，幾乎不留倉，當日進出，雖然錯失不少波段機會，但每天1%~5%的報酬，慢慢回到最初約六成六資金，心情上也踏實許多。<br>但期間為了增加獲利，開始注意FSR等電動汽車相關類股的走勢，希望可以有翻倍的機會，開始有多口數或是總金額較高的留倉，碰到危機也都能成功攤平處理，甚至小賺機會，漸漸地忘了重倉的風險；<br>12月14日，美國公布CPI數字，開盤大好，昨日重倉的TSLA也得以解套，但仍覺得整個市場在漲，個股應該也會跟著連動，結果一路反向，反彈非常無力。<br>想當然爾，又回到資金四成的狀態，雖然停損很懊惱，畢竟等於過去40多個交易日做白工，但若以當日結果論，停損還算早。<br>換言之，我碰到是趨勢明顯的股票(無法參考市場利多)，應在仍然獲利時10%獲利出場才對，自己太一廂情願。</p>
 <h2 id="切記不要有過高期待，細水長流才是王道"><a href="#切記不要有過高期待，細水長流才是王道" class="headerlink" title="切記不要有過高期待，細水長流才是王道"></a>切記不要有過高期待，細水長流才是王道</h2><p>5 <strong>若大部分資金已進場，因此時風險最高，如果是逆勢(碰到趨勢盤，連續出量無反彈)，寧願小賺小虧</strong><br>6 當進出頻繁，縱使小小獲利，也請以提早結束當作成就感<br>7 切記各股票股性不同，別一言以畢之</p>
-]]></content>
-      <tags>
-        <tag>心情</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>夏天熱過頭了</title>
-    <url>/2022/08/06/%E5%A4%8F%E5%A4%A9%E7%86%B1%E9%81%8E%E9%A0%AD%E4%BA%86/</url>
-    <content><![CDATA[<p>夏天中午前往餐廳的路上，熱浪讓我感到酷暑威力，難道是我獨有的感受?在外奔波的生意人、出遠洋的討海人、挑戰自我極限的山友或許會消遣我吧：「小CASE這還不是最熱，且還有偶爾的對流雨消暑」。<br>熱著熱著…<br>想起大暑過後，非經濟因素襲擾股市，臨時專案也是破壞我的生活步調，下周要連續加班了!!承辦人做事心法:分析規劃、工作分配、管理進度、保持溝通。</p>
-<p>Far Oasis<br>綠洲雖然遙遠，終將近矣</p>
-<p>YYES<br>!! 講著同時，餐廳到了，今天要點什麼呢?</p>
 ]]></content>
       <tags>
         <tag>心情</tag>
@@ -840,30 +864,6 @@
       <tags>
         <tag>筆記</tag>
         <tag>資訊安全</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>10分鐘週記 - SFTP研究番外篇</title>
-    <url>/2022/12/14/10%E5%88%86%E9%90%98%E9%80%B1%E8%A8%98-SFTP%E7%A0%94%E7%A9%B6%E7%95%AA%E5%A4%96%E7%AF%87/</url>
-    <content><![CDATA[<h2 id="SFTP番外篇"><a href="#SFTP番外篇" class="headerlink" title="SFTP番外篇"></a>SFTP番外篇</h2><p>近期主要因為需要研究SFTP SERVER而起，SFTP(SSH File Transfer Protocol AKA. Secure FTP)，主要是透過SSH登入作業時，會進行加密，使得竊聽者無法竊取密碼<br>主要對話通道會進行作業</p>
-<ul>
-<li>建立和終止階段作業</li>
-<li>識別、導覽和列出目錄的內容</li>
-<li>將檔案移入&#x2F;移出目錄及在目錄內移動檔案</li>
-<li>刪除檔案</li>
-</ul>
-<p>實務上，SSH(port22)也常用來取代telnet，他可以透過產生SSH host key pair的方式，透過提供SERVER public key 取代密碼進行登入，且無有效期限設計，不用每次都需要輸入密碼<br>產生的金耀，用工具讀取需要輸入的密碼稱之 passphrase</p>
-<p>番外篇，大部分都在研究 CRUSHFTP 額外產生網路搜尋的<br>疑惑彼此沒直接關聯性，雖然很跳TONE，還是列舉一下:</p>
-<h3 id="PUTTY-SSH-教學"><a href="#PUTTY-SSH-教學" class="headerlink" title="PUTTY SSH 教學"></a>PUTTY SSH 教學</h3><p>有自己安裝 ubuntu ssh server 驗證過，但僅先用root測試<br>參考網址: <a href="https://www.liquidweb.com/kb/putty-ssh-keys/">PUTTY SSH 教學</a><br>下載連結: <a href="https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html">putty</a></p>
-<h3 id="JAR-如何執行"><a href="#JAR-如何執行" class="headerlink" title="JAR 如何執行?"></a>JAR 如何執行?</h3><p>參考網址: <a href="https://openhome.cc/Gossip/JavaGossip-V2/ExecutableJAR.htm">JAR 如何執行?</a></p>
-<h3 id="PGP-Pretty-Good-Privacy-應用"><a href="#PGP-Pretty-Good-Privacy-應用" class="headerlink" title="PGP(Pretty Good Privacy)應用"></a>PGP(Pretty Good Privacy)應用</h3><p>PGP 常應用於Email情境，混合應用的場景，如下圖，對稱式加密速度較快，把session key加密[資料]，並把[加密資料]和 [公鑰加密session key] 合併成 傳送訊息。<br>參考網址: <a href="https://www.encryptionconsulting.com/how-to-generate-pgp-key-pair/">PGP應用</a></p>
-<h3 id="DMZ"><a href="#DMZ" class="headerlink" title="DMZ"></a>DMZ</h3><p>主要是用來隔離內部主機提供給外部服務，做一個區隔(介於內部網路及外部網路間的網段)，對內外都有防火牆區隔，類似大樓管理員，協助住家轉信，對於外部而言，大家只認得大樓住址<br>參考網址: <a href="https://ithelp.ithome.com.tw/questions/10188598">DMZ</a></p>
-<h3 id="數位簽章與憑證"><a href="#數位簽章與憑證" class="headerlink" title="數位簽章與憑證"></a>數位簽章與憑證</h3><p>數位簽章(DS, Digital Signature)<br>傳送端本質上是透過hash<code>[訊息]</code>的方式計算出hash值，將hash加密後變成<code>[數位簽章]</code>和<code>[訊息]</code>傳送給接收端;接收端則將<code>[訊息]</code>和<code>[數位簽章]</code>分離，針對<code>[數位簽章]</code>進行解密，得hash值，和<code>[訊息]</code>計算出來的hash值進行比對得知其<strong>完整性</strong>及<strong>不可否認性</strong><br>實務上，傳送與接收，會將資料和數位簽章再次進行加密</p>
-<p>數位憑證(Digital Certificate)<br>概念上是一種由公信力機構發行的證明文件，說白一點就是記載姓名、地址、電子郵件、公鑰，並且具有有效期限，概念上與身分證件一樣，對於擁有者來說，CA(憑證授權)中心會負責賦予公鑰與私鑰，並提供公鑰公信力，取得信任。<br>參考網址: <a href="http://www.tsnien.idv.tw/Security_WebBook/%E7%AC%AC%E4%B8%83%E7%AB%A0%20%E6%95%B8%E4%BD%8D%E7%B0%BD%E7%AB%A0%E8%88%87%E6%95%B8%E4%BD%8D%E6%86%91%E8%AD%89.html">數位簽章與憑證</a></p>
-]]></content>
-      <tags>
-        <tag>10分鐘週記</tag>
-        <tag>SFTP</tag>
       </tags>
   </entry>
 </search>
