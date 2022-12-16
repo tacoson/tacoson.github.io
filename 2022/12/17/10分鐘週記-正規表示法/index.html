@@ -85,7 +85,7 @@
         <span class="post-meta-item-icon">
             <i class="ri-quill-pen-line"></i>
             <span class="post-meta-item-text"> 字數統計:</span>
-            <span class="post-count">280</span>
+            <span class="post-count">316</span>
         </span>
     </span>
 
@@ -110,15 +110,27 @@
     <div class="article-entry" itemprop="articleBody">
        
   <h2 id="正規表示法"><a href="#正規表示法" class="headerlink" title="正規表示法"></a>正規表示法</h2><p>UNIX上常見的，基礎正規表示法實踐<br>練習可使用VI、sed、awk、grep</p>
-<p>Bracket Expressions(中括號表示法)</p>
 <ul>
-<li></li>
-<li></li>
-<li></li>
-<li>POSIX Character(POSIX 字集)<br>.:匹配任何單一字元<br><em>:匹配〝</em>〞前面的字元從零到無限重複前字元<br>^:匹配起始位置的字串(以行為單位)<br>$:匹配結束位置的字串(以行為單位)<br>&amp;:記憶匹配到的字串<br>{a,b}:匹配限定重複前字元<br>( ):集合匹配前字串<br>&lt; &gt;:匹配單字<br>( )\1:向後參考(Back-Reference)記憶匹配<br>|:或匹配</li>
+<li>Bracket Expressions(中括號表示法)<ul>
+<li><code>[一至多個任一字元]</code>:匹配單一字元</li>
+<li><code>[起始字元-結束字元]</code>:指定要匹配字元範圍</li>
+<li><code>[^ ]</code>:反匹配</li>
+<li>POSIX Character(POSIX 字集)</li>
+</ul>
+</li>
+<li><code>.</code>:匹配任何單一字元</li>
+<li><code>*</code>:匹配〝*〞前面的字元從零到無限重複前字元</li>
+<li><code>^</code>:匹配起始位置的字串(以行為單位)</li>
+<li><code>$</code>:匹配結束位置的字串(以行為單位)</li>
+<li><code>&amp;</code>:記憶匹配到的字串</li>
+<li><code>&#123;a,b&#125;</code>:匹配限定重複前字元</li>
+<li><code>( )</code>:集合匹配前字串</li>
+<li><code>&lt; &gt;</code>:匹配單字</li>
+<li><code>( )</code>\1:向後參考(Back-Reference)記憶匹配</li>
+<li><code>|</code>:或匹配</li>
 </ul>
 <p>參考網址: <a target="_blank" rel="noopener" href="https://www.hy-star.com.tw/tech/linux/regex/regex.html#rex">正規表示法說明</a></p>
-<h2 id="換行字元"><a href="#換行字元" class="headerlink" title="換行字元"></a>換行字元</h2><p>Unix系統裡，每行結尾只有“\n”；<br>Windows系統裡面，每行結尾是即“\n\r”；<br>Mac系統裡，每行結尾是“\r”。<br>一個直接後果是，Unix&#x2F;Mac系統下的文件在Windows裡打開的話，所有文字會變成一行；而Windows裡的文件在Unix&#x2F;Mac下打開的話，在每行的結尾可能會多出一個^M符號。</p>
+<h2 id="換行字元"><a href="#換行字元" class="headerlink" title="換行字元"></a>換行字元</h2><p>Unix系統裡，每行結尾只有“<FONT color=#FF0000>\n</FONT>”；<br>Windows系統裡面，每行結尾是即“<FONT color=#FF0000>\n</FONT><FONT color=#0000FF>\r</FONT>”；<br>Mac系統裡，每行結尾是“<FONT color=#0000FF>\r</FONT>”。<br>一個直接後果是，Unix&#x2F;Mac系統下的文件在Windows裡打開的話，所有文字會變成一行；而Windows裡的文件在Unix&#x2F;Mac下打開的話，在每行的結尾可能會多出一個^M符號。</p>
 <h2 id="盧恩演算法-Luhn’s-algorithm"><a href="#盧恩演算法-Luhn’s-algorithm" class="headerlink" title="盧恩演算法(Luhn’s algorithm)"></a>盧恩演算法(Luhn’s algorithm)</h2><p>信用卡使用的檢查碼演算法</p>
 <p>參考網址: <a target="_blank" rel="noopener" href="https://www.dcode.fr/luhn-algorithm">盧恩演算法</a></p>
  
