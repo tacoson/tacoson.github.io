@@ -893,6 +893,7 @@
 <h2 id="換行字元"><a href="#換行字元" class="headerlink" title="換行字元"></a>換行字元</h2><p>Unix系統裡，每行結尾只有“<FONT color=#FF0000>\n</FONT>”；<br>Windows系統裡面，每行結尾是即“<FONT color=#FF0000>\n</FONT><FONT color=#0000FF>\r</FONT>”；<br>Mac系統裡，每行結尾是“<FONT color=#0000FF>\r</FONT>”。<br>一個直接後果是，Unix&#x2F;Mac系統下的文件在Windows裡打開的話，所有文字會變成一行；而Windows裡的文件在Unix&#x2F;Mac下打開的話，在每行的結尾可能會多出一個^M符號。</p>
 <h2 id="盧恩演算法-Luhn’s-algorithm"><a href="#盧恩演算法-Luhn’s-algorithm" class="headerlink" title="盧恩演算法(Luhn’s algorithm)"></a>盧恩演算法(Luhn’s algorithm)</h2><p>信用卡使用的檢查碼演算法</p>
 <p>參考網址: <a href="https://www.dcode.fr/luhn-algorithm">盧恩演算法</a></p>
+<h2 id="日文學習網站"><a href="#日文學習網站" class="headerlink" title="日文學習網站"></a>日文學習網站</h2><p>紀錄一下無意間發現的網站，很喜歡這種風格的小站，目前整理到N3<br>參考網址: <a href="https://www.sigure.tw/learn-japanese/basic/50/japanese-roman-pinyin.php">晴雨之町</a></p>
 ]]></content>
       <tags>
         <tag>10分鐘週記</tag>
