@@ -112,6 +112,83 @@
     
     
     <article
+  id="post-RESTful-API"
+  class="article article-type-post"
+  itemscope
+  itemprop="blogPost"
+  data-scroll-reveal
+>
+  <div class="article-inner">
+    
+    <header class="article-header">
+       
+<h2 itemprop="name">
+  <a class="article-title" href="/2022/07/09/RESTful-API/"
+    >RESTful API</a> 
+</h2>
+ 
+
+      
+    </header>
+     
+    <div class="article-meta">
+      <a href="/2022/07/09/RESTful-API/" class="article-date">
+  <time datetime="2022-07-08T17:48:55.000Z" itemprop="datePublished">2022-07-09</time>
+</a>    
+    </div>
+      
+    <div class="article-entry" itemprop="articleBody">
+       
+  <h2 id="HTTP-基礎知識"><a href="#HTTP-基礎知識" class="headerlink" title="HTTP 基礎知識"></a>HTTP 基礎知識</h2><hr>
+<p>參考網址: <a target="_blank" rel="noopener" href="https://yakimhsu.com/project/project_w4_Network_http.html">HTTP 基礎知識</a></p>
+<p>裡面有提到.js的套件(‘request’和’http’)可以玩玩看( 但經查看 request 已經廢棄使用)<br>node.js執行js程式，js中透過 require(‘xxxx’)來載入模組，Node module來源三種途徑:原生、NPM安裝、自己寫。</p>
+<h6 id="chrome-開發人員工具"><a href="#chrome-開發人員工具" class="headerlink" title="chrome 開發人員工具"></a>chrome 開發人員工具</h6><ul>
+<li>CTRL + SHIFT + I -&gt; [Network] 可以觀察 request 和 reponse 的內容<h6 id="HTTP-Method"><a href="#HTTP-Method" class="headerlink" title="HTTP Method"></a>HTTP Method</h6></li>
+<li>GET 跟SERVER要一個連結或者圖片，通常只是要獲取資訊，因此沒有request BODY。</li>
+<li>POST 需要執行一些動作，把資料放在request body</li>
+<li>PUT 取代整個 request (POST和PUT差異在於POST動作為create、PUT動作為replace)</li>
+<li>PATCH 修改部分 request (replace某些欄位)</li>
+<li>DELETE  刪除資源</li>
+<li>HEAD 只獲取 request的 head</li>
+<li>OPTION 可以了解Sever提供那些溝通方法</li>
+</ul>
+<p>Idempotent Method: GET PUT DELETE HEAD (此特性決定是否能夠Retry)<br>Safe method : GET HEAD                 (此特性決定是否能夠Cache)</p>
+<p>傳遞資料的方式有兩種:GET和POST，通常一般表單可以用GET直接透過URL參數傳遞，假設不希望出現在網址上，用POST處理，例如使用者登入帳密。<br>當然因為POST還是明碼傳輸，比較安全作法為加上SSL憑證，使用HTTPS傳輸</p>
+<p>URI語法:<br>[協定名]:&#x2F;&#x2F;[使用者名稱]:[密碼]@[主機名]:[埠]&#x2F;[路徑]?[查詢參數]#[片段ID]</p>
+<h6 id="Response-Status-code"><a href="#Response-Status-code" class="headerlink" title="Response Status code"></a>Response Status code</h6><ul>
+<li>1XX: 稍等</li>
+<li>2XX: 成功</li>
+<li>3XX: 重新導向</li>
+<li>4XX: 客戶端錯誤</li>
+<li>5XX: 伺服器錯誤</li>
+</ul>
+<h2 id="RESTful-API"><a href="#RESTful-API" class="headerlink" title="RESTful API"></a>RESTful API</h2><hr>
+<p>參考網址: <a target="_blank" rel="noopener" href="https://noob.tw/restful-api/">規劃RESTful API注意事項</a><br>參考網址: <a target="_blank" rel="noopener" href="https://www.ruanyifeng.com/blog/2018/10/restful-api-best-practices.html">RESTful API最佳實踐</a></p>
+<p>REST全名 Resource Representational State Transfer ，可譯為具象狀態傳輸，若是把各個單字拆開來解釋的話即如下：<br>Resource：資源。<br>Representational：表現形式，如JSON，XML．．．<br>State Transfer：狀態變化。即上述講到的可利用HTTP動詞們來做呼叫。</p>
+<p>若要實作，資源要避免階層表示、用URL字串會比較清楚；<br>資源的命名不包含動詞，動詞意義皆由METHOD表達</p>
+<h2 id="IIS重新導向設定"><a href="#IIS重新導向設定" class="headerlink" title="IIS重新導向設定"></a>IIS重新導向設定</h2><p>參考網址: <a target="_blank" rel="noopener" href="https://blog.ite2.com/iis%E9%87%8D%E6%96%B0%E5%B0%8E%E5%90%91%E8%A8%AD%E5%AE%9A/">IIS重新導向設定</a> </p>
+<p>若舊網址要重新導向到新網站，作法(1)建立新網站，將原網址解除跟原網站的繫結，並繫結至新網站(2)設定原網址重新導向至新網站(3)將新網址繫結至原網站。</p>
+ 
+      <!-- reward -->
+      
+    </div>
+    
+
+    <!-- copyright -->
+    
+    <footer class="article-footer">
+       
+  <ul class="article-tag-list" itemprop="keywords"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/RESTful-API/" rel="tag">RESTful API</a></li></ul>
+
+    </footer>
+  </div>
+
+   
+    
+</article>
+
+    
+    <article
   id="post-資通安全隨手記"
   class="article article-type-post"
   itemscope
@@ -730,72 +807,13 @@
 </article>
 
     
-    <article
-  id="post-hello-world"
-  class="article article-type-post"
-  itemscope
-  itemprop="blogPost"
-  data-scroll-reveal
->
-  <div class="article-inner">
-    
-    <header class="article-header">
-       
-<h2 itemprop="name">
-  <a class="article-title" href="/2022/06/03/hello-world/"
-    >Hello World</a> 
-</h2>
- 
-
-      
-    </header>
-     
-    <div class="article-meta">
-      <a href="/2022/06/03/hello-world/" class="article-date">
-  <time datetime="2022-06-02T17:54:54.620Z" itemprop="datePublished">2022-06-03</time>
-</a>    
-    </div>
-      
-    <div class="article-entry" itemprop="articleBody">
-       
-  <p>Welcome to <a target="_blank" rel="noopener" href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a target="_blank" rel="noopener" href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a target="_blank" rel="noopener" href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a target="_blank" rel="noopener" href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a target="_blank" rel="noopener" href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a target="_blank" rel="noopener" href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a target="_blank" rel="noopener" href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a target="_blank" rel="noopener" href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
- 
-      <!-- reward -->
-      
-    </div>
-    
-
-    <!-- copyright -->
-    
-    <footer class="article-footer">
-       
-    </footer>
-  </div>
-
-   
-    
-</article>
-
-    
   </article>
   
 
   
   <nav class="page-nav">
     
-    <a class="extend prev" rel="prev" href="/page/2/">上一頁</a><a class="page-number" href="/">1</a><a class="page-number" href="/page/2/">2</a><span class="page-number current">3</span>
+    <a class="extend prev" rel="prev" href="/page/2/">上一頁</a><a class="page-number" href="/">1</a><a class="page-number" href="/page/2/">2</a><span class="page-number current">3</span><a class="page-number" href="/page/4/">4</a><a class="extend next" rel="next" href="/page/4/">下一頁</a>
   </nav>
   
 </section>
