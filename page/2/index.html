@@ -112,6 +112,69 @@
     
     
     <article
+  id="post-10分鐘週記-SFTP研究番外篇"
+  class="article article-type-post"
+  itemscope
+  itemprop="blogPost"
+  data-scroll-reveal
+>
+  <div class="article-inner">
+    
+    <header class="article-header">
+       
+<h2 itemprop="name">
+  <a class="article-title" href="/2022/12/14/10%E5%88%86%E9%90%98%E9%80%B1%E8%A8%98-SFTP%E7%A0%94%E7%A9%B6%E7%95%AA%E5%A4%96%E7%AF%87/"
+    >10分鐘週記 - SFTP研究番外篇</a> 
+</h2>
+ 
+
+      
+    </header>
+     
+    <div class="article-meta">
+      <a href="/2022/12/14/10%E5%88%86%E9%90%98%E9%80%B1%E8%A8%98-SFTP%E7%A0%94%E7%A9%B6%E7%95%AA%E5%A4%96%E7%AF%87/" class="article-date">
+  <time datetime="2022-12-14T15:30:20.000Z" itemprop="datePublished">2022-12-14</time>
+</a>    
+    </div>
+      
+    <div class="article-entry" itemprop="articleBody">
+       
+  <h2 id="SFTP番外篇"><a href="#SFTP番外篇" class="headerlink" title="SFTP番外篇"></a>SFTP番外篇</h2><p>近期主要因為需要研究SFTP SERVER而起，SFTP(SSH File Transfer Protocol AKA. Secure FTP)，主要是透過SSH登入作業時，會進行加密，使得竊聽者無法竊取密碼<br>主要對話通道會進行作業</p>
+<ul>
+<li>建立和終止階段作業</li>
+<li>識別、導覽和列出目錄的內容</li>
+<li>將檔案移入&#x2F;移出目錄及在目錄內移動檔案</li>
+<li>刪除檔案</li>
+</ul>
+<p>實務上，SSH(port22)也常用來取代telnet，他可以透過產生SSH host key pair的方式，透過提供SERVER public key 取代密碼進行登入，且無有效期限設計，不用每次都需要輸入密碼<br>產生的金耀，用工具讀取需要輸入的密碼稱之 passphrase</p>
+<p>番外篇，大部分都在研究 CRUSHFTP 額外產生網路搜尋的<br>疑惑彼此沒直接關聯性，雖然很跳TONE，還是列舉一下:</p>
+<h3 id="PUTTY-SSH-教學"><a href="#PUTTY-SSH-教學" class="headerlink" title="PUTTY SSH 教學"></a>PUTTY SSH 教學</h3><p>有自己安裝 ubuntu ssh server 驗證過，但僅先用root測試<br>參考網址: <a target="_blank" rel="noopener" href="https://www.liquidweb.com/kb/putty-ssh-keys/">PUTTY SSH 教學</a><br>下載連結: <a target="_blank" rel="noopener" href="https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html">putty</a></p>
+<h3 id="JAR-如何執行"><a href="#JAR-如何執行" class="headerlink" title="JAR 如何執行?"></a>JAR 如何執行?</h3><p>參考網址: <a target="_blank" rel="noopener" href="https://openhome.cc/Gossip/JavaGossip-V2/ExecutableJAR.htm">JAR 如何執行?</a></p>
+<h3 id="PGP-Pretty-Good-Privacy-應用"><a href="#PGP-Pretty-Good-Privacy-應用" class="headerlink" title="PGP(Pretty Good Privacy)應用"></a>PGP(Pretty Good Privacy)應用</h3><p>PGP 常應用於Email情境，混合應用的場景，如下圖，對稱式加密速度較快，把session key加密[資料]，並把[加密資料]和 [公鑰加密session key] 合併成 傳送訊息。<br>參考網址: <a target="_blank" rel="noopener" href="https://www.encryptionconsulting.com/how-to-generate-pgp-key-pair/">PGP應用</a></p>
+<h3 id="DMZ"><a href="#DMZ" class="headerlink" title="DMZ"></a>DMZ</h3><p>主要是用來隔離內部主機提供給外部服務，做一個區隔(介於內部網路及外部網路間的網段)，對內外都有防火牆區隔，類似大樓管理員，協助住家轉信，對於外部而言，大家只認得大樓住址<br>參考網址: <a target="_blank" rel="noopener" href="https://ithelp.ithome.com.tw/questions/10188598">DMZ</a></p>
+<h3 id="數位簽章與憑證"><a href="#數位簽章與憑證" class="headerlink" title="數位簽章與憑證"></a>數位簽章與憑證</h3><p>數位簽章(DS, Digital Signature)<br>傳送端本質上是透過hash<code>[訊息]</code>的方式計算出hash值，將hash加密後變成<code>[數位簽章]</code>和<code>[訊息]</code>傳送給接收端;接收端則將<code>[訊息]</code>和<code>[數位簽章]</code>分離，針對<code>[數位簽章]</code>進行解密，得hash值，和<code>[訊息]</code>計算出來的hash值進行比對得知其<strong>完整性</strong>及<strong>不可否認性</strong><br>實務上，傳送與接收，會將資料和數位簽章再次進行加密</p>
+<p>數位憑證(Digital Certificate)<br>概念上是一種由公信力機構發行的證明文件，說白一點就是記載姓名、地址、電子郵件、公鑰，並且具有有效期限，概念上與身分證件一樣，對於擁有者來說，CA(憑證授權)中心會負責賦予公鑰與私鑰，並提供公鑰公信力，取得信任。<br>參考網址: <a target="_blank" rel="noopener" href="http://www.tsnien.idv.tw/Security_WebBook/%E7%AC%AC%E4%B8%83%E7%AB%A0%20%E6%95%B8%E4%BD%8D%E7%B0%BD%E7%AB%A0%E8%88%87%E6%95%B8%E4%BD%8D%E6%86%91%E8%AD%89.html">數位簽章與憑證</a></p>
+ 
+      <!-- reward -->
+      
+    </div>
+    
+
+    <!-- copyright -->
+    
+    <footer class="article-footer">
+       
+  <ul class="article-tag-list" itemprop="keywords"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/10%E5%88%86%E9%90%98%E9%80%B1%E8%A8%98/" rel="tag">10分鐘週記</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/SFTP/" rel="tag">SFTP</a></li></ul>
+
+    </footer>
+  </div>
+
+   
+    
+</article>
+
+    
+    <article
   id="post-美股選擇權"
   class="article article-type-post"
   itemscope
@@ -686,67 +749,6 @@
     <footer class="article-footer">
        
   <ul class="article-tag-list" itemprop="keywords"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/UBER-EATS/" rel="tag">UBER EATS</a></li></ul>
-
-    </footer>
-  </div>
-
-   
-    
-</article>
-
-    
-    <article
-  id="post-吃貨街走趣"
-  class="article article-type-post"
-  itemscope
-  itemprop="blogPost"
-  data-scroll-reveal
->
-  <div class="article-inner">
-    
-    <header class="article-header">
-       
-<h2 itemprop="name">
-  <a class="article-title" href="/2022/07/20/%E5%90%83%E8%B2%A8%E8%A1%97%E8%B5%B0%E8%B6%A3/"
-    >吃貨街走趣</a> 
-</h2>
- 
-
-      
-    </header>
-     
-    <div class="article-meta">
-      <a href="/2022/07/20/%E5%90%83%E8%B2%A8%E8%A1%97%E8%B5%B0%E8%B6%A3/" class="article-date">
-  <time datetime="2022-07-20T15:22:56.000Z" itemprop="datePublished">2022-07-20</time>
-</a>    
-    </div>
-      
-    <div class="article-entry" itemprop="articleBody">
-       
-  <p>本周每天從復興南騎車到復興北，通過地下通道到北安路，路經不熟悉的區域，眼前都是新鮮感，好奇寶寶如我，不免俗的會開始探索附近的店家。早期我對大直的印象來自於實踐大學和空中英語教室，後來美麗華摩天輪的開幕，甚至附近的高爾夫練習場也去過。這周常逛了大直家樂福1F大食代、美麗華B1美食廣場、ATT，大部分都吃B1美食廣場，日式咖哩蛋包飯、韓式石鍋拌飯、周氏蝦捲套餐，香菇雞火鍋、麻醬麵貢丸湯組合，說實在CP值並不高。<br>松本清和有個國外超市倒是滿好逛的，為什麼我這麼說，可以在百貨公司內部超市找到22元的純喫茶700ml是不太容易的，松本清的自有品牌泡洗顏只要109元，荷包差點失守。</p>
-<p>可以推薦的美食，大部分都是下班後去朝聖(其中有一家我只有走到門口，發現我正在調整體重，最後還是忍住，可以猜猜是哪家)</p>
-<h2 id="慶城街一號"><a href="#慶城街一號" class="headerlink" title="慶城街一號"></a>慶城街一號</h2><ol>
-<li>慶城街海南雞飯 - 這家其實常訂來吃，買法有配菜120無配菜90，旁邊應該是還可以加雞肉(但是字比較小我沒注意看)，湯品也好喝，這是滿安全的選擇。</li>
-<li>樂檸漢堡 - 標誌是短褲，穿短褲訂餐可以免費加大飲料或者薯條，和其他常見的麥當勞、漢堡王比較起來，比較優一點，但是價格也貴一點，當作生命體驗。</li>
-<li>Tulip Timeout - 有名的是丹麥熱狗堡，但我點的是另外一個脆皮雙層豬肉漢堡，坦白說這種煙燻脆皮的口感還滿讓我驚豔的，漢堡180的價格，難怪都不用排隊:)。</li>
-<li>吳哥窟海南雞 - 柬埔寨風味海南雞，之前我都是當慶城街海南雞飯需要排隊時，我會把這家列入第二選擇。</li>
-</ol>
-<p>慶城街一號樓上還有海底撈、小螺波、bbq.chicken、汰汰熱情食堂(泰式料理)、誠記河粉公司…<br>呵呵!!我想吃的都聚集在這棟(大好き)，我喜歡這種複合式商城更甚於信義區的百貨公司(棟距太大，沒有溫馨感)，</p>
-<h2 id="北安路"><a href="#北安路" class="headerlink" title="北安路"></a>北安路</h2><ol>
-<li>NENE chicken - 韓國最有名的連鎖店，每一種口味有500g和1000g，也有兩種口味混和的1000g。</li>
-<li>林文必涼麵 - 雞排類千萬不要點，我點120的套餐，涼麵確實不錯，湯品和配菜普通，雞排卻有點雷。</li>
-</ol>
- 
-      <!-- reward -->
-      
-    </div>
-    
-
-    <!-- copyright -->
-    
-    <footer class="article-footer">
-       
-  <ul class="article-tag-list" itemprop="keywords"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/%E5%BF%83%E6%83%85/" rel="tag">心情</a></li></ul>
 
     </footer>
   </div>
