@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-02-17T15:41:31.887Z</updated>
+  <updated>2024-03-03T17:32:01.962Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>20240229_初探雲林嘉義</title>
+    <link href="http://example.com/2024/03/03/20240229-%E5%88%9D%E6%8E%A2%E9%9B%B2%E6%9E%97%E5%98%89%E7%BE%A9/"/>
+    <id>http://example.com/2024/03/03/20240229-%E5%88%9D%E6%8E%A2%E9%9B%B2%E6%9E%97%E5%98%89%E7%BE%A9/</id>
+    <published>2024-03-03T15:45:55.000Z</published>
+    <updated>2024-03-03T17:32:01.962Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;台三線之雲嘉篇&quot;&gt;&lt;a href=&quot;#台三線之雲嘉篇&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    
+    <category term="心情" scheme="http://example.com/tags/%E5%BF%83%E6%83%85/"/>
+    
+  </entry>
   
   <entry>
     <title>20240217_生日過後感想</title>
@@ -466,29 +489,6 @@
     
     
     <category term="心情" scheme="http://example.com/tags/%E5%BF%83%E6%83%85/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>10分鐘週記-周末聽講</title>
-    <link href="http://example.com/2022/08/02/10%E5%88%86%E9%90%98%E9%80%B1%E8%A8%98-%E8%81%BD%E8%AC%9B%E7%AD%86%E8%A8%98/"/>
-    <id>http://example.com/2022/08/02/10%E5%88%86%E9%90%98%E9%80%B1%E8%A8%98-%E8%81%BD%E8%AC%9B%E7%AD%86%E8%A8%98/</id>
-    <published>2022-08-01T17:36:07.000Z</published>
-    <updated>2022-08-02T14:16:47.426Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;p&gt;本週週記主要是參加演講，由於這次主辦的地點距離我住的地方很近，聽講增加點知識廣度也不錯，因此就到現場吹冷氣，除了真的講到SOURCE</summary>
-        
-      
-    
-    
-    
-    
-    <category term="10分鐘週記" scheme="http://example.com/tags/10%E5%88%86%E9%90%98%E9%80%B1%E8%A8%98/"/>
     
   </entry>
   

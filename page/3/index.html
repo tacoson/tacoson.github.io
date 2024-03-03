@@ -112,6 +112,97 @@
     
     
     <article
+  id="post-10分鐘週記-聽講筆記"
+  class="article article-type-post"
+  itemscope
+  itemprop="blogPost"
+  data-scroll-reveal
+>
+  <div class="article-inner">
+    
+    <header class="article-header">
+       
+<h2 itemprop="name">
+  <a class="article-title" href="/2022/08/02/10%E5%88%86%E9%90%98%E9%80%B1%E8%A8%98-%E8%81%BD%E8%AC%9B%E7%AD%86%E8%A8%98/"
+    >10分鐘週記-周末聽講</a> 
+</h2>
+ 
+
+      
+    </header>
+     
+    <div class="article-meta">
+      <a href="/2022/08/02/10%E5%88%86%E9%90%98%E9%80%B1%E8%A8%98-%E8%81%BD%E8%AC%9B%E7%AD%86%E8%A8%98/" class="article-date">
+  <time datetime="2022-08-01T17:36:07.000Z" itemprop="datePublished">2022-08-02</time>
+</a>    
+    </div>
+      
+    <div class="article-entry" itemprop="articleBody">
+       
+  <p>本週週記主要是參加演講，由於這次主辦的地點距離我住的地方很近，聽講增加點知識廣度也不錯，因此就到現場吹冷氣，除了真的講到SOURCE CODE，不然其實或多或少都能有概念，反正不懂就馬上用手機查這關鍵字是什麼。<br>其中某位開發者分享到他的職涯，提到身在這個時代的我們應該感到幸福，資訊知識隨手可得，在家就可跟全世界學習。讓我想起以前研究生時代，不是問人就只能看書，這是活在2022現代的優勢。<br>資訊迭代效率快，資訊量也大，學習的方法也要跟著改變才行。<br>畢竟有些只有30分鐘，所以都是抓關鍵字，有點像是速記(如果有錯是正常的，懶得額外求證)，以有聽的演講題目當標題：</p>
+<h2 id="打造資訊雙向連結的地圖應用"><a href="#打造資訊雙向連結的地圖應用" class="headerlink" title="打造資訊雙向連結的地圖應用"></a>打造資訊雙向連結的地圖應用</h2><hr>
+<p>主要概念應該是透過日常影片看到的地點和地圖連結(似乎為的是知道座標)，可以從前台操作加入至spreadsheet中，待將來若造訪可以透過視角中四個角的地圖座標來逐一尋找資料集中符合的地點並顯示於地圖上(有點像是每個故事點生活紀錄，爾後進行回顧)。</p>
+<ul>
+<li>google spreadsheet (儲存資料)</li>
+<li>google APPs script(後台)</li>
+<li>github page (前台)<h2 id="帶您讀源碼：LIFF-Mock"><a href="#帶您讀源碼：LIFF-Mock" class="headerlink" title="帶您讀源碼：LIFF Mock"></a>帶您讀源碼：LIFF Mock</h2></li>
+</ul>
+<hr>
+<p>老實說，只知道是Line Bot 聊天API中用來進行自動化測試使用的套件，細節不是很清楚。</p>
+<h2 id="Introduction-to-Property-Based-Testing"><a href="#Introduction-to-Property-Based-Testing" class="headerlink" title="Introduction to Property-Based Testing"></a>Introduction to Property-Based Testing</h2><hr>
+<ul>
+<li>fast-check(PBT測試套件)</li>
+<li>Example based testing: Rust doctest (註解本身就是測試腳本)</li>
+<li>XState testing(狀態機模式測試)</li>
+<li>John Hughes (PBT作者)</li>
+<li>測試只是一種對於不變函式提出證明</li>
+<li>Arbitrators Runners Shrinker (Input 產生，位移產生test case,當一個很大的測試資料 可以縮小至錯誤發生的大小，降低錯誤發生時的除錯時間)</li>
+<li>slido (投影片旁邊的互動外掛)<h2 id="開源工具使用與貢獻-從機器工程師到機器學習工程師的轉身與降肉"><a href="#開源工具使用與貢獻-從機器工程師到機器學習工程師的轉身與降肉" class="headerlink" title="開源工具使用與貢獻 - 從機器工程師到機器學習工程師的轉身與降肉"></a>開源工具使用與貢獻 - 從機器工程師到機器學習工程師的轉身與降肉</h2></li>
+</ul>
+<hr>
+<p>主要在講機械工程師如何變身成AI工程師</p>
+<ul>
+<li>硬體很難復現，軟體可貴之處可大量自動化且很有生產力</li>
+<li>參加比賽，獲得新平均的機會</li>
+<li>建立自信心 打造作品集</li>
+<li>Fast fail recovery faster</li>
+<li>Kaggle裡面有資料集和比賽</li>
+<li>站在巨人肩膀，別重新打造輪子</li>
+<li>資源有限，集中精神專攻某領域</li>
+<li>實踐踩坑扎根深度、參加演講補充知識廣度</li>
+<li>先寫架構，再添加feature. (前後端駁雜 串到後來技能樹歪了)</li>
+<li>Streamlit : 自動產生 dashboard 和 APP</li>
+<li>demo 老電影選擇器<h2 id="閱讀原始碼-再戰十年的-jQuery"><a href="#閱讀原始碼-再戰十年的-jQuery" class="headerlink" title="閱讀原始碼 - 再戰十年的 jQuery"></a>閱讀原始碼 - 再戰十年的 jQuery</h2></li>
+</ul>
+<hr>
+<p>參考網址: <a target="_blank" rel="noopener" href="https://kaochenlong.com/2022/07/31/jquery-source-code/">投影片</a></p>
+<ul>
+<li>講者本身有出書</li>
+<li>主要講 jQuery source</li>
+<li>IIFE (Immediately Invoked Function Expression) 是一個定義完馬上就執行的函式</li>
+<li>匿名函式</li>
+</ul>
+ 
+      <!-- reward -->
+      
+    </div>
+    
+
+    <!-- copyright -->
+    
+    <footer class="article-footer">
+       
+  <ul class="article-tag-list" itemprop="keywords"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/10%E5%88%86%E9%90%98%E9%80%B1%E8%A8%98/" rel="tag">10分鐘週記</a></li></ul>
+
+    </footer>
+  </div>
+
+   
+    
+</article>
+
+    
+    <article
   id="post-10分鐘週記-投資觀念筆記"
   class="article article-type-post"
   itemscope
@@ -730,64 +821,6 @@
     <footer class="article-footer">
        
   <ul class="article-tag-list" itemprop="keywords"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/%E7%AD%86%E8%A8%98/" rel="tag">筆記</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/%E8%B3%87%E8%A8%8A%E5%AE%89%E5%85%A8/" rel="tag">資訊安全</a></li></ul>
-
-    </footer>
-  </div>
-
-   
-    
-</article>
-
-    
-    <article
-  id="post-10分鐘週記-2"
-  class="article article-type-post"
-  itemscope
-  itemprop="blogPost"
-  data-scroll-reveal
->
-  <div class="article-inner">
-    
-    <header class="article-header">
-       
-<h2 itemprop="name">
-  <a class="article-title" href="/2022/07/06/10%E5%88%86%E9%90%98%E9%80%B1%E8%A8%98-2/"
-    >10分鐘週記-股市網站</a> 
-</h2>
- 
-
-      
-    </header>
-     
-    <div class="article-meta">
-      <a href="/2022/07/06/10%E5%88%86%E9%90%98%E9%80%B1%E8%A8%98-2/" class="article-date">
-  <time datetime="2022-07-05T16:22:36.000Z" itemprop="datePublished">2022-07-06</time>
-</a>    
-    </div>
-      
-    <div class="article-entry" itemprop="articleBody">
-       
-  <p>給自己一個挑戰，10分鐘來完成紀錄一週大小事，這週把常使用的股票網站整理一下:</p>
-<h2 id="台灣股市資訊網-股權分散表-神秘金字塔"><a href="#台灣股市資訊網-股權分散表-神秘金字塔" class="headerlink" title="台灣股市資訊網 | 股權分散表-神秘金字塔"></a>台灣股市資訊網 | 股權分散表-神秘金字塔</h2><hr>
-<p>參考網址: <a target="_blank" rel="noopener" href="https://goodinfo.tw/">台灣股市資訊網</a><br>參考網址: <a target="_blank" rel="noopener" href="https://norway.twsthr.info/StockHolders.aspx">股權分散表-神秘金字塔</a></p>
-<p>綜合資料及看大戶籌碼用途</p>
-<h2 id="財經M平方-中國-水泥-上海運價指數-台灣銀行牌告匯率"><a href="#財經M平方-中國-水泥-上海運價指數-台灣銀行牌告匯率" class="headerlink" title="財經M平方-中國 水泥 | 上海運價指數 | 台灣銀行牌告匯率"></a>財經M平方-中國 水泥 | 上海運價指數 | 台灣銀行牌告匯率</h2><hr>
-<p>參考網址: <a target="_blank" rel="noopener" href="https://www.macromicro.me/charts/909/commodity-cement">財經M平方-中國 水泥</a><br>參考網址: <a target="_blank" rel="noopener" href="https://www.sse.net.cn/index/singleIndex?indexType=scfi">上海運價指數</a><br>參考網址: <a target="_blank" rel="noopener" href="https://rate.bot.com.tw/xrt?Lang=zh-TW">台灣銀行牌告匯率</a></p>
-<p>水泥可觀察中國的水泥報價，上海運價指數用於觀察貨櫃航運，注意台幣對美金匯率代表資金流向(資金流出不易上漲)</p>
-<h2 id="產業價值鏈資訊平台-公開資訊觀測站-法說會-ETF折溢價查詢-ETN折溢價查詢-三大法人買賣超-–-集中-三大法人買賣超-–-櫃買"><a href="#產業價值鏈資訊平台-公開資訊觀測站-法說會-ETF折溢價查詢-ETN折溢價查詢-三大法人買賣超-–-集中-三大法人買賣超-–-櫃買" class="headerlink" title="產業價值鏈資訊平台 | 公開資訊觀測站-法說會| ETF折溢價查詢 | ETN折溢價查詢 | 三大法人買賣超 – 集中 | 三大法人買賣超 – 櫃買"></a>產業價值鏈資訊平台 | 公開資訊觀測站-法說會| ETF折溢價查詢 | ETN折溢價查詢 | 三大法人買賣超 – 集中 | 三大法人買賣超 – 櫃買</h2><hr>
-<p>參考網址: <a target="_blank" rel="noopener" href="https://ic.tpex.org.tw/">產業價值鏈資訊平台</a><br>參考網址: <a target="_blank" rel="noopener" href="https://mops.twse.com.tw/mops/web/t100sb07_1">公開資訊觀測站-法說會</a><br>參考網址: <a target="_blank" rel="noopener" href="https://mis.twse.com.tw/stock/etf_nav.jsp?ex=tse">ETF折溢價查詢</a><br>參考網址: <a target="_blank" rel="noopener" href="https://mis.twse.com.tw/stock/etn_nav.jsp?ex=tse">ETN折溢價查詢</a><br>參考網址: <a target="_blank" rel="noopener" href="https://www.twse.com.tw/zh/page/trading/fund/T86.html">三大法人買賣超 – 集中</a><br>參考網址: <a target="_blank" rel="noopener" href="https://www.tpex.org.tw/web/stock/3insti/daily_trade/3itrade_hedge.php?l=zh-tw">三大法人買賣超 – 櫃買</a></p>
-<p>這些都是官方網站，用來查看數據!!<br>法說會是掌握企業經營的基本功，若無發布重訊，新聞媒體也不太關注的公司，通常就必須自己找資料來看。</p>
- 
-      <!-- reward -->
-      
-    </div>
-    
-
-    <!-- copyright -->
-    
-    <footer class="article-footer">
-       
-  <ul class="article-tag-list" itemprop="keywords"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/10%E5%88%86%E9%90%98%E9%80%B1%E8%A8%98/" rel="tag">10分鐘週記</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/%E8%82%A1%E5%B8%82/" rel="tag">股市</a></li></ul>
 
     </footer>
   </div>

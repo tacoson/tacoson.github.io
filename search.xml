@@ -45,29 +45,6 @@
       </tags>
   </entry>
   <entry>
-    <title>10分鐘週記-Krita筆記</title>
-    <url>/2022/07/24/10%E5%88%86%E9%90%98%E9%80%B1%E8%A8%98-Krita%E7%AD%86%E8%A8%98/</url>
-    <content><![CDATA[<p>給自己一個挑戰，10分鐘來完成紀錄一週大小事，簡短紀錄一下筆記:</p>
-<h1 id="教學影片"><a href="#教學影片" class="headerlink" title="教學影片"></a>教學影片</h1><p>參考網址: <a href="https://youtu.be/Z06RRp81iDM">HOW TO PAINT IN KRITA</a><br>參考網址: <a href="https://youtu.be/WSbgaSWEqks">Clipping Masks: Alpha inheritance, Alpha Lock &amp; Groups in Krita</a></p>
-<p>第一部影片Jenna Drawing 製作的影片，超清楚解釋如何使用Krita，主要是Step by step把從無到有的繪圖教學，開畫布、基本介面介紹，移動畫布、選擇筆刷、顏色選擇…等，後半段會實際演練出一部作品。<br>第二部影片是查資料找到的，專門介紹如果介紹什麼是Alpha(透明層)、怎麼進行Alpha鎖定並與群組圖層(Group)應用、Alpha繼承用途，最後有個人像繪製。</p>
-<p>因對電繪懵懵懂懂，自己理解的部分<br>Alpha : 其實就是我們看到的非繪製的區域，說白一點是去背的區域<br>Alpha lock : Alpha區域不給你畫，這樣上色區域就可被限制，這是著色的一個好特性<br>Alpha繼承: 看起來可用於物體光影著色</p>
-<h1 id="實際操作"><a href="#實際操作" class="headerlink" title="實際操作"></a>實際操作</h1><p>玩了一會兒，列舉一下有使用過的功能</p>
-<ul>
-<li>匯入影像: [圖層] → [匯入&#x2F;匯出] → [匯入] → [作為顏料塗層]</li>
-<li>圖層: Alpha鎖定、GROUP Layer、Alpha繼承</li>
-<li>匯出 GIF: [檔案] → [繪製動畫]</li>
-<li>工具箱: 色彩取樣(P)、手繪筆刷工具(B)、移動工具(T)、填充工具(F)、選擇區域變形(CTRL+T)、剪裁工具(C)…等</li>
-<li>檢視畫布: [1]:100%原比例大小檢視 [2]:fit顯示區域的檢視 [3]鼠標所在位置的檢視 [4]左邊選轉 [5]擺正 [6]右邊旋轉 [m]左右邊鏡像檢視</li>
-<li>筆刷: 整理喜歡的筆刷到 My favorite</li>
-</ul>
-<h1 id="可愛繪本"><a href="#可愛繪本" class="headerlink" title="可愛繪本"></a>可愛繪本</h1><p>參考網址: <a href="https://www.youtube.com/watch?v=cC_QxRQTFOE">You matter</a></p>
-<p>看完之後，告訴自己無論你有多少如果，You matter.</p>
-]]></content>
-      <tags>
-        <tag>10分鐘週記</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>10分鐘週記 - SFTP研究番外篇</title>
     <url>/2022/12/14/10%E5%88%86%E9%90%98%E9%80%B1%E8%A8%98-SFTP%E7%A0%94%E7%A9%B6%E7%95%AA%E5%A4%96%E7%AF%87/</url>
     <content><![CDATA[<h2 id="SFTP番外篇"><a href="#SFTP番外篇" class="headerlink" title="SFTP番外篇"></a>SFTP番外篇</h2><p>近期主要因為需要研究SFTP SERVER而起，SFTP(SSH File Transfer Protocol AKA. Secure FTP)，主要是透過SSH登入作業時，會進行加密，使得竊聽者無法竊取密碼<br>主要對話通道會進行作業</p>
@@ -89,6 +66,29 @@
       <tags>
         <tag>10分鐘週記</tag>
         <tag>SFTP</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>10分鐘週記-Krita筆記</title>
+    <url>/2022/07/24/10%E5%88%86%E9%90%98%E9%80%B1%E8%A8%98-Krita%E7%AD%86%E8%A8%98/</url>
+    <content><![CDATA[<p>給自己一個挑戰，10分鐘來完成紀錄一週大小事，簡短紀錄一下筆記:</p>
+<h1 id="教學影片"><a href="#教學影片" class="headerlink" title="教學影片"></a>教學影片</h1><p>參考網址: <a href="https://youtu.be/Z06RRp81iDM">HOW TO PAINT IN KRITA</a><br>參考網址: <a href="https://youtu.be/WSbgaSWEqks">Clipping Masks: Alpha inheritance, Alpha Lock &amp; Groups in Krita</a></p>
+<p>第一部影片Jenna Drawing 製作的影片，超清楚解釋如何使用Krita，主要是Step by step把從無到有的繪圖教學，開畫布、基本介面介紹，移動畫布、選擇筆刷、顏色選擇…等，後半段會實際演練出一部作品。<br>第二部影片是查資料找到的，專門介紹如果介紹什麼是Alpha(透明層)、怎麼進行Alpha鎖定並與群組圖層(Group)應用、Alpha繼承用途，最後有個人像繪製。</p>
+<p>因對電繪懵懵懂懂，自己理解的部分<br>Alpha : 其實就是我們看到的非繪製的區域，說白一點是去背的區域<br>Alpha lock : Alpha區域不給你畫，這樣上色區域就可被限制，這是著色的一個好特性<br>Alpha繼承: 看起來可用於物體光影著色</p>
+<h1 id="實際操作"><a href="#實際操作" class="headerlink" title="實際操作"></a>實際操作</h1><p>玩了一會兒，列舉一下有使用過的功能</p>
+<ul>
+<li>匯入影像: [圖層] → [匯入&#x2F;匯出] → [匯入] → [作為顏料塗層]</li>
+<li>圖層: Alpha鎖定、GROUP Layer、Alpha繼承</li>
+<li>匯出 GIF: [檔案] → [繪製動畫]</li>
+<li>工具箱: 色彩取樣(P)、手繪筆刷工具(B)、移動工具(T)、填充工具(F)、選擇區域變形(CTRL+T)、剪裁工具(C)…等</li>
+<li>檢視畫布: [1]:100%原比例大小檢視 [2]:fit顯示區域的檢視 [3]鼠標所在位置的檢視 [4]左邊選轉 [5]擺正 [6]右邊旋轉 [m]左右邊鏡像檢視</li>
+<li>筆刷: 整理喜歡的筆刷到 My favorite</li>
+</ul>
+<h1 id="可愛繪本"><a href="#可愛繪本" class="headerlink" title="可愛繪本"></a>可愛繪本</h1><p>參考網址: <a href="https://www.youtube.com/watch?v=cC_QxRQTFOE">You matter</a></p>
+<p>看完之後，告訴自己無論你有多少如果，You matter.</p>
+]]></content>
+      <tags>
+        <tag>10分鐘週記</tag>
       </tags>
   </entry>
   <entry>
@@ -216,31 +216,6 @@
       </tags>
   </entry>
   <entry>
-    <title>10分鐘週記-最初回</title>
-    <url>/2022/07/01/10%E5%88%86%E9%90%98%E9%80%B1%E8%A8%98/</url>
-    <content><![CDATA[<p>給自己一個挑戰，10分鐘來完成紀錄一週大小事，這週接觸到一些工作或自我成長心得:</p>
-<ol>
-<li>Animaker</li>
-<li>MoneyDJ &amp; 財報狗</li>
-<li>演算法筆記</li>
-</ol>
-<h2 id="Animaker"><a href="#Animaker" class="headerlink" title="Animaker"></a>Animaker</h2><hr>
-<p>參考網址: <a href="https://www.animaker.com/">Animaker</a><br>先談一下對於使用者來說，好處大概是網頁版，只要有瀏覽器便可以進行體驗，官方的template教學齊全，如果想要做做個人的簡歷介紹、結婚紀念、邀請函、短片..等，我想這是一個非常無腦且容易上手的作法，所有的分鏡類似投影片模式呈現，上面所有的物件可以套用動作模組去作客制，若不想修改，只要把文字添加就會是個圖文並茂的精彩動畫。<br>使用限制上跟你的帳號付費的程度成正比，若真的要使用，一個月10美元的花費是基礎開銷，若想當免費仔就必須忍受影片會有浮水印外，可使用素材少，每月五次匯出影片限制。<br>目前僅僅試用一次，改天再嘗試自己的圖片放上去做個屬於自己的動畫。</p>
-<h2 id="MoneyDJ-amp-財報狗-amp-不鏽鋼指數"><a href="#MoneyDJ-amp-財報狗-amp-不鏽鋼指數" class="headerlink" title="MoneyDJ &amp; 財報狗 &amp; 不鏽鋼指數"></a>MoneyDJ &amp; 財報狗 &amp; 不鏽鋼指數</h2><hr>
-<p>參考網址: <a href="https://www.moneydj.com/kmdj/common/listnewarticles.aspx?svc=NW&a=C0.C020114">MoneyDJ</a><br>參考網址: <a href="https://statementdog.com/">財報狗</a><br>參考網址: <a href="http://quote.eastmoney.com/qihuo/ssm.html">不鏽鋼指數</a><br>今年可謂是美國的升息年，跌跌不休的股市(五窮六絕)感受特別深刻，突然想了解鋼鐵產業，話說原本並非不了解，但總覺得自己對整個市場，或者說整個產業鏈並不是通盤理解，甚至鋼鐵也有分不同種類。<br>我個人注意力只放在<strong>不鏽鋼</strong>，不鏽鋼是和一般鋼鐵差異在哪?說穿了就是混和金屬比例不同，因金屬特性而產生不同的應用。上中下游，以我自己的理解就是煉鋼、加工+裁切、應用端(只是我自己的理解，錯了別砲我)，整體鋼鐵產業就是景氣循環、高耗能低毛利、反傾銷稅的常客，高資金門檻的特性。耗能產業勢必又跟綠能產業扯上邊，畢竟是天秤的兩端。目前應該最大的消費需求都來自中國，因此他們的商品指數才會具有代表性。</p>
-<p><code>MoneyDJ</code>可以查詢產業訊息，至少更新速度算是快，下游產業要注意產品銷售情況。<br><code>財報狗</code>讓人訝異，裡面竟然也有收集到興櫃的財報，看盤軟體有時候不會這麼好心幫你收集。<br><code>不鏽鋼指數</code>可以觀察和LME鎳期貨的高度相關性，也可以比對一下和國內上游廠商的相關性。</p>
-<p>關於鋼鐵上游廠商，通常原物料漲價，也會照樣反應給中游及下游廠商，某種程度是轉嫁，原本取得存貨成本低，短期具利差，視為短多，漲價若是因為通貨膨脹而非實質需求(實質需求通常是基礎建設)，必須要注意其危險性，後續若發現貨幣政策緊縮，首當其衝也會是上游廠商。</p>
-<h2 id="演算法筆記"><a href="#演算法筆記" class="headerlink" title="演算法筆記"></a>演算法筆記</h2><hr>
-<p>參考網址: <a href="https://web.ntnu.edu.tw/~algo/">演算法筆記</a></p>
-<p>這是一個很有意思的網站，架在台師大教職員網域內，筆記簡單好懂。<br>裡面有個參考網站 <strong><a href="https://github.com/jwasham/coding-interview-university">Coding Interview University</a></strong> 內的內容滿吸引我，看到好多Cheating Sheet,我就想起以前Linux學習的時候，最喜歡的一張Vi操作指令表，這對記性不好的我來說是一大助益。</p>
-]]></content>
-      <tags>
-        <tag>10分鐘週記</tag>
-        <tag>股市</tag>
-        <tag>演算法</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>20220606-after</title>
     <url>/2022/06/06/20220606-after/</url>
     <content><![CDATA[<h1 id="Markdown-syntax-guide"><a href="#Markdown-syntax-guide" class="headerlink" title="Markdown syntax guide"></a>Markdown syntax guide</h1><h2 id="Headers"><a href="#Headers" class="headerlink" title="Headers"></a>Headers</h2><h1 id="This-is-a-Heading-h1"><a href="#This-is-a-Heading-h1" class="headerlink" title="This is a Heading h1"></a>This is a Heading h1</h1><h2 id="This-is-a-Heading-h2"><a href="#This-is-a-Heading-h2" class="headerlink" title="This is a Heading h2"></a>This is a Heading h2</h2><h6 id="This-is-a-Heading-h6"><a href="#This-is-a-Heading-h6" class="headerlink" title="This is a Heading h6"></a>This is a Heading h6</h6><h2 id="Emphasis"><a href="#Emphasis" class="headerlink" title="Emphasis"></a>Emphasis</h2><p><em>This text will be italic</em><br><em>This will also be italic</em></p>
@@ -302,6 +277,31 @@
       </tags>
   </entry>
   <entry>
+    <title>10分鐘週記-最初回</title>
+    <url>/2022/07/01/10%E5%88%86%E9%90%98%E9%80%B1%E8%A8%98/</url>
+    <content><![CDATA[<p>給自己一個挑戰，10分鐘來完成紀錄一週大小事，這週接觸到一些工作或自我成長心得:</p>
+<ol>
+<li>Animaker</li>
+<li>MoneyDJ &amp; 財報狗</li>
+<li>演算法筆記</li>
+</ol>
+<h2 id="Animaker"><a href="#Animaker" class="headerlink" title="Animaker"></a>Animaker</h2><hr>
+<p>參考網址: <a href="https://www.animaker.com/">Animaker</a><br>先談一下對於使用者來說，好處大概是網頁版，只要有瀏覽器便可以進行體驗，官方的template教學齊全，如果想要做做個人的簡歷介紹、結婚紀念、邀請函、短片..等，我想這是一個非常無腦且容易上手的作法，所有的分鏡類似投影片模式呈現，上面所有的物件可以套用動作模組去作客制，若不想修改，只要把文字添加就會是個圖文並茂的精彩動畫。<br>使用限制上跟你的帳號付費的程度成正比，若真的要使用，一個月10美元的花費是基礎開銷，若想當免費仔就必須忍受影片會有浮水印外，可使用素材少，每月五次匯出影片限制。<br>目前僅僅試用一次，改天再嘗試自己的圖片放上去做個屬於自己的動畫。</p>
+<h2 id="MoneyDJ-amp-財報狗-amp-不鏽鋼指數"><a href="#MoneyDJ-amp-財報狗-amp-不鏽鋼指數" class="headerlink" title="MoneyDJ &amp; 財報狗 &amp; 不鏽鋼指數"></a>MoneyDJ &amp; 財報狗 &amp; 不鏽鋼指數</h2><hr>
+<p>參考網址: <a href="https://www.moneydj.com/kmdj/common/listnewarticles.aspx?svc=NW&a=C0.C020114">MoneyDJ</a><br>參考網址: <a href="https://statementdog.com/">財報狗</a><br>參考網址: <a href="http://quote.eastmoney.com/qihuo/ssm.html">不鏽鋼指數</a><br>今年可謂是美國的升息年，跌跌不休的股市(五窮六絕)感受特別深刻，突然想了解鋼鐵產業，話說原本並非不了解，但總覺得自己對整個市場，或者說整個產業鏈並不是通盤理解，甚至鋼鐵也有分不同種類。<br>我個人注意力只放在<strong>不鏽鋼</strong>，不鏽鋼是和一般鋼鐵差異在哪?說穿了就是混和金屬比例不同，因金屬特性而產生不同的應用。上中下游，以我自己的理解就是煉鋼、加工+裁切、應用端(只是我自己的理解，錯了別砲我)，整體鋼鐵產業就是景氣循環、高耗能低毛利、反傾銷稅的常客，高資金門檻的特性。耗能產業勢必又跟綠能產業扯上邊，畢竟是天秤的兩端。目前應該最大的消費需求都來自中國，因此他們的商品指數才會具有代表性。</p>
+<p><code>MoneyDJ</code>可以查詢產業訊息，至少更新速度算是快，下游產業要注意產品銷售情況。<br><code>財報狗</code>讓人訝異，裡面竟然也有收集到興櫃的財報，看盤軟體有時候不會這麼好心幫你收集。<br><code>不鏽鋼指數</code>可以觀察和LME鎳期貨的高度相關性，也可以比對一下和國內上游廠商的相關性。</p>
+<p>關於鋼鐵上游廠商，通常原物料漲價，也會照樣反應給中游及下游廠商，某種程度是轉嫁，原本取得存貨成本低，短期具利差，視為短多，漲價若是因為通貨膨脹而非實質需求(實質需求通常是基礎建設)，必須要注意其危險性，後續若發現貨幣政策緊縮，首當其衝也會是上游廠商。</p>
+<h2 id="演算法筆記"><a href="#演算法筆記" class="headerlink" title="演算法筆記"></a>演算法筆記</h2><hr>
+<p>參考網址: <a href="https://web.ntnu.edu.tw/~algo/">演算法筆記</a></p>
+<p>這是一個很有意思的網站，架在台師大教職員網域內，筆記簡單好懂。<br>裡面有個參考網站 <strong><a href="https://github.com/jwasham/coding-interview-university">Coding Interview University</a></strong> 內的內容滿吸引我，看到好多Cheating Sheet,我就想起以前Linux學習的時候，最喜歡的一張Vi操作指令表，這對記性不好的我來說是一大助益。</p>
+]]></content>
+      <tags>
+        <tag>10分鐘週記</tag>
+        <tag>股市</tag>
+        <tag>演算法</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>20230422 抹茶山我終於來了</title>
     <url>/2023/04/22/20230422-%E6%8A%B9%E8%8C%B6%E5%B1%B1%E6%88%91%E7%B5%82%E6%96%BC%E4%BE%86%E4%BA%86/</url>
     <content><![CDATA[<h2 id="COVID19治療歷程"><a href="#COVID19治療歷程" class="headerlink" title="COVID19治療歷程"></a>COVID19治療歷程</h2><p>很久沒出現，除了今年度因為人員調動，手中原本安排要接手的工作又多了一些，原本熟悉的業務也要下半年要移交出去。或許是已經周末連加兩天班，抵抗力下降，4月中第一次確診了；目前看起來病毒不強，但也差不多要花一周左右才有辦法排除一些急性症狀–發燒、喉嚨劇痛、黃綠痰，我的症狀大約是前兩天主要發燒，喉嚨痛在退燒後和痰的問題開始明顯，西醫(抗生素、普拿疼…)、中醫(公費清冠一號)、自備藥品舒立效、消炎噴劑、枇杷止咳散；最有幫助的是清冠一號，五天療程中，對喉嚨痛幫助非常大，否則我還真的不知怎麼進食。</p>
@@ -345,6 +345,173 @@
 ]]></content>
       <tags>
         <tag>心情</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>20231119 桌機零組件更新</title>
+    <url>/2023/11/19/20231119-%E6%A1%8C%E6%A9%9F%E9%9B%B6%E7%B5%84%E4%BB%B6%E6%9B%B4%E6%96%B0/</url>
+    <content><![CDATA[<h2 id="桌機零組件更新"><a href="#桌機零組件更新" class="headerlink" title="桌機零組件更新"></a>桌機零組件更新</h2><p>平時3C產品我的使用舒適度，最佳者為桌上型電腦，工作之後家用電腦一直維持定期添購零組件自行安裝，好處就是少許價格就可享受到規格提升的價值，<br>我想ICT產業的進步，現在的零組件便宜和耐用度更甚以往:回頭看很難想像INTEL Pentium的時候一套電腦，CPU時脈只有200MHz、記憶體還只有32MB的時代是怎麼過來的。<br>SOC、物聯網的概念下，桌上型電腦已非唯一接觸數位時代的媒介，但是文書處理、多螢幕工作、影音編輯還是以桌機主要舞台。<br>自從不需要在家裡開發手機程式、跑VM軟體，家用電腦用途僅有辦公室軟體、通訊軟體及上網看影音，想想也經歷了10幾年。</p>
+<p>距離上次更新大約5年以前了，停止的主要因素為當時購買的AMD CPU插座 AM3+後繼CPU並沒有明顯的進步，因此我的硬體停留在FX6300+RAM12GB+SSD硬碟，AMD於2017開始推出ZEN架構的CPU也開始改採AM4新的插座規格，久而久之，我很就跟少關心桌機硬體發展，想說等目前用不下去再換。當然我也不是沒起心動念過，只是最近幾年當超微絕地反攻，市占超越英特爾，顯然成就也會反映在價格上，這部分可在逛3C賣場看出定價策略，印象中原本2K變成4K至5K，也會延長更新的動機，再加上我的應用現在電腦已有餘力(僅Ultraedit全文搜尋工作程式碼較費時，每回搜尋要30秒~1分鐘)<br>直到近期聽說已經要AM5了，再加上現在benchmark A CPU vs B CPU 效能比較網路上都很透明，看到任何二手CPU都已到甜甜價，而且單核心幾乎皆是+100%效能提升(意即兩倍)，而且多核心下會再大幅增加體驗，只能工作時間可以下降一半，就值了。</p>
+<h2 id="什麼可買二手"><a href="#什麼可買二手" class="headerlink" title="什麼可買二手"></a>什麼可買二手</h2><p>家中使用電腦，由於還停留在以前組裝便宜主機(AMD)的習慣，家用就不討論INTEL架構，公司使用的電腦清一色還是以INTEL為主，這也算是另類的經驗學習，能清楚知道差異在哪。<br>CPU除非接腳斷掉，不然新舊差異不大；記憶體常有終生保固，製造商都這麼有信心了，因此差異也不大。<br>其餘的裝置容易有耗損無保固的話，在更新之前就必須要三思。</p>
+<p>長時間沒觀察的結果，發現資訊量有些大，而且處處是驚奇，寫一下感想:<br>由於CPU架構中，通常會把整個電腦系統的架構做清楚定義，換言之也會同步影響記憶體等IO裝置的支援度，M.2、PCIe、USB3.2和DDR4已經是主流，<br>基礎概念除了傳輸速度增加、擴充裝置微型化，更不用說SSD和HardDisc的單位成本再度下降，從效能幾乎都是以遊戲檢測指標來看，<strong>硬體退流行感</strong>可能只出現於特定族群。<br>當然我也不是覺得硬體進展全然會沒可用之地，2023年開始爆紅的AI或許會引導整個產業前進，但現況看起來都是GPU廠商的發揮空間。</p>
+<h2 id="零件菜單"><a href="#零件菜單" class="headerlink" title="零件菜單"></a>零件菜單</h2><p>1.CPU: Ryzen 5 4600G (Zen2) , NT2,835<br>2.RAM: Kingston 16GB x 1 (DDR4-3200) , NT899<br>3.主機板: 華碩 PRIME A520M-K , NT1,500<br>以上便是本次升級清單，都是有段時間過時產品，但對我而言可是大幅度升級。</p>
+<h2 id="桌機必買SSD"><a href="#桌機必買SSD" class="headerlink" title="桌機必買SSD"></a>桌機必買SSD</h2><p>CPU的多核化、製程進步、功耗降低，對單一應用影響性越來越低。<br>使用習慣只是文書機，真正強烈建議採用SSD，一般人上上網打打報告，最重要的就是開關機、存檔，IO設備的邊際能力擴增會比增強CPU來的有用。</p>
+]]></content>
+      <tags>
+        <tag>心情</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>20231111 當前方沒有背影</title>
+    <url>/2023/11/10/20231111-%E7%95%B6%E5%89%8D%E6%96%B9%E6%B2%92%E6%9C%89%E8%83%8C%E5%BD%B1/</url>
+    <content><![CDATA[<h2 id="序言"><a href="#序言" class="headerlink" title="序言"></a>序言</h2><p>每年第四季，先是萬聖節(10月31日)後是感恩節(11月最後一個禮拜四)，當然還有撰寫本文當日的1111購物節，感受到自己購買力驚人，購物之餘，心中難免感觸。<br>近期職場開始出現過去10年間預期的退休潮，『當前方沒有背影』就一直在我腦海揮之不去，以前凡事都以做好個人工作範圍及有前人可依賴，曾幾何時，也開始準備進入中生代階段。<br>這不像購物，可以看BLOG開箱文、網紅試用心得；這亦可以延伸解釋，日常生活中沒範本可循、依賴、諮詢之事。<br>或許，腦中謎團是透過努力得出解答，每天都是驚奇和挑戰，保持心態正確似乎才是不二法門。<br>工作以外，人生也何嘗不是。</p>
+<h2 id="婚姻生活"><a href="#婚姻生活" class="headerlink" title="婚姻生活"></a>婚姻生活</h2><p>每每聽到其他家庭是否可借鏡，總覺得家家都有本難念的經，有時我覺得最親近的人反而是最難溝通的，彼此都會覺得自己在做讓步。</p>
+<h2 id="美股喃喃自語"><a href="#美股喃喃自語" class="headerlink" title="美股喃喃自語"></a>美股喃喃自語</h2><p><img src="/images/stock_murmur.png" title="美股的喃喃自語"><br>沒有前車之鑑，只有自己實務感受，模擬一下自己的心情<br>坦言說有點像博弈遊戲:骰盅，目標是幾盤內預測出正確點數，越接近結算日，等待盤數越少。<br>只能怡情不能致富</p>
+<h2 id="自我實現"><a href="#自我實現" class="headerlink" title="自我實現"></a>自我實現</h2><p>這部分目前還很模糊，拚小孩? 似乎沒有；換工作? 似乎也不是很必要；出門旅行? 我不想因為為了旅遊而旅遊<br>明年的目標或許可以逐一列出來落實一下，以前有想過再出去闖闖，或許可以嘗試看看。<br>話說目前住的地方附近，有語言中心和社區大學，看來應該要好好利用一下。</p>
+]]></content>
+      <tags>
+        <tag>心情</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>20231017_六道式淨水器</title>
+    <url>/2023/10/17/20231017-%E5%85%AD%E9%81%93%E5%BC%8F%E6%B7%A8%E6%B0%B4%E5%99%A8/</url>
+    <content><![CDATA[<h2 id="RO淨水器非專業自問自答"><a href="#RO淨水器非專業自問自答" class="headerlink" title="RO淨水器非專業自問自答"></a>RO淨水器非專業自問自答</h2><p>以前都是看父親在安裝家裡的淨水器，看著前房客留下來的淨水器，剛開始有些愣住，我完全沒概念，回神過來後，經過網路影片教學及查蝦皮上賣濾心的影片得知，以下是目前短暫的理解:</p>
+<ul>
+<li><strong>RO逆滲透可以過濾細菌及化學物質嗎?</strong> YES</li>
+<li><strong>為什麼會有兩個管子，一個直接排出至洗手台；另外一個接鵝頸?</strong> 主要是因為過濾的水過程中會產生一定比例的廢水，廢水會直接排除，也因為如此，傳統過濾後的水量不大，需要額外有個儲水桶(AKA壓力桶)</li>
+<li><strong>濾心哪裡買?</strong> 直接從蝦皮訂購最便宜(不同濾心耐用時間不同，通常都有一年份組合套餐)，但建議順便買TDM檢測筆，避免萬一濾心本身有問題，至少可以發現，不至於喝到有問題的水質。</li>
+<li><strong>壓力桶用途?</strong> 因為產製的淨水水量不大，先放置於壓力桶，當要使用時才不會還需要大量等待時間；另外有廠商推出直出式，也就是說不需要壓力桶，出來的水量就足以直接使用，但水質據說會比較需要額外注意，該類產品技術含量較高，看來方便總是還是有代價的。</li>
+</ul>
+<hr>
+<h2 id="實際圖"><a href="#實際圖" class="headerlink" title="實際圖"></a>實際圖</h2><ul>
+<li>拆卸的時候，看網路影片提到，需要尖嘴鉗和六角板手，但後者在我這一款似乎還不需要。</li>
+<li>止水膠帶(紙洩帶)也要記得購買，纏繞方式記得是順時鐘，目前看起來5、6道濾心更換時需要使用。<br><img src="/images/20231017_ro_1.jpg" title="六道式淨水器"><br><img src="/images/20231017_ro_2.jpg" title="第1道濾心"><br><img src="/images/20231017_ro_3.jpg" title="第2道濾心"><br><img src="/images/20231017_ro_4.jpg" title="第3道濾心"><br><img src="/images/20231017_ro_5.jpg" title="第4道RO膜"><br><img src="/images/20231017_ro_6.jpg" title="第5,6道提升水質口感濾心"></li>
+</ul>
+]]></content>
+      <tags>
+        <tag>水電</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>20231221 本多終勝</title>
+    <url>/2023/12/21/20231221-%E6%9C%AC%E5%A4%9A%E7%B5%82%E5%8B%9D/</url>
+    <content><![CDATA[<h2 id="本多終勝"><a href="#本多終勝" class="headerlink" title="本多終勝"></a>本多終勝</h2><p>近期有時候在聽podcast的時候，聽到耳熟能詳的這個詞，用來形容追求大資本產生的資本財，比起追求短期的獲利百分比來的重要。<br>舉例來說，若有10萬美元，目前利率定存少說也有接近5%，排除匯損的投資結果，和購買了短期飆股，股價漲了一波賺了價差，來得有意義。<br>在市場上追求低風險報酬，報酬只要大於個人日常生活對於金錢的需求，就會產生一種滿足感和財務自由感。</p>
+<p>累積資本的方法，家庭財富的繼承外，一般人不外乎就是把本業做好，透過本業累積資本</p>
+<p>目前還沒購屋，財務上沒被綁住，換言之更應該不要浪費一份一毫</p>
+<p>但心中總覺得哪邊怪怪的，我的家庭生活有些隱憂</p>
+<h2 id="心中隱憂"><a href="#心中隱憂" class="headerlink" title="心中隱憂"></a>心中隱憂</h2><p>今年度成家後，和結婚前的不同，有時候我的開銷已經不是以本身為主，以前自己想住套房，或者選擇什麼交通方式，都會以自我價值為主<br>現在另一半的價值觀，間接地影響我的生活，不論是挑選居住地點房租，還沒小孩之前，月薪的四成用於日常生活費，整體來說是個很大的消耗。<br>我在抱怨嗎?並不是，如果答案是肯定，我就不會選擇進入婚姻生活，凡事有利有弊，雖然另一半收入高出我許多，但我認為還是得把生活開銷給撐下來<br>吃虧一點未來就會少一些爭端，目前生活感受上是還可以，我的生活幾乎跟單身沒什麼差異，平常聊天時間也不多，只是我依稀還是覺得有些隱憂。</p>
+<ul>
+<li>另一半相處:目前仍有辦法在能力範圍內盡力達成，縱使並非個人認為的最佳解。我覺得其實還過得去，但舉兩個例子來呈現我的隱憂<ul>
+<li>購買禮物:近期有收到老婆從美國旅行歸國買的TUMI單肩包，經介紹，會買給我的應該是剛好看到，因覺得我平常背的很破(我的是去日亞買的，實在很反駁一下)，雖然還是收下昂貴的禮物，但難免有些擔心，如果沒同等對待，會不會怠慢。</li>
+<li>姻親制約:有談到每天到岳父母家一起吃飯，我本身不會排斥，只是沒這習慣，聊天過程中，提到假如我晚上去賺錢這類的話，當然我是開玩笑，僅是表達假設狀況，得到的反應卻是可能我這樣做岳母會不高興。有時我真的覺得或許另一半沒意識到來說，父母之命盡量順從，不應該我也帶入，尤其這算是個人選擇自由，畢竟我沒有相對應把我家人的想法加諸在對方身上。</li>
+</ul>
+</li>
+<li>家人間狀況:每個家庭都會有自己的問題，先撇開情感方面，有時我在看自己原本家庭，我有沒有辦法撥出心力回饋是一個問題?被誤會是另一個問題?在台北，對於遠在家鄉的親人，都是以自身對於我的所得稅申報的數字在「想像」，尤其沒在外地工作的家族，絕對不會了解，稅負和各方面對我來說產生的壓力。</li>
+</ul>
+]]></content>
+      <tags>
+        <tag>心情</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>20240106 2024新生活運動</title>
+    <url>/2024/01/06/20240106-2024%E6%96%B0%E7%94%9F%E6%B4%BB%E9%81%8B%E5%8B%95/</url>
+    <content><![CDATA[<h1 id="回顧2023-AND-展望2024"><a href="#回顧2023-AND-展望2024" class="headerlink" title="回顧2023 AND 展望2024"></a>回顧2023 AND 展望2024</h1><table>
+<thead>
+<tr>
+<th align="left">編號</th>
+<th align="center">願望清單</th>
+<th align="center">關鍵活動</th>
+<th align="center">達成(O&#x2F;X)</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="left">1</td>
+<td align="center">走入人生下一個階段</td>
+<td align="center">結婚</td>
+<td align="center">O</td>
+</tr>
+<tr>
+<td align="left">2</td>
+<td align="center">自我專案&#x2F;事業</td>
+<td align="center">決定人生中除了工作以外最想嘗試的事業</td>
+<td align="center">X</td>
+</tr>
+<tr>
+<td align="left">3</td>
+<td align="center">投資</td>
+<td align="center">以買房為主的存錢、風險性投資不超過20分之1</td>
+<td align="center">X</td>
+</tr>
+<tr>
+<td align="left">4</td>
+<td align="center">維持健康</td>
+<td align="center">落實運動習慣，並取得樂趣</td>
+<td align="center">X</td>
+</tr>
+<tr>
+<td align="left">5</td>
+<td align="center">改變思維</td>
+<td align="center">養成系統性思考習慣、善用NOTE</td>
+<td align="center">O</td>
+</tr>
+<tr>
+<td align="left">6</td>
+<td align="center">生活紀錄</td>
+<td align="center">珍惜生活中每一天的發現</td>
+<td align="center">O</td>
+</tr>
+</tbody></table>
+<p>雖然經過檢視達成率僅50%，健康主要是有段時間作息不正常之賜，導致耳鳴的毛病，還做了多次醫院檢查，但完成了終生大事後，此時此刻的心情好像有沉穩一些，和先前狀態會有比較會有歸屬感，希望會改善一些。<br>想想光是結婚從租屋開始也是經過五個月之久，由於結婚前夕，總是要完成點趁單身要達成的願望清單，年初的計畫便暫時拋棄狀態，像是自我事業、投資，平時並無特別注意。<br>目前租屋空間為2房1廳格局，可擺放的東西變多，意外發現蝦皮變成我日常生活中最常逛的網站，採購多次，猛一看再沒多少就要變身金蝦了!!<br>因現在身份不同，也要更有目標性的實踐生活目標，避免將來後悔，看屋計畫或許也得列入清單中；目前薪水也進入工作壯年期，要以穩健為主。<br>來草擬一下2024年度計畫</p>
+<h4 id="六大願望清單"><a href="#六大願望清單" class="headerlink" title="六大願望清單"></a>六大願望清單</h4><table>
+<thead>
+<tr>
+<th align="left">編號</th>
+<th align="center">願望清單</th>
+<th align="center">關鍵活動</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="left">1</td>
+<td align="center">經營婚姻生活</td>
+<td align="center">兩人世界氣氛、培養體貼一面</td>
+</tr>
+<tr>
+<td align="left">2</td>
+<td align="center">維持健康</td>
+<td align="center">落實運動習慣，並取得樂趣</td>
+</tr>
+<tr>
+<td align="left">3</td>
+<td align="center">自我專案&#x2F;事業</td>
+<td align="center">決定人生中除了工作以外最想嘗試的事業</td>
+</tr>
+<tr>
+<td align="left">4</td>
+<td align="center">投資</td>
+<td align="center">以買房為主的存錢、風險性投資不超過20分之1</td>
+</tr>
+<tr>
+<td align="left">5</td>
+<td align="center">房地產</td>
+<td align="center">定期特定區域的房價及車位</td>
+</tr>
+<tr>
+<td align="left">6</td>
+<td align="center">工作</td>
+<td align="center">工作中找尋技能學習不虛度光陰</td>
+</tr>
+</tbody></table>
+<h2 id="經營婚姻生活"><a href="#經營婚姻生活" class="headerlink" title="經營婚姻生活"></a>經營婚姻生活</h2><p>很慶幸並沒有碰到情緒化的另外一半，但也因為如此，交往時想培養自己體貼的一面，接送常被拒絕後慢慢就變了個性，培養成大家都是獨立生活，這也是我平時有時很落寞的因素，總覺得好不符合自己的預期。<br>期待自己能夠培養出生活默契先，找到岳父岳母弟妹的相處模式；善用廚房及不要只自顧自坐在電腦前的生活，目前汽車租車位仍遠在三峽，平時也得注意一下附近的停車位，以後有空就可以載家人出遊。<br>今年底前會有婚假14日，要好好規劃一下!!<br>至於小孩，個人認為機率不高，畢竟大家都是晚婚族，不要放太多壓力在身上。</p>
+<h2 id="維持健康"><a href="#維持健康" class="headerlink" title="維持健康"></a>維持健康</h2><p>目前牙齒又拔了左上的智齒，左下方智齒廳牙醫師建議，由於X光片已經看到變成軟組織，可能很容易發炎，要找時間處理一下<br>找個時間去學個新運動好了!!免得跑步總是會有點懶的出門</p>
+<h2 id="自我專案-x2F-事業"><a href="#自我專案-x2F-事業" class="headerlink" title="自我專案&#x2F;事業"></a>自我專案&#x2F;事業</h2><p>假設沒有IDEA，就退而求其次，從拜訪朋友先下手吧!!前陣子為了喜餅上的小卡，上蝦皮看到有客製小卡，雖然公版套圖，但不由得感覺商機總是在生活中尋找。<br>善用電子書閱讀器</p>
+<h2 id="投資"><a href="#投資" class="headerlink" title="投資"></a>投資</h2><p>今年美股可以還是簡單把利息買買OP就好，今年因有大量租金支出，要避免損失。</p>
+<h2 id="房地產"><a href="#房地產" class="headerlink" title="房地產"></a>房地產</h2><p>注意目前生活範圍，倘若符合需求，要勇敢出價!!北市公寓為主!!</p>
+<h2 id="工作"><a href="#工作" class="headerlink" title="工作"></a>工作</h2><p>本年度目標是達成遲到最少化的情況；由於去年光是遲到24次，今年的假期較多，特休目標請半天就好。</p>
+]]></content>
+      <tags>
+        <tag>年度計畫</tag>
       </tags>
   </entry>
   <entry>
@@ -463,6 +630,30 @@
       </tags>
   </entry>
   <entry>
+    <title>20240217_生日過後感想</title>
+    <url>/2024/02/17/20240217-%E7%94%9F%E6%97%A5%E9%81%8E%E5%BE%8C%E6%84%9F%E6%83%B3/</url>
+    <content><![CDATA[<h2 id="生日後一天"><a href="#生日後一天" class="headerlink" title="生日後一天"></a>生日後一天</h2><p>今年是2024，每隔四年出現的閏年，意識到今年有2月29日，誕生於此日的人們只能四年擴大慶生，但今年生日恰好在農曆年後的週五。<br>說起生日，自從有意識以來，很常和農曆年重疊，因此年假喜悅總是超過於過生日，今天又恰好是次日周六也是補班日，補班日我在做什麼呢?<br>工作之餘，把公司發的年節禮券在跟進行兌現，雖然不清楚社會上收禮券的獲利密碼，但我想應該跟百貨公司脫離不太了關係。<br>以目前行情的93折的禮券行情，雖然有些吃虧，但先不想太多，先換先換。</p>
+<h2 id="Youtube-常看影片"><a href="#Youtube-常看影片" class="headerlink" title="Youtube 常看影片"></a>Youtube 常看影片</h2><p>不知不覺自己的收視習慣，幾乎都是以youtube為主，<br>近期非常喜愛觀看歷史故事節目，強力推薦<code>李天豪</code>頻道，從三國、清朝、民國初年、談到近期的總統大選<br>甚至是中東半島都有脈絡及組織性的口述歷史，原本教科書式只知道歷史上的大事，能從發生的時空背景分析及依照文獻重現當時歷史人物思考，更能把聽眾帶入實際主題中<br>。<br>沒有厚實的歷史政治博學才能真的無法辦到，真心推薦。</p>
+<p>參考網址: <a href="https://www.youtube.com/@leecehao">李天豪老師</a></p>
+<h2 id="台三線"><a href="#台三線" class="headerlink" title="台三線"></a>台三線</h2><p>年假過了，本次年假除了是婚後第一回過年，有天為了避開高速公路塞車，便開著台3線一路開到曾文水庫，享用了砂鍋魚頭餐，也逛了環湖公園，步行在同心橋上，徐徐微風吹拂，心情輕鬆快活。<br>嘉義有許多我愛的元素，雞肉飯、阿里山美景外，現在又可加上砂鍋魚頭了!!，台三線最南也可以到旗山，旗山老街很想去看看，也很想到梅山老街走走，台北差不多應該都有些概念和印象了，<br>是時候常往外縣市走走了，我想可以用台三線路過的行政區來分類前往，來場務實的浪漫台三線旅行吧。</p>
+]]></content>
+      <tags>
+        <tag>心情</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>20240229_初探雲林嘉義</title>
+    <url>/2024/03/03/20240229-%E5%88%9D%E6%8E%A2%E9%9B%B2%E6%9E%97%E5%98%89%E7%BE%A9/</url>
+    <content><![CDATA[<h2 id="台三線之雲嘉篇"><a href="#台三線之雲嘉篇" class="headerlink" title="台三線之雲嘉篇"></a>台三線之雲嘉篇</h2><p>今年春節初四來了一趟曾文水庫之旅，由於要避開高速公路車潮，從台中74號快速道路結束後，改走台三線，整趟旅程中，沿途經過南投雲林，最終抵達嘉義，而且大埔在非常深山內，第一次體會到為何台三線稱之為「內山公路」，自從有了這次經驗，突然間，覺得對於中南部的山線城市並不熟悉，每回從台中出發當天來回，因要避開車潮，偏好走海線旅行，也常利用濱海公路南下彰化或北上苗栗，自然而然都會是去鹿港或者西螺等地。<br>有鑑於此，便促成本次三天兩夜的嘉義雲林之旅，居住地選在嘉義，旅行的主體以阿里山本線鐵路之旅為主，市區美食為輔。<br>最後一天則造訪梅山的太平天梯、古坑綠色隧道及斗六市區。</p>
+<h2 id="嘉義-認識市區"><a href="#嘉義-認識市區" class="headerlink" title="嘉義(認識市區)"></a>嘉義(認識市區)</h2><p>第一天主要嘉義市區附近，以步行認識嘉義，印象深刻的是感受地圖上的距離感和認知中有很大不同，雖然有些花時間，但也對於垂楊路、仁愛路…等更有印象。<br>我妹推薦的涼麵果然名不虛傳，滿合我的口味，下次去還要再吃一次；下次另外一個必吃的是阿屋米糕(文化路夜市內)<br><img src="/images/20240229_01.jpg" title="四味果汁涼麵"><br><img src="/images/20240229_02.jpg" title="涼麵本尊"><br><img src="/images/20240229_03.jpg" title="旅館推薦不踩雷"></p>
+<h2 id="嘉義-阿里山小火車-gt-文化路夜市"><a href="#嘉義-阿里山小火車-gt-文化路夜市" class="headerlink" title="嘉義(阿里山小火車-&gt;文化路夜市)"></a>嘉義(阿里山小火車-&gt;文化路夜市)</h2><p>今天從早上9點到下午4點都按照小火車的時刻表進行，非常興奮搭的林業火車(需事先訂票)，小火車行進間有些顛頗，容易晃到脖子痠痛，還好車掌路途中有介紹林業火車的爬山方式，及各站的特點，多虧有這段介紹，不然我想兩個小時的車程會很難熬。<br>中途有個獨立山站，附近的步道或許可以研究一下，下次專程過來。<br><img src="/images/20240301_01.jpg" title="準備來搭小火車"><br><img src="/images/20240301_02.jpg" title="林業本線搭乘地點指示"><br><img src="/images/20240301_03.jpg" title="位置在第五節"><br><img src="/images/20240301_04.jpg" title="奮起湖老街景象"><br><img src="/images/20240301_05.jpg" title="車站被霧環繞"></p>
+<h2 id="嘉義-檜意森活村-gt-梅山太平雲梯-、雲林-古坑-gt-斗六"><a href="#嘉義-檜意森活村-gt-梅山太平雲梯-、雲林-古坑-gt-斗六" class="headerlink" title="嘉義(檜意森活村-&gt;梅山太平雲梯)、雲林(古坑-&gt;斗六)"></a>嘉義(檜意森活村-&gt;梅山太平雲梯)、雲林(古坑-&gt;斗六)</h2><p>檜意森活村在北門站附近，有不少日式庭院式的建築可以欣賞，也有蒸汽火車體驗可以付費參與，聽說是從北門車站來回嘉義車站。<br>本日後續的行程都是以北上為主，雖然下雨，到梅山太平老街時，氣溫為八度，體感非常寒冷，但還好並沒有下雨，而且途中有看到雲海(沒有被霧氣圍繞)。<br>由於我們沒有購票上雲梯，反倒是發現一個名叫望月亭的地方，這應該是看雲海不錯的點，當日沒有停車問題，假設天氣好，聽說停車不太好停，旁邊的老街滿商業化的，人一走上去一堆試吃品。<br>古坑綠色隧道內最有用的情報除了那邊是條綿延多條路線的腳踏車道外，就是有張古坑山區的的景點圖，心理非常雀躍不已(又有新地點可去了)。<br>最後一站舊式斗六市區太平老街買吃的，目前印象最深的就是陳家臭豆腐，炸過的皮能做到不乾不容易，真心推薦。<br><img src="/images/20240302_01.jpg" title="檜意生活村，欣賞木造建築"><br><img src="/images/20240302_02.jpg" title="太平雲梯"><br><img src="/images/20240302_03.jpg" title="太平景象緣起不滅細水長流"><br><img src="/images/20240302_04.jpg" title="未來預計前往之處華山、樟湖、草嶺"><br><img src="/images/20240302_05.jpg" title="綠色隧道假日市集"><br><img src="/images/20240302_06.jpg" title="斗六雲林溪景觀步道1"><br><img src="/images/20240302_07.jpg" title="斗六雲林溪景觀步道2"></p>
+]]></content>
+      <tags>
+        <tag>心情</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Pubook入手儀式</title>
     <url>/2023/06/24/Pubook%E5%85%A5%E6%89%8B%E5%84%80%E5%BC%8F/</url>
     <content><![CDATA[<h2 id="賀-Pubook入手"><a href="#賀-Pubook入手" class="headerlink" title="賀!!Pubook入手"></a>賀!!Pubook入手</h2><p>近期突然間對於電子書閱讀器產生興趣，這產品其實已經存在市場上非常久，從前的印象總是更新速度慢、平板也可以達到同樣功能，因為並沒有非買不可的理由，遲遲沒有下手。<br>誠品禮券也累積到一個程度，而且近期元太第三代的彩色電子紙技術也推出，國內各主要品牌開始推出相關產品，想想林林總總也看了滿多品牌，以下是未購買前準備的心得:</p>
@@ -476,6 +667,26 @@
 ]]></content>
       <tags>
         <tag>心情</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>UBER EAT Milestone</title>
+    <url>/2022/07/24/UBER-EAT-Milestone/</url>
+    <content><![CDATA[<p><img src="/images/uber_1.jpg" title="10萬達成"></p>
+<h1 id="話說初衷"><a href="#話說初衷" class="headerlink" title="話說初衷"></a>話說初衷</h1><p>話說去年底檢討自己的開銷後，歷經約9個月的part-time生活，經過風吹日曬，把街頭送餐當作生活的一部分，也差不多到了一個里程碑。最初並沒有特別給自己太大的績效目標，主因是GOGORO有里程限制，因此每個月我只會拿出限制內的多餘里程數出來跑，當然次要原因也是畢竟這是體力活，雖然會增加收入但並非長久之計，打著貼補生活費的態度也是要來個反思，自己心裏訂下的目標就是10萬營收，就來個盤點驗收一下吧。</p>
+<h1 id="流水帳"><a href="#流水帳" class="headerlink" title="流水帳"></a>流水帳</h1><p>截至目前，總共外送訂單有1,320趟，收入為100,299，運送成本約11,305(包含電車月租費、電話費、罰單一張及各項外送用的硬體)。外送偶爾會比較敢進行消費(我想這是一種補償心態)，這部分就五花八門、琳瑯滿目(最大一筆開銷是母親節送的工學椅)，這部分大約花了9,367。<br>總結來說，大約還有78,000左右，以9個月來說，生活費大概回補了六成左右。</p>
+<h1 id="心得"><a href="#心得" class="headerlink" title="心得"></a>心得</h1><ul>
+<li>年初有個願望清單，關於要<em>打消平時2022生活開銷</em>這項應該是達成了，成功的自我實現。</li>
+<li>給沒打過工的我體驗人生的機會。</li>
+<li>自我觀察我大概一周出勤12小時，我就開始懷疑人生了，說到這點我真的很佩服可以跑六小時以上且每天持續的外送員。</li>
+<li>對身體影響上，對於陽光會感覺特別敏感，眼睛有變得容易疲勞而且下背部的血液循環變差。</li>
+<li>當結束外送時，身體疲憊像是加過班，導致休息容易不足的情況，滿常發生下班吃飽飯後就倒頭睡著。<h1 id="未來"><a href="#未來" class="headerlink" title="未來"></a>未來</h1></li>
+<li>這是一份收入不低的打工，但只能當作備胎，擺在第二順位。(渣男思維)</li>
+<li>思考一下這攢下來的78,000，能否再做有效利用</li>
+</ul>
+]]></content>
+      <tags>
+        <tag>UBER EATS</tag>
       </tags>
   </entry>
   <entry>
@@ -516,19 +727,52 @@
       </tags>
   </entry>
   <entry>
-    <title>UBER EAT Milestone</title>
-    <url>/2022/07/24/UBER-EAT-Milestone/</url>
-    <content><![CDATA[<p><img src="/images/uber_1.jpg" title="10萬達成"></p>
-<h1 id="話說初衷"><a href="#話說初衷" class="headerlink" title="話說初衷"></a>話說初衷</h1><p>話說去年底檢討自己的開銷後，歷經約9個月的part-time生活，經過風吹日曬，把街頭送餐當作生活的一部分，也差不多到了一個里程碑。最初並沒有特別給自己太大的績效目標，主因是GOGORO有里程限制，因此每個月我只會拿出限制內的多餘里程數出來跑，當然次要原因也是畢竟這是體力活，雖然會增加收入但並非長久之計，打著貼補生活費的態度也是要來個反思，自己心裏訂下的目標就是10萬營收，就來個盤點驗收一下吧。</p>
-<h1 id="流水帳"><a href="#流水帳" class="headerlink" title="流水帳"></a>流水帳</h1><p>截至目前，總共外送訂單有1,320趟，收入為100,299，運送成本約11,305(包含電車月租費、電話費、罰單一張及各項外送用的硬體)。外送偶爾會比較敢進行消費(我想這是一種補償心態)，這部分就五花八門、琳瑯滿目(最大一筆開銷是母親節送的工學椅)，這部分大約花了9,367。<br>總結來說，大約還有78,000左右，以9個月來說，生活費大概回補了六成左右。</p>
-<h1 id="心得"><a href="#心得" class="headerlink" title="心得"></a>心得</h1><ul>
-<li>年初有個願望清單，關於要<em>打消平時2022生活開銷</em>這項應該是達成了，成功的自我實現。</li>
-<li>給沒打過工的我體驗人生的機會。</li>
-<li>自我觀察我大概一周出勤12小時，我就開始懷疑人生了，說到這點我真的很佩服可以跑六小時以上且每天持續的外送員。</li>
-<li>對身體影響上，對於陽光會感覺特別敏感，眼睛有變得容易疲勞而且下背部的血液循環變差。</li>
-<li>當結束外送時，身體疲憊像是加過班，導致休息容易不足的情況，滿常發生下班吃飽飯後就倒頭睡著。<h1 id="未來"><a href="#未來" class="headerlink" title="未來"></a>未來</h1></li>
-<li>這是一份收入不低的打工，但只能當作備胎，擺在第二順位。(渣男思維)</li>
-<li>思考一下這攢下來的78,000，能否再做有效利用</li>
+    <title>UBER EAT之自我提醒</title>
+    <url>/2022/06/27/UBER-EAT%E4%B9%8B%E8%87%AA%E6%88%91%E6%8F%90%E9%86%92/</url>
+    <content><![CDATA[<p>近期UBER EATS 將週四納入周一至周三的周期中，以我自己而言，趟次獎勵第一階標準分別為40趟及35趟，換言之，我不是不跑就是得最低跑至75趟才可取得完整趟次獎勵。<br>按照原定計畫，每天2~3小時，縱使均五也不太可能破15趟，因此這周有些辛苦，有些想提醒自己一下。</p>
+<ol>
+<li>趟次分配回顧</li>
+<li>自我提醒</li>
+</ol>
+<span id="more"></span>
+
+<h1 id="趟次分配"><a href="#趟次分配" class="headerlink" title="趟次分配"></a>趟次分配</h1><table>
+<thead>
+<tr>
+<th>周一</th>
+<th>週二</th>
+<th>周三</th>
+<th>週四</th>
+<th>周五</th>
+<th>週六</th>
+<th>周日</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>0</td>
+<td>14</td>
+<td>14</td>
+<td>12</td>
+<td>0</td>
+<td>18</td>
+<td>17</td>
+</tr>
+<tr>
+<td>0</td>
+<td>5hrs</td>
+<td>5hrs</td>
+<td>3hrs</td>
+<td>0</td>
+<td>5hrs</td>
+<td>3hrs</td>
+</tr>
+</tbody></table>
+<p>平日訂單會依照時間明顯遞減，超過20:00幾乎消失，原本預計的時間頂多跑出10單就好(為了多出那幾單，多了好幾個鐘頭，本周最大敗筆)，整體約均3左右<br>週五至周日，原則上週六比週五好，周日又比週六好，單就晚上大約會有三個多鐘頭的不斷單，這周約均4.3左右</p>
+<h1 id="自我提醒"><a href="#自我提醒" class="headerlink" title="自我提醒"></a>自我提醒</h1><p>外送時，我太在意路線、找門牌、和避免餐損，原本以為自己取餐和送餐部分是OK的，但時間久了，會因為躁進而失誤，提醒一下自己:</p>
+<ul>
+<li>店家端要注意對餐:雖然有些店家不一定要跟店員對餐也可直接取餐，但溝通可避免餐點不齊全，尤其是第一次接觸的店家必須打招呼。</li>
+<li>客戶端避免兩單互相送錯:不要太相信記憶中保溫箱內的位置，預計送達客人手中前，必須眼見號碼為憑。</li>
+<li>送錯餐的處理:若客服來電，接到電話按指示處理；若沒接到電話就沒機會補救(回撥電話是找不到客服的，<strong>正確做法:[幫助]-&gt;[行程相關協助]-&gt;[外送行程問題]-&gt;[我有線上訂單需要協助]-&gt;拉到最下面的[與我們對談]</strong>)，後續還是必須強制送完，原則上客人會吃到免費餐，可以跟客人說明，會影響送外的KPI或者扣款這部分也只能接受。</li>
 </ul>
 ]]></content>
       <tags>
@@ -764,77 +1008,6 @@
       </tags>
   </entry>
   <entry>
-    <title>UBER EAT之自我提醒</title>
-    <url>/2022/06/27/UBER-EAT%E4%B9%8B%E8%87%AA%E6%88%91%E6%8F%90%E9%86%92/</url>
-    <content><![CDATA[<p>近期UBER EATS 將週四納入周一至周三的周期中，以我自己而言，趟次獎勵第一階標準分別為40趟及35趟，換言之，我不是不跑就是得最低跑至75趟才可取得完整趟次獎勵。<br>按照原定計畫，每天2~3小時，縱使均五也不太可能破15趟，因此這周有些辛苦，有些想提醒自己一下。</p>
-<ol>
-<li>趟次分配回顧</li>
-<li>自我提醒</li>
-</ol>
-<span id="more"></span>
-
-<h1 id="趟次分配"><a href="#趟次分配" class="headerlink" title="趟次分配"></a>趟次分配</h1><table>
-<thead>
-<tr>
-<th>周一</th>
-<th>週二</th>
-<th>周三</th>
-<th>週四</th>
-<th>周五</th>
-<th>週六</th>
-<th>周日</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>0</td>
-<td>14</td>
-<td>14</td>
-<td>12</td>
-<td>0</td>
-<td>18</td>
-<td>17</td>
-</tr>
-<tr>
-<td>0</td>
-<td>5hrs</td>
-<td>5hrs</td>
-<td>3hrs</td>
-<td>0</td>
-<td>5hrs</td>
-<td>3hrs</td>
-</tr>
-</tbody></table>
-<p>平日訂單會依照時間明顯遞減，超過20:00幾乎消失，原本預計的時間頂多跑出10單就好(為了多出那幾單，多了好幾個鐘頭，本周最大敗筆)，整體約均3左右<br>週五至周日，原則上週六比週五好，周日又比週六好，單就晚上大約會有三個多鐘頭的不斷單，這周約均4.3左右</p>
-<h1 id="自我提醒"><a href="#自我提醒" class="headerlink" title="自我提醒"></a>自我提醒</h1><p>外送時，我太在意路線、找門牌、和避免餐損，原本以為自己取餐和送餐部分是OK的，但時間久了，會因為躁進而失誤，提醒一下自己:</p>
-<ul>
-<li>店家端要注意對餐:雖然有些店家不一定要跟店員對餐也可直接取餐，但溝通可避免餐點不齊全，尤其是第一次接觸的店家必須打招呼。</li>
-<li>客戶端避免兩單互相送錯:不要太相信記憶中保溫箱內的位置，預計送達客人手中前，必須眼見號碼為憑。</li>
-<li>送錯餐的處理:若客服來電，接到電話按指示處理；若沒接到電話就沒機會補救(回撥電話是找不到客服的，<strong>正確做法:[幫助]-&gt;[行程相關協助]-&gt;[外送行程問題]-&gt;[我有線上訂單需要協助]-&gt;拉到最下面的[與我們對談]</strong>)，後續還是必須強制送完，原則上客人會吃到免費餐，可以跟客人說明，會影響送外的KPI或者扣款這部分也只能接受。</li>
-</ul>
-]]></content>
-      <tags>
-        <tag>UBER EATS</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Hello World</title>
-    <url>/2022/06/03/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
-  </entry>
-  <entry>
     <title>健康注意事項</title>
     <url>/2022/08/17/%E5%81%A5%E5%BA%B7%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A0%85/</url>
     <content><![CDATA[<h2 id="單側耳鳴"><a href="#單側耳鳴" class="headerlink" title="單側耳鳴"></a>單側耳鳴</h2><p>提醒自己:偶爾耳鳴不要緊，若是持續加重則需要趕緊檢查，很多都是重症，就診方式可先到診所看再請他開轉診單(這樣會比較省錢而且也符合健保精神)。</p>
@@ -871,13 +1044,22 @@
       </tags>
   </entry>
   <entry>
-    <title>力不從心</title>
-    <url>/2022/07/03/%E5%8A%9B%E4%B8%8D%E5%BE%9E%E5%BF%83/</url>
-    <content><![CDATA[<p>週六突然有很多感觸，我想是前一日晚間熬夜的關係，精神疲憊時進行思考總是會掉入悲觀主義的陷阱。<br>地球不停的自轉，我的世界也跟著一起漫無目的自轉中，好好學習變成一個讓人失去目標的課題<br>優雅的逃避是種奢侈，不讓人找、也不找人<br>今晚金曲獎年度最佳歌曲樂團在頒獎典禮，和去年台詞一樣，最後爽朗地說出<strong>積極樂觀、感恩惜福</strong><br>現在沒什麼玩耍的本錢!!繼續加油~~ Keep going.</p>
+    <title>Hello World</title>
+    <url>/2022/06/03/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
-      <tags>
-        <tag>心情</tag>
-      </tags>
   </entry>
   <entry>
     <title>吃貨街走趣</title>
@@ -901,11 +1083,30 @@
       </tags>
   </entry>
   <entry>
+    <title>力不從心</title>
+    <url>/2022/07/03/%E5%8A%9B%E4%B8%8D%E5%BE%9E%E5%BF%83/</url>
+    <content><![CDATA[<p>週六突然有很多感觸，我想是前一日晚間熬夜的關係，精神疲憊時進行思考總是會掉入悲觀主義的陷阱。<br>地球不停的自轉，我的世界也跟著一起漫無目的自轉中，好好學習變成一個讓人失去目標的課題<br>優雅的逃避是種奢侈，不讓人找、也不找人<br>今晚金曲獎年度最佳歌曲樂團在頒獎典禮，和去年台詞一樣，最後爽朗地說出<strong>積極樂觀、感恩惜福</strong><br>現在沒什麼玩耍的本錢!!繼續加油~~ Keep going.</p>
+]]></content>
+      <tags>
+        <tag>心情</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>夏天熱過頭了</title>
     <url>/2022/08/06/%E5%A4%8F%E5%A4%A9%E7%86%B1%E9%81%8E%E9%A0%AD%E4%BA%86/</url>
     <content><![CDATA[<p>夏天中午前往餐廳的路上，熱浪讓我感到酷暑威力，難道是我獨有的感受?在外奔波的生意人、出遠洋的討海人、挑戰自我極限的山友或許會消遣我吧：「小CASE這還不是最熱，且還有偶爾的對流雨消暑」。<br>熱著熱著…<br>想起大暑過後，非經濟因素襲擾股市，臨時專案也是破壞我的生活步調，下周要連續加班了!!承辦人做事心法:分析規劃、工作分配、管理進度、保持溝通。</p>
 <p>Far Oasis<br>綠洲雖然遙遠，終將近矣</p>
 <p>YYES<br>!! 講著同時，餐廳到了，今天要點什麼呢?</p>
+]]></content>
+      <tags>
+        <tag>心情</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>自我設限的生活</title>
+    <url>/2023/06/18/%E8%87%AA%E6%88%91%E8%A8%AD%E9%99%90%E7%9A%84%E7%94%9F%E6%B4%BB/</url>
+    <content><![CDATA[<p>出社會畢業前幾年，每個人都說著我年輕，想著都是對許多未來懷抱憧憬，期望愛情、家庭、財富渴望，<br>雖然收入不多，但憑藉著人生遭遇到眾多人事物，<br>無論是工作職場、聚會交誼、休閒旅遊…甚至是網路邂逅，生命探索的好奇心讓生活中滿是趣味，也充滿的想像力。<br>人生際遇就是如此，當我從2012年開始選擇進入穩定的職場環境工作後，業界也開始情勢有些轉變，應該說生不逢時嗎?也不盡然<br>到目前為止我仍堅持著當時的初衷，前幾年真的滿辛苦的，面對到以前認識的同事沒人收入比我差，挫折感不低，好在也苦盡甘來，當時自己設定的底標目前是達標的(我的個人目標是至少個人收入可以養得起自己的小家庭)。</p>
+<p>時至如今，沒算準的問題是，迫於壓力必須得居住在蛋黃區的問題，果然一關過完還有另外一關。<br>孔子曰：「四十不惑，五十知天命…」，我必須坦白還無法達到不惑的境界，但有些潛意識慢慢植入在我過去的生活中。<br>列舉幾個例子:<br>1.以前碰到討厭我的人，24小時內在意、1周甚至1個月後也在意，有時甚至會自我檢討輾轉難眠，最後我選擇失憶來遺忘。當某一天再重新回憶起來時(也許是一年後)<br>事情的原委忘了，甚至連姓名也模糊了，再重新見到這個人也不會在意對方的感受。<br>2.職場交友動力降低，也許是合作過後的心得，還是我對於工作熱情，或者是面對大多都是點頭之交，頂多寒暄幾句。有時候也並非不想交友，但總會覺得會有不同年齡層會不會有代溝，自我設限。<br>3.對感情較隨緣，凡事先把自己心情整理好，願意給你機會的永遠都在，沒機會再怎麼製造也沒用。正常的關係是合作，不是尋求依賴和單方面迷戀。<br>4.人都是活在他人的想像中，總是有人講我的生活過得好要知足，能懂自己的人越來越少，願意促膝長談的人也少。</p>
 ]]></content>
       <tags>
         <tag>心情</tag>
@@ -922,16 +1123,6 @@
 <hr>
 <p>第二階段開始，大致上以APPL為主，開始像是游擊戰般，幾乎不留倉，當日進出，雖然錯失不少波段機會，但每天1%~5%的報酬，慢慢回到最初約六成六資金，心情上也踏實許多。<br>但期間為了增加獲利，開始注意FSR等電動汽車相關類股的走勢，希望可以有翻倍的機會，開始有多口數或是總金額較高的留倉，碰到危機也都能成功攤平處理，甚至小賺機會，漸漸地忘了重倉的風險；<br>12月14日，美國公布CPI數字，開盤大好，昨日重倉的TSLA也得以解套，但仍覺得整個市場在漲，個股應該也會跟著連動，結果一路反向，反彈非常無力。<br>想當然爾，又回到資金四成的狀態，雖然停損很懊惱，畢竟等於過去40多個交易日做白工，但若以當日結果論，停損還算早。<br>換言之，我碰到是趨勢明顯的股票(無法參考市場利多)，應在仍然獲利時10%獲利出場才對，自己太一廂情願。</p>
 <h2 id="切記不要有過高期待，細水長流才是王道"><a href="#切記不要有過高期待，細水長流才是王道" class="headerlink" title="切記不要有過高期待，細水長流才是王道"></a>切記不要有過高期待，細水長流才是王道</h2><p>5 <strong>若大部分資金已進場，因此時風險最高，如果是逆勢(碰到趨勢盤，連續出量無反彈)，寧願小賺小虧</strong>，趨勢盤若越無反彈，請觀望或進行反向試單。<br>6 當進出頻繁，縱使小小獲利，也請以提早結束當作成就感</p>
-]]></content>
-      <tags>
-        <tag>心情</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>自我設限的生活</title>
-    <url>/2023/06/18/%E8%87%AA%E6%88%91%E8%A8%AD%E9%99%90%E7%9A%84%E7%94%9F%E6%B4%BB/</url>
-    <content><![CDATA[<p>出社會畢業前幾年，每個人都說著我年輕，想著都是對許多未來懷抱憧憬，期望愛情、家庭、財富渴望，<br>雖然收入不多，但憑藉著人生遭遇到眾多人事物，<br>無論是工作職場、聚會交誼、休閒旅遊…甚至是網路邂逅，生命探索的好奇心讓生活中滿是趣味，也充滿的想像力。<br>人生際遇就是如此，當我從2012年開始選擇進入穩定的職場環境工作後，業界也開始情勢有些轉變，應該說生不逢時嗎?也不盡然<br>到目前為止我仍堅持著當時的初衷，前幾年真的滿辛苦的，面對到以前認識的同事沒人收入比我差，挫折感不低，好在也苦盡甘來，當時自己設定的底標目前是達標的(我的個人目標是至少個人收入可以養得起自己的小家庭)。</p>
-<p>時至如今，沒算準的問題是，迫於壓力必須得居住在蛋黃區的問題，果然一關過完還有另外一關。<br>孔子曰：「四十不惑，五十知天命…」，我必須坦白還無法達到不惑的境界，但有些潛意識慢慢植入在我過去的生活中。<br>列舉幾個例子:<br>1.以前碰到討厭我的人，24小時內在意、1周甚至1個月後也在意，有時甚至會自我檢討輾轉難眠，最後我選擇失憶來遺忘。當某一天再重新回憶起來時(也許是一年後)<br>事情的原委忘了，甚至連姓名也模糊了，再重新見到這個人也不會在意對方的感受。<br>2.職場交友動力降低，也許是合作過後的心得，還是我對於工作熱情，或者是面對大多都是點頭之交，頂多寒暄幾句。有時候也並非不想交友，但總會覺得會有不同年齡層會不會有代溝，自我設限。<br>3.對感情較隨緣，凡事先把自己心情整理好，願意給你機會的永遠都在，沒機會再怎麼製造也沒用。正常的關係是合作，不是尋求依賴和單方面迷戀。<br>4.人都是活在他人的想像中，總是有人講我的生活過得好要知足，能懂自己的人越來越少，願意促膝長談的人也少。</p>
 ]]></content>
       <tags>
         <tag>心情</tag>
@@ -1029,185 +1220,6 @@
       <tags>
         <tag>筆記</tag>
         <tag>資訊安全</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>20231017_六道式淨水器</title>
-    <url>/2023/10/17/20231017-%E5%85%AD%E9%81%93%E5%BC%8F%E6%B7%A8%E6%B0%B4%E5%99%A8/</url>
-    <content><![CDATA[<h2 id="RO淨水器非專業自問自答"><a href="#RO淨水器非專業自問自答" class="headerlink" title="RO淨水器非專業自問自答"></a>RO淨水器非專業自問自答</h2><p>以前都是看父親在安裝家裡的淨水器，看著前房客留下來的淨水器，剛開始有些愣住，我完全沒概念，回神過來後，經過網路影片教學及查蝦皮上賣濾心的影片得知，以下是目前短暫的理解:</p>
-<ul>
-<li><strong>RO逆滲透可以過濾細菌及化學物質嗎?</strong> YES</li>
-<li><strong>為什麼會有兩個管子，一個直接排出至洗手台；另外一個接鵝頸?</strong> 主要是因為過濾的水過程中會產生一定比例的廢水，廢水會直接排除，也因為如此，傳統過濾後的水量不大，需要額外有個儲水桶(AKA壓力桶)</li>
-<li><strong>濾心哪裡買?</strong> 直接從蝦皮訂購最便宜(不同濾心耐用時間不同，通常都有一年份組合套餐)，但建議順便買TDM檢測筆，避免萬一濾心本身有問題，至少可以發現，不至於喝到有問題的水質。</li>
-<li><strong>壓力桶用途?</strong> 因為產製的淨水水量不大，先放置於壓力桶，當要使用時才不會還需要大量等待時間；另外有廠商推出直出式，也就是說不需要壓力桶，出來的水量就足以直接使用，但水質據說會比較需要額外注意，該類產品技術含量較高，看來方便總是還是有代價的。</li>
-</ul>
-<hr>
-<h2 id="實際圖"><a href="#實際圖" class="headerlink" title="實際圖"></a>實際圖</h2><ul>
-<li>拆卸的時候，看網路影片提到，需要尖嘴鉗和六角板手，但後者在我這一款似乎還不需要。</li>
-<li>止水膠帶(紙洩帶)也要記得購買，纏繞方式記得是順時鐘，目前看起來5、6道濾心更換時需要使用。<br><img src="/images/20231017_ro_1.jpg" title="六道式淨水器"><br><img src="/images/20231017_ro_2.jpg" title="第1道濾心"><br><img src="/images/20231017_ro_3.jpg" title="第2道濾心"><br><img src="/images/20231017_ro_4.jpg" title="第3道濾心"><br><img src="/images/20231017_ro_5.jpg" title="第4道RO膜"><br><img src="/images/20231017_ro_6.jpg" title="第5,6道提升水質口感濾心"></li>
-</ul>
-]]></content>
-      <tags>
-        <tag>水電</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>20231111 當前方沒有背影</title>
-    <url>/2023/11/10/20231111-%E7%95%B6%E5%89%8D%E6%96%B9%E6%B2%92%E6%9C%89%E8%83%8C%E5%BD%B1/</url>
-    <content><![CDATA[<h2 id="序言"><a href="#序言" class="headerlink" title="序言"></a>序言</h2><p>每年第四季，先是萬聖節(10月31日)後是感恩節(11月最後一個禮拜四)，當然還有撰寫本文當日的1111購物節，感受到自己購買力驚人，購物之餘，心中難免感觸。<br>近期職場開始出現過去10年間預期的退休潮，『當前方沒有背影』就一直在我腦海揮之不去，以前凡事都以做好個人工作範圍及有前人可依賴，曾幾何時，也開始準備進入中生代階段。<br>這不像購物，可以看BLOG開箱文、網紅試用心得；這亦可以延伸解釋，日常生活中沒範本可循、依賴、諮詢之事。<br>或許，腦中謎團是透過努力得出解答，每天都是驚奇和挑戰，保持心態正確似乎才是不二法門。<br>工作以外，人生也何嘗不是。</p>
-<h2 id="婚姻生活"><a href="#婚姻生活" class="headerlink" title="婚姻生活"></a>婚姻生活</h2><p>每每聽到其他家庭是否可借鏡，總覺得家家都有本難念的經，有時我覺得最親近的人反而是最難溝通的，彼此都會覺得自己在做讓步。</p>
-<h2 id="美股喃喃自語"><a href="#美股喃喃自語" class="headerlink" title="美股喃喃自語"></a>美股喃喃自語</h2><p><img src="/images/stock_murmur.png" title="美股的喃喃自語"><br>沒有前車之鑑，只有自己實務感受，模擬一下自己的心情<br>坦言說有點像博弈遊戲:骰盅，目標是幾盤內預測出正確點數，越接近結算日，等待盤數越少。<br>只能怡情不能致富</p>
-<h2 id="自我實現"><a href="#自我實現" class="headerlink" title="自我實現"></a>自我實現</h2><p>這部分目前還很模糊，拚小孩? 似乎沒有；換工作? 似乎也不是很必要；出門旅行? 我不想因為為了旅遊而旅遊<br>明年的目標或許可以逐一列出來落實一下，以前有想過再出去闖闖，或許可以嘗試看看。<br>話說目前住的地方附近，有語言中心和社區大學，看來應該要好好利用一下。</p>
-]]></content>
-      <tags>
-        <tag>心情</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>20231119 桌機零組件更新</title>
-    <url>/2023/11/19/20231119-%E6%A1%8C%E6%A9%9F%E9%9B%B6%E7%B5%84%E4%BB%B6%E6%9B%B4%E6%96%B0/</url>
-    <content><![CDATA[<h2 id="桌機零組件更新"><a href="#桌機零組件更新" class="headerlink" title="桌機零組件更新"></a>桌機零組件更新</h2><p>平時3C產品我的使用舒適度，最佳者為桌上型電腦，工作之後家用電腦一直維持定期添購零組件自行安裝，好處就是少許價格就可享受到規格提升的價值，<br>我想ICT產業的進步，現在的零組件便宜和耐用度更甚以往:回頭看很難想像INTEL Pentium的時候一套電腦，CPU時脈只有200MHz、記憶體還只有32MB的時代是怎麼過來的。<br>SOC、物聯網的概念下，桌上型電腦已非唯一接觸數位時代的媒介，但是文書處理、多螢幕工作、影音編輯還是以桌機主要舞台。<br>自從不需要在家裡開發手機程式、跑VM軟體，家用電腦用途僅有辦公室軟體、通訊軟體及上網看影音，想想也經歷了10幾年。</p>
-<p>距離上次更新大約5年以前了，停止的主要因素為當時購買的AMD CPU插座 AM3+後繼CPU並沒有明顯的進步，因此我的硬體停留在FX6300+RAM12GB+SSD硬碟，AMD於2017開始推出ZEN架構的CPU也開始改採AM4新的插座規格，久而久之，我很就跟少關心桌機硬體發展，想說等目前用不下去再換。當然我也不是沒起心動念過，只是最近幾年當超微絕地反攻，市占超越英特爾，顯然成就也會反映在價格上，這部分可在逛3C賣場看出定價策略，印象中原本2K變成4K至5K，也會延長更新的動機，再加上我的應用現在電腦已有餘力(僅Ultraedit全文搜尋工作程式碼較費時，每回搜尋要30秒~1分鐘)<br>直到近期聽說已經要AM5了，再加上現在benchmark A CPU vs B CPU 效能比較網路上都很透明，看到任何二手CPU都已到甜甜價，而且單核心幾乎皆是+100%效能提升(意即兩倍)，而且多核心下會再大幅增加體驗，只能工作時間可以下降一半，就值了。</p>
-<h2 id="什麼可買二手"><a href="#什麼可買二手" class="headerlink" title="什麼可買二手"></a>什麼可買二手</h2><p>家中使用電腦，由於還停留在以前組裝便宜主機(AMD)的習慣，家用就不討論INTEL架構，公司使用的電腦清一色還是以INTEL為主，這也算是另類的經驗學習，能清楚知道差異在哪。<br>CPU除非接腳斷掉，不然新舊差異不大；記憶體常有終生保固，製造商都這麼有信心了，因此差異也不大。<br>其餘的裝置容易有耗損無保固的話，在更新之前就必須要三思。</p>
-<p>長時間沒觀察的結果，發現資訊量有些大，而且處處是驚奇，寫一下感想:<br>由於CPU架構中，通常會把整個電腦系統的架構做清楚定義，換言之也會同步影響記憶體等IO裝置的支援度，M.2、PCIe、USB3.2和DDR4已經是主流，<br>基礎概念除了傳輸速度增加、擴充裝置微型化，更不用說SSD和HardDisc的單位成本再度下降，從效能幾乎都是以遊戲檢測指標來看，<strong>硬體退流行感</strong>可能只出現於特定族群。<br>當然我也不是覺得硬體進展全然會沒可用之地，2023年開始爆紅的AI或許會引導整個產業前進，但現況看起來都是GPU廠商的發揮空間。</p>
-<h2 id="零件菜單"><a href="#零件菜單" class="headerlink" title="零件菜單"></a>零件菜單</h2><p>1.CPU: Ryzen 5 4600G (Zen2) , NT2,835<br>2.RAM: Kingston 16GB x 1 (DDR4-3200) , NT899<br>3.主機板: 華碩 PRIME A520M-K , NT1,500<br>以上便是本次升級清單，都是有段時間過時產品，但對我而言可是大幅度升級。</p>
-<h2 id="桌機必買SSD"><a href="#桌機必買SSD" class="headerlink" title="桌機必買SSD"></a>桌機必買SSD</h2><p>CPU的多核化、製程進步、功耗降低，對單一應用影響性越來越低。<br>使用習慣只是文書機，真正強烈建議採用SSD，一般人上上網打打報告，最重要的就是開關機、存檔，IO設備的邊際能力擴增會比增強CPU來的有用。</p>
-]]></content>
-      <tags>
-        <tag>心情</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>20231221 本多終勝</title>
-    <url>/2023/12/21/20231221-%E6%9C%AC%E5%A4%9A%E7%B5%82%E5%8B%9D/</url>
-    <content><![CDATA[<h2 id="本多終勝"><a href="#本多終勝" class="headerlink" title="本多終勝"></a>本多終勝</h2><p>近期有時候在聽podcast的時候，聽到耳熟能詳的這個詞，用來形容追求大資本產生的資本財，比起追求短期的獲利百分比來的重要。<br>舉例來說，若有10萬美元，目前利率定存少說也有接近5%，排除匯損的投資結果，和購買了短期飆股，股價漲了一波賺了價差，來得有意義。<br>在市場上追求低風險報酬，報酬只要大於個人日常生活對於金錢的需求，就會產生一種滿足感和財務自由感。</p>
-<p>累積資本的方法，家庭財富的繼承外，一般人不外乎就是把本業做好，透過本業累積資本</p>
-<p>目前還沒購屋，財務上沒被綁住，換言之更應該不要浪費一份一毫</p>
-<p>但心中總覺得哪邊怪怪的，我的家庭生活有些隱憂</p>
-<h2 id="心中隱憂"><a href="#心中隱憂" class="headerlink" title="心中隱憂"></a>心中隱憂</h2><p>今年度成家後，和結婚前的不同，有時候我的開銷已經不是以本身為主，以前自己想住套房，或者選擇什麼交通方式，都會以自我價值為主<br>現在另一半的價值觀，間接地影響我的生活，不論是挑選居住地點房租，還沒小孩之前，月薪的四成用於日常生活費，整體來說是個很大的消耗。<br>我在抱怨嗎?並不是，如果答案是肯定，我就不會選擇進入婚姻生活，凡事有利有弊，雖然另一半收入高出我許多，但我認為還是得把生活開銷給撐下來<br>吃虧一點未來就會少一些爭端，目前生活感受上是還可以，我的生活幾乎跟單身沒什麼差異，平常聊天時間也不多，只是我依稀還是覺得有些隱憂。</p>
-<ul>
-<li>另一半相處:目前仍有辦法在能力範圍內盡力達成，縱使並非個人認為的最佳解。我覺得其實還過得去，但舉兩個例子來呈現我的隱憂<ul>
-<li>購買禮物:近期有收到老婆從美國旅行歸國買的TUMI單肩包，經介紹，會買給我的應該是剛好看到，因覺得我平常背的很破(我的是去日亞買的，實在很反駁一下)，雖然還是收下昂貴的禮物，但難免有些擔心，如果沒同等對待，會不會怠慢。</li>
-<li>姻親制約:有談到每天到岳父母家一起吃飯，我本身不會排斥，只是沒這習慣，聊天過程中，提到假如我晚上去賺錢這類的話，當然我是開玩笑，僅是表達假設狀況，得到的反應卻是可能我這樣做岳母會不高興。有時我真的覺得或許另一半沒意識到來說，父母之命盡量順從，不應該我也帶入，尤其這算是個人選擇自由，畢竟我沒有相對應把我家人的想法加諸在對方身上。</li>
-</ul>
-</li>
-<li>家人間狀況:每個家庭都會有自己的問題，先撇開情感方面，有時我在看自己原本家庭，我有沒有辦法撥出心力回饋是一個問題?被誤會是另一個問題?在台北，對於遠在家鄉的親人，都是以自身對於我的所得稅申報的數字在「想像」，尤其沒在外地工作的家族，絕對不會了解，稅負和各方面對我來說產生的壓力。</li>
-</ul>
-]]></content>
-      <tags>
-        <tag>心情</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>20240106 2024新生活運動</title>
-    <url>/2024/01/06/20240106-2024%E6%96%B0%E7%94%9F%E6%B4%BB%E9%81%8B%E5%8B%95/</url>
-    <content><![CDATA[<h1 id="回顧2023-AND-展望2024"><a href="#回顧2023-AND-展望2024" class="headerlink" title="回顧2023 AND 展望2024"></a>回顧2023 AND 展望2024</h1><table>
-<thead>
-<tr>
-<th align="left">編號</th>
-<th align="center">願望清單</th>
-<th align="center">關鍵活動</th>
-<th align="center">達成(O&#x2F;X)</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="left">1</td>
-<td align="center">走入人生下一個階段</td>
-<td align="center">結婚</td>
-<td align="center">O</td>
-</tr>
-<tr>
-<td align="left">2</td>
-<td align="center">自我專案&#x2F;事業</td>
-<td align="center">決定人生中除了工作以外最想嘗試的事業</td>
-<td align="center">X</td>
-</tr>
-<tr>
-<td align="left">3</td>
-<td align="center">投資</td>
-<td align="center">以買房為主的存錢、風險性投資不超過20分之1</td>
-<td align="center">X</td>
-</tr>
-<tr>
-<td align="left">4</td>
-<td align="center">維持健康</td>
-<td align="center">落實運動習慣，並取得樂趣</td>
-<td align="center">X</td>
-</tr>
-<tr>
-<td align="left">5</td>
-<td align="center">改變思維</td>
-<td align="center">養成系統性思考習慣、善用NOTE</td>
-<td align="center">O</td>
-</tr>
-<tr>
-<td align="left">6</td>
-<td align="center">生活紀錄</td>
-<td align="center">珍惜生活中每一天的發現</td>
-<td align="center">O</td>
-</tr>
-</tbody></table>
-<p>雖然經過檢視達成率僅50%，健康主要是有段時間作息不正常之賜，導致耳鳴的毛病，還做了多次醫院檢查，但完成了終生大事後，此時此刻的心情好像有沉穩一些，和先前狀態會有比較會有歸屬感，希望會改善一些。<br>想想光是結婚從租屋開始也是經過五個月之久，由於結婚前夕，總是要完成點趁單身要達成的願望清單，年初的計畫便暫時拋棄狀態，像是自我事業、投資，平時並無特別注意。<br>目前租屋空間為2房1廳格局，可擺放的東西變多，意外發現蝦皮變成我日常生活中最常逛的網站，採購多次，猛一看再沒多少就要變身金蝦了!!<br>因現在身份不同，也要更有目標性的實踐生活目標，避免將來後悔，看屋計畫或許也得列入清單中；目前薪水也進入工作壯年期，要以穩健為主。<br>來草擬一下2024年度計畫</p>
-<h4 id="六大願望清單"><a href="#六大願望清單" class="headerlink" title="六大願望清單"></a>六大願望清單</h4><table>
-<thead>
-<tr>
-<th align="left">編號</th>
-<th align="center">願望清單</th>
-<th align="center">關鍵活動</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="left">1</td>
-<td align="center">經營婚姻生活</td>
-<td align="center">兩人世界氣氛、培養體貼一面</td>
-</tr>
-<tr>
-<td align="left">2</td>
-<td align="center">維持健康</td>
-<td align="center">落實運動習慣，並取得樂趣</td>
-</tr>
-<tr>
-<td align="left">3</td>
-<td align="center">自我專案&#x2F;事業</td>
-<td align="center">決定人生中除了工作以外最想嘗試的事業</td>
-</tr>
-<tr>
-<td align="left">4</td>
-<td align="center">投資</td>
-<td align="center">以買房為主的存錢、風險性投資不超過20分之1</td>
-</tr>
-<tr>
-<td align="left">5</td>
-<td align="center">房地產</td>
-<td align="center">定期特定區域的房價及車位</td>
-</tr>
-<tr>
-<td align="left">6</td>
-<td align="center">工作</td>
-<td align="center">工作中找尋技能學習不虛度光陰</td>
-</tr>
-</tbody></table>
-<h2 id="經營婚姻生活"><a href="#經營婚姻生活" class="headerlink" title="經營婚姻生活"></a>經營婚姻生活</h2><p>很慶幸並沒有碰到情緒化的另外一半，但也因為如此，交往時想培養自己體貼的一面，接送常被拒絕後慢慢就變了個性，培養成大家都是獨立生活，這也是我平時有時很落寞的因素，總覺得好不符合自己的預期。<br>期待自己能夠培養出生活默契先，找到岳父岳母弟妹的相處模式；善用廚房及不要只自顧自坐在電腦前的生活，目前汽車租車位仍遠在三峽，平時也得注意一下附近的停車位，以後有空就可以載家人出遊。<br>今年底前會有婚假14日，要好好規劃一下!!<br>至於小孩，個人認為機率不高，畢竟大家都是晚婚族，不要放太多壓力在身上。</p>
-<h2 id="維持健康"><a href="#維持健康" class="headerlink" title="維持健康"></a>維持健康</h2><p>目前牙齒又拔了左上的智齒，左下方智齒廳牙醫師建議，由於X光片已經看到變成軟組織，可能很容易發炎，要找時間處理一下<br>找個時間去學個新運動好了!!免得跑步總是會有點懶的出門</p>
-<h2 id="自我專案-x2F-事業"><a href="#自我專案-x2F-事業" class="headerlink" title="自我專案&#x2F;事業"></a>自我專案&#x2F;事業</h2><p>假設沒有IDEA，就退而求其次，從拜訪朋友先下手吧!!前陣子為了喜餅上的小卡，上蝦皮看到有客製小卡，雖然公版套圖，但不由得感覺商機總是在生活中尋找。<br>善用電子書閱讀器</p>
-<h2 id="投資"><a href="#投資" class="headerlink" title="投資"></a>投資</h2><p>今年美股可以還是簡單把利息買買OP就好，今年因有大量租金支出，要避免損失。</p>
-<h2 id="房地產"><a href="#房地產" class="headerlink" title="房地產"></a>房地產</h2><p>注意目前生活範圍，倘若符合需求，要勇敢出價!!北市公寓為主!!</p>
-<h2 id="工作"><a href="#工作" class="headerlink" title="工作"></a>工作</h2><p>本年度目標是達成遲到最少化的情況；由於去年光是遲到24次，今年的假期較多，特休目標請半天就好。</p>
-]]></content>
-      <tags>
-        <tag>年度計畫</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>20240217_生日過後感想</title>
-    <url>/2024/02/17/20240217-%E7%94%9F%E6%97%A5%E9%81%8E%E5%BE%8C%E6%84%9F%E6%83%B3/</url>
-    <content><![CDATA[<h2 id="生日後一天"><a href="#生日後一天" class="headerlink" title="生日後一天"></a>生日後一天</h2><p>今年是2024，每隔四年出現的閏年，意識到今年有2月29日，誕生於此日的人們只能四年擴大慶生，但今年生日恰好在農曆年後的週五。<br>說起生日，自從有意識以來，很常和農曆年重疊，因此年假喜悅總是超過於過生日，今天又恰好是次日周六也是補班日，補班日我在做什麼呢?<br>工作之餘，把公司發的年節禮券在跟進行兌現，雖然不清楚社會上收禮券的獲利密碼，但我想應該跟百貨公司脫離不太了關係。<br>以目前行情的93折的禮券行情，雖然有些吃虧，但先不想太多，先換先換。</p>
-<h2 id="Youtube-常看影片"><a href="#Youtube-常看影片" class="headerlink" title="Youtube 常看影片"></a>Youtube 常看影片</h2><p>不知不覺自己的收視習慣，幾乎都是以youtube為主，<br>近期非常喜愛觀看歷史故事節目，強力推薦<code>李天豪</code>頻道，從三國、清朝、民國初年、談到近期的總統大選<br>甚至是中東半島都有脈絡及組織性的口述歷史，原本教科書式只知道歷史上的大事，能從發生的時空背景分析及依照文獻重現當時歷史人物思考，更能把聽眾帶入實際主題中<br>。<br>沒有厚實的歷史政治博學才能真的無法辦到，真心推薦。</p>
-<p>參考網址: <a href="https://www.youtube.com/@leecehao">李天豪老師</a></p>
-<h2 id="台三線"><a href="#台三線" class="headerlink" title="台三線"></a>台三線</h2><p>年假過了，本次年假除了是婚後第一回過年，有天為了避開高速公路塞車，便開著台3線一路開到曾文水庫，享用了砂鍋魚頭餐，也逛了環湖公園，步行在同心橋上，徐徐微風吹拂，心情輕鬆快活。<br>嘉義有許多我愛的元素，雞肉飯、阿里山美景外，現在又可加上砂鍋魚頭了!!，台三線最南也可以到旗山，旗山老街很想去看看，也很想到梅山老街走走，台北差不多應該都有些概念和印象了，<br>是時候常往外縣市走走了，我想可以用台三線路過的行政區來分類前往，來場務實的浪漫台三線旅行吧。</p>
-]]></content>
-      <tags>
-        <tag>心情</tag>
       </tags>
   </entry>
 </search>
