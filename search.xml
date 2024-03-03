@@ -69,6 +69,18 @@
       </tags>
   </entry>
   <entry>
+    <title>10分鐘週記-大暑過後</title>
+    <url>/2022/09/04/10%E5%88%86%E9%90%98%E9%80%B1%E8%A8%98-%E5%A4%A7%E6%9A%91%E9%81%8E%E5%BE%8C/</url>
+    <content><![CDATA[<p><img src="/images/remind.png" title="提醒"></p>
+<h2 id="大暑過後"><a href="#大暑過後" class="headerlink" title="大暑過後"></a>大暑過後</h2><p>經歷約兩週耳朵會聽到回聲的症狀，上週開始含了喉片及同時吃普拿疼之後，症狀突然減緩，目前感覺看起來似乎跟原本喉嚨症狀有關聯，原本計畫要去醫院檢查想說還是延遲一下等症狀出現再檢查。</p>
+<p>從八月開始到今日，並沒有認真外送跑單，只有簡單維持，除了養身體的因素外，另外一層面也是得執行一下讀書計畫，其實年初一直有想把自己近10年的東西整理一下，但是沒有一個明確目標常常熱度都只有五分鐘。<br>另外外送有時候也會干擾，對於自學時注意力會有一定程度的影響；就拿靈魂之窗來說，在外跑單除了四肢外，眼睛長時間注意動態車輛、直接光照，很自然看電腦螢幕會感到疲倦。<br>既然年度目標達成，我想學習計畫應該也要集中時間進行。</p>
+]]></content>
+      <tags>
+        <tag>10分鐘週記</tag>
+        <tag>健康</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>10分鐘週記-Krita筆記</title>
     <url>/2022/07/24/10%E5%88%86%E9%90%98%E9%80%B1%E8%A8%98-Krita%E7%AD%86%E8%A8%98/</url>
     <content><![CDATA[<p>給自己一個挑戰，10分鐘來完成紀錄一週大小事，簡短紀錄一下筆記:</p>
@@ -89,18 +101,6 @@
 ]]></content>
       <tags>
         <tag>10分鐘週記</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>10分鐘週記-大暑過後</title>
-    <url>/2022/09/04/10%E5%88%86%E9%90%98%E9%80%B1%E8%A8%98-%E5%A4%A7%E6%9A%91%E9%81%8E%E5%BE%8C/</url>
-    <content><![CDATA[<p><img src="/images/remind.png" title="提醒"></p>
-<h2 id="大暑過後"><a href="#大暑過後" class="headerlink" title="大暑過後"></a>大暑過後</h2><p>經歷約兩週耳朵會聽到回聲的症狀，上週開始含了喉片及同時吃普拿疼之後，症狀突然減緩，目前感覺看起來似乎跟原本喉嚨症狀有關聯，原本計畫要去醫院檢查想說還是延遲一下等症狀出現再檢查。</p>
-<p>從八月開始到今日，並沒有認真外送跑單，只有簡單維持，除了養身體的因素外，另外一層面也是得執行一下讀書計畫，其實年初一直有想把自己近10年的東西整理一下，但是沒有一個明確目標常常熱度都只有五分鐘。<br>另外外送有時候也會干擾，對於自學時注意力會有一定程度的影響；就拿靈魂之窗來說，在外跑單除了四肢外，眼睛長時間注意動態車輛、直接光照，很自然看電腦螢幕會感到疲倦。<br>既然年度目標達成，我想學習計畫應該也要集中時間進行。</p>
-]]></content>
-      <tags>
-        <tag>10分鐘週記</tag>
-        <tag>健康</tag>
       </tags>
   </entry>
   <entry>
@@ -126,42 +126,6 @@
       <tags>
         <tag>10分鐘週記</tag>
         <tag>股市</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>10分鐘週記-正規表示法</title>
-    <url>/2022/12/17/10%E5%88%86%E9%90%98%E9%80%B1%E8%A8%98-%E6%AD%A3%E8%A6%8F%E8%A1%A8%E7%A4%BA%E6%B3%95/</url>
-    <content><![CDATA[<h2 id="正規表示法"><a href="#正規表示法" class="headerlink" title="正規表示法"></a>正規表示法</h2><p>UNIX上常見的，基礎正規表示法實踐<br>練習可使用VI、sed、awk、grep</p>
-<ul>
-<li>Bracket Expressions(中括號表示法)<ul>
-<li><code>[一至多個任一字元]</code>:匹配單一字元</li>
-<li><code>[起始字元-結束字元]</code>:指定要匹配字元範圍</li>
-<li><code>[^ ]</code>:反匹配</li>
-<li>POSIX Character(POSIX 字集)</li>
-</ul>
-</li>
-<li><code>.</code>:匹配任何單一字元</li>
-<li><code>*</code>:匹配〝*〞前面的字元從零到無限重複前字元</li>
-<li><code>^</code>:匹配起始位置的字串(以行為單位)</li>
-<li><code>$</code>:匹配結束位置的字串(以行為單位)</li>
-<li><code>&amp;</code>:記憶匹配到的字串</li>
-<li><code>&#123;a,b&#125;</code>:匹配限定重複前字元</li>
-<li><code>( )</code>:集合匹配前字串</li>
-<li><code>&lt; &gt;</code>:匹配單字</li>
-<li><code>( )</code>\1:向後參考(Back-Reference)記憶匹配</li>
-<li><code>|</code>:或匹配</li>
-</ul>
-<p>參考網址: <a href="https://www.hy-star.com.tw/tech/linux/regex/regex.html#rex">正規表示法說明</a></p>
-<h2 id="換行字元"><a href="#換行字元" class="headerlink" title="換行字元"></a>換行字元</h2><p>Unix系統裡，每行結尾只有“<FONT color=#FF0000>\n</FONT>”；<br>Windows系統裡面，每行結尾是即“<FONT color=#FF0000>\n</FONT><FONT color=#0000FF>\r</FONT>”；<br>Mac系統裡，每行結尾是“<FONT color=#0000FF>\r</FONT>”。<br>一個直接後果是，Unix&#x2F;Mac系統下的文件在Windows裡打開的話，所有文字會變成一行；而Windows裡的文件在Unix&#x2F;Mac下打開的話，在每行的結尾可能會多出一個^M符號。</p>
-<h2 id="盧恩演算法-Luhn’s-algorithm"><a href="#盧恩演算法-Luhn’s-algorithm" class="headerlink" title="盧恩演算法(Luhn’s algorithm)"></a>盧恩演算法(Luhn’s algorithm)</h2><p>信用卡使用的檢查碼演算法</p>
-<p>參考網址: <a href="https://www.dcode.fr/luhn-algorithm">盧恩演算法</a></p>
-<h2 id="日文學習網站"><a href="#日文學習網站" class="headerlink" title="日文學習網站"></a>日文學習網站</h2><p>紀錄一下無意間發現的網站，很喜歡這種風格的小站，目前整理到N3<br>參考網址: <a href="https://www.sigure.tw/learn-japanese/basic/50/japanese-roman-pinyin.php">晴雨之町</a></p>
-]]></content>
-      <tags>
-        <tag>10分鐘週記</tag>
-        <tag>正規表示法</tag>
-        <tag>演算法</tag>
-        <tag>語言學習</tag>
       </tags>
   </entry>
   <entry>
@@ -213,6 +177,31 @@
 ]]></content>
       <tags>
         <tag>10分鐘週記</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>10分鐘週記-最初回</title>
+    <url>/2022/07/01/10%E5%88%86%E9%90%98%E9%80%B1%E8%A8%98/</url>
+    <content><![CDATA[<p>給自己一個挑戰，10分鐘來完成紀錄一週大小事，這週接觸到一些工作或自我成長心得:</p>
+<ol>
+<li>Animaker</li>
+<li>MoneyDJ &amp; 財報狗</li>
+<li>演算法筆記</li>
+</ol>
+<h2 id="Animaker"><a href="#Animaker" class="headerlink" title="Animaker"></a>Animaker</h2><hr>
+<p>參考網址: <a href="https://www.animaker.com/">Animaker</a><br>先談一下對於使用者來說，好處大概是網頁版，只要有瀏覽器便可以進行體驗，官方的template教學齊全，如果想要做做個人的簡歷介紹、結婚紀念、邀請函、短片..等，我想這是一個非常無腦且容易上手的作法，所有的分鏡類似投影片模式呈現，上面所有的物件可以套用動作模組去作客制，若不想修改，只要把文字添加就會是個圖文並茂的精彩動畫。<br>使用限制上跟你的帳號付費的程度成正比，若真的要使用，一個月10美元的花費是基礎開銷，若想當免費仔就必須忍受影片會有浮水印外，可使用素材少，每月五次匯出影片限制。<br>目前僅僅試用一次，改天再嘗試自己的圖片放上去做個屬於自己的動畫。</p>
+<h2 id="MoneyDJ-amp-財報狗-amp-不鏽鋼指數"><a href="#MoneyDJ-amp-財報狗-amp-不鏽鋼指數" class="headerlink" title="MoneyDJ &amp; 財報狗 &amp; 不鏽鋼指數"></a>MoneyDJ &amp; 財報狗 &amp; 不鏽鋼指數</h2><hr>
+<p>參考網址: <a href="https://www.moneydj.com/kmdj/common/listnewarticles.aspx?svc=NW&a=C0.C020114">MoneyDJ</a><br>參考網址: <a href="https://statementdog.com/">財報狗</a><br>參考網址: <a href="http://quote.eastmoney.com/qihuo/ssm.html">不鏽鋼指數</a><br>今年可謂是美國的升息年，跌跌不休的股市(五窮六絕)感受特別深刻，突然想了解鋼鐵產業，話說原本並非不了解，但總覺得自己對整個市場，或者說整個產業鏈並不是通盤理解，甚至鋼鐵也有分不同種類。<br>我個人注意力只放在<strong>不鏽鋼</strong>，不鏽鋼是和一般鋼鐵差異在哪?說穿了就是混和金屬比例不同，因金屬特性而產生不同的應用。上中下游，以我自己的理解就是煉鋼、加工+裁切、應用端(只是我自己的理解，錯了別砲我)，整體鋼鐵產業就是景氣循環、高耗能低毛利、反傾銷稅的常客，高資金門檻的特性。耗能產業勢必又跟綠能產業扯上邊，畢竟是天秤的兩端。目前應該最大的消費需求都來自中國，因此他們的商品指數才會具有代表性。</p>
+<p><code>MoneyDJ</code>可以查詢產業訊息，至少更新速度算是快，下游產業要注意產品銷售情況。<br><code>財報狗</code>讓人訝異，裡面竟然也有收集到興櫃的財報，看盤軟體有時候不會這麼好心幫你收集。<br><code>不鏽鋼指數</code>可以觀察和LME鎳期貨的高度相關性，也可以比對一下和國內上游廠商的相關性。</p>
+<p>關於鋼鐵上游廠商，通常原物料漲價，也會照樣反應給中游及下游廠商，某種程度是轉嫁，原本取得存貨成本低，短期具利差，視為短多，漲價若是因為通貨膨脹而非實質需求(實質需求通常是基礎建設)，必須要注意其危險性，後續若發現貨幣政策緊縮，首當其衝也會是上游廠商。</p>
+<h2 id="演算法筆記"><a href="#演算法筆記" class="headerlink" title="演算法筆記"></a>演算法筆記</h2><hr>
+<p>參考網址: <a href="https://web.ntnu.edu.tw/~algo/">演算法筆記</a></p>
+<p>這是一個很有意思的網站，架在台師大教職員網域內，筆記簡單好懂。<br>裡面有個參考網站 <strong><a href="https://github.com/jwasham/coding-interview-university">Coding Interview University</a></strong> 內的內容滿吸引我，看到好多Cheating Sheet,我就想起以前Linux學習的時候，最喜歡的一張Vi操作指令表，這對記性不好的我來說是一大助益。</p>
+]]></content>
+      <tags>
+        <tag>10分鐘週記</tag>
+        <tag>股市</tag>
+        <tag>演算法</tag>
       </tags>
   </entry>
   <entry>
@@ -268,6 +257,42 @@
 ]]></content>
   </entry>
   <entry>
+    <title>10分鐘週記-正規表示法</title>
+    <url>/2022/12/17/10%E5%88%86%E9%90%98%E9%80%B1%E8%A8%98-%E6%AD%A3%E8%A6%8F%E8%A1%A8%E7%A4%BA%E6%B3%95/</url>
+    <content><![CDATA[<h2 id="正規表示法"><a href="#正規表示法" class="headerlink" title="正規表示法"></a>正規表示法</h2><p>UNIX上常見的，基礎正規表示法實踐<br>練習可使用VI、sed、awk、grep</p>
+<ul>
+<li>Bracket Expressions(中括號表示法)<ul>
+<li><code>[一至多個任一字元]</code>:匹配單一字元</li>
+<li><code>[起始字元-結束字元]</code>:指定要匹配字元範圍</li>
+<li><code>[^ ]</code>:反匹配</li>
+<li>POSIX Character(POSIX 字集)</li>
+</ul>
+</li>
+<li><code>.</code>:匹配任何單一字元</li>
+<li><code>*</code>:匹配〝*〞前面的字元從零到無限重複前字元</li>
+<li><code>^</code>:匹配起始位置的字串(以行為單位)</li>
+<li><code>$</code>:匹配結束位置的字串(以行為單位)</li>
+<li><code>&amp;</code>:記憶匹配到的字串</li>
+<li><code>&#123;a,b&#125;</code>:匹配限定重複前字元</li>
+<li><code>( )</code>:集合匹配前字串</li>
+<li><code>&lt; &gt;</code>:匹配單字</li>
+<li><code>( )</code>\1:向後參考(Back-Reference)記憶匹配</li>
+<li><code>|</code>:或匹配</li>
+</ul>
+<p>參考網址: <a href="https://www.hy-star.com.tw/tech/linux/regex/regex.html#rex">正規表示法說明</a></p>
+<h2 id="換行字元"><a href="#換行字元" class="headerlink" title="換行字元"></a>換行字元</h2><p>Unix系統裡，每行結尾只有“<FONT color=#FF0000>\n</FONT>”；<br>Windows系統裡面，每行結尾是即“<FONT color=#FF0000>\n</FONT><FONT color=#0000FF>\r</FONT>”；<br>Mac系統裡，每行結尾是“<FONT color=#0000FF>\r</FONT>”。<br>一個直接後果是，Unix&#x2F;Mac系統下的文件在Windows裡打開的話，所有文字會變成一行；而Windows裡的文件在Unix&#x2F;Mac下打開的話，在每行的結尾可能會多出一個^M符號。</p>
+<h2 id="盧恩演算法-Luhn’s-algorithm"><a href="#盧恩演算法-Luhn’s-algorithm" class="headerlink" title="盧恩演算法(Luhn’s algorithm)"></a>盧恩演算法(Luhn’s algorithm)</h2><p>信用卡使用的檢查碼演算法</p>
+<p>參考網址: <a href="https://www.dcode.fr/luhn-algorithm">盧恩演算法</a></p>
+<h2 id="日文學習網站"><a href="#日文學習網站" class="headerlink" title="日文學習網站"></a>日文學習網站</h2><p>紀錄一下無意間發現的網站，很喜歡這種風格的小站，目前整理到N3<br>參考網址: <a href="https://www.sigure.tw/learn-japanese/basic/50/japanese-roman-pinyin.php">晴雨之町</a></p>
+]]></content>
+      <tags>
+        <tag>10分鐘週記</tag>
+        <tag>演算法</tag>
+        <tag>正規表示法</tag>
+        <tag>語言學習</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>20220615 mood</title>
     <url>/2022/06/15/20220615-mood/</url>
     <content><![CDATA[<p>最近家裡COVID-19確診，端午連假返家造成了家人的困擾，之後也不曉得再次返家會不會有陰影。<br>最近要多撥點時間來進行英文口說，另外強化點專業能力。</p>
@@ -277,28 +302,23 @@
       </tags>
   </entry>
   <entry>
-    <title>10分鐘週記-最初回</title>
-    <url>/2022/07/01/10%E5%88%86%E9%90%98%E9%80%B1%E8%A8%98/</url>
-    <content><![CDATA[<p>給自己一個挑戰，10分鐘來完成紀錄一週大小事，這週接觸到一些工作或自我成長心得:</p>
-<ol>
-<li>Animaker</li>
-<li>MoneyDJ &amp; 財報狗</li>
-<li>演算法筆記</li>
-</ol>
-<h2 id="Animaker"><a href="#Animaker" class="headerlink" title="Animaker"></a>Animaker</h2><hr>
-<p>參考網址: <a href="https://www.animaker.com/">Animaker</a><br>先談一下對於使用者來說，好處大概是網頁版，只要有瀏覽器便可以進行體驗，官方的template教學齊全，如果想要做做個人的簡歷介紹、結婚紀念、邀請函、短片..等，我想這是一個非常無腦且容易上手的作法，所有的分鏡類似投影片模式呈現，上面所有的物件可以套用動作模組去作客制，若不想修改，只要把文字添加就會是個圖文並茂的精彩動畫。<br>使用限制上跟你的帳號付費的程度成正比，若真的要使用，一個月10美元的花費是基礎開銷，若想當免費仔就必須忍受影片會有浮水印外，可使用素材少，每月五次匯出影片限制。<br>目前僅僅試用一次，改天再嘗試自己的圖片放上去做個屬於自己的動畫。</p>
-<h2 id="MoneyDJ-amp-財報狗-amp-不鏽鋼指數"><a href="#MoneyDJ-amp-財報狗-amp-不鏽鋼指數" class="headerlink" title="MoneyDJ &amp; 財報狗 &amp; 不鏽鋼指數"></a>MoneyDJ &amp; 財報狗 &amp; 不鏽鋼指數</h2><hr>
-<p>參考網址: <a href="https://www.moneydj.com/kmdj/common/listnewarticles.aspx?svc=NW&a=C0.C020114">MoneyDJ</a><br>參考網址: <a href="https://statementdog.com/">財報狗</a><br>參考網址: <a href="http://quote.eastmoney.com/qihuo/ssm.html">不鏽鋼指數</a><br>今年可謂是美國的升息年，跌跌不休的股市(五窮六絕)感受特別深刻，突然想了解鋼鐵產業，話說原本並非不了解，但總覺得自己對整個市場，或者說整個產業鏈並不是通盤理解，甚至鋼鐵也有分不同種類。<br>我個人注意力只放在<strong>不鏽鋼</strong>，不鏽鋼是和一般鋼鐵差異在哪?說穿了就是混和金屬比例不同，因金屬特性而產生不同的應用。上中下游，以我自己的理解就是煉鋼、加工+裁切、應用端(只是我自己的理解，錯了別砲我)，整體鋼鐵產業就是景氣循環、高耗能低毛利、反傾銷稅的常客，高資金門檻的特性。耗能產業勢必又跟綠能產業扯上邊，畢竟是天秤的兩端。目前應該最大的消費需求都來自中國，因此他們的商品指數才會具有代表性。</p>
-<p><code>MoneyDJ</code>可以查詢產業訊息，至少更新速度算是快，下游產業要注意產品銷售情況。<br><code>財報狗</code>讓人訝異，裡面竟然也有收集到興櫃的財報，看盤軟體有時候不會這麼好心幫你收集。<br><code>不鏽鋼指數</code>可以觀察和LME鎳期貨的高度相關性，也可以比對一下和國內上游廠商的相關性。</p>
-<p>關於鋼鐵上游廠商，通常原物料漲價，也會照樣反應給中游及下游廠商，某種程度是轉嫁，原本取得存貨成本低，短期具利差，視為短多，漲價若是因為通貨膨脹而非實質需求(實質需求通常是基礎建設)，必須要注意其危險性，後續若發現貨幣政策緊縮，首當其衝也會是上游廠商。</p>
-<h2 id="演算法筆記"><a href="#演算法筆記" class="headerlink" title="演算法筆記"></a>演算法筆記</h2><hr>
-<p>參考網址: <a href="https://web.ntnu.edu.tw/~algo/">演算法筆記</a></p>
-<p>這是一個很有意思的網站，架在台師大教職員網域內，筆記簡單好懂。<br>裡面有個參考網站 <strong><a href="https://github.com/jwasham/coding-interview-university">Coding Interview University</a></strong> 內的內容滿吸引我，看到好多Cheating Sheet,我就想起以前Linux學習的時候，最喜歡的一張Vi操作指令表，這對記性不好的我來說是一大助益。</p>
+    <title>20230506鶯歌石步道</title>
+    <url>/2023/05/08/20230506%E9%B6%AF%E6%AD%8C%E7%9F%B3%E6%AD%A5%E9%81%93/</url>
+    <content><![CDATA[<h2 id="鶯歌火車站附近的健走行程"><a href="#鶯歌火車站附近的健走行程" class="headerlink" title="鶯歌火車站附近的健走行程"></a>鶯歌火車站附近的健走行程</h2><p>本日想延續宜蘭出門行走的行程，平日到三峽後鮮少移動至一橋之隔的鶯歌，騎著GOGORO買菜車過去晃晃，意外地，非預期的看到路旁步道指示，便心血來潮探險。<br>根據聽到路上父女談話(女兒在抱怨累這類的話題，我個人是覺得女兒的腰圍需要注意一下，運動是對的XD)，健走行程花費大約2鐘頭左右，而且距離火車站不遠，滿適合當作是鶯歌半日行程，不算難爬也非危險，惟根據情報必須得小心黑蚊，攜帶防蚊噴劑。</p>
+<p>原本僅想在<code>孫龍步道</code>步行，順便喝著午餐後手搖，欣賞一下景觀步道，畢竟這算是當地規劃的18條步道其中之一。<br>這條步道是由走道、路燈、花圃、人造橋、坑道接續而成，中間都有生態工法的岔路往光明山陵線走，換句話說，往上之後，只要下山方向正確，就可以回到孫龍步道。<br>當地大哥表示，在地人想鍛鍊身體都會走的路線就是繞它一圈。<br>為什麼我需要和當地大哥接觸? 哈 因為沒做功課，當天過去已經到傍晚時分，因此邊走邊問，憂心摸黑，還好爬山的人都還滿熱情的!!其中一位山友還分享到路線延續再走到樹林，但真偽我就無法判斷了。<br>回程順道到阿婆壽司帶個綜合壽司+茶碗蒸，也算解鎖一個新去處。</p>
+<p>附上當天的路線地圖<br><img src="/images/20230506.gif" title="參考路線"></p>
 ]]></content>
       <tags>
-        <tag>10分鐘週記</tag>
-        <tag>股市</tag>
-        <tag>演算法</tag>
+        <tag>心情</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>20231004_年度目標初達標</title>
+    <url>/2023/10/05/20231004_%E5%B9%B4%E5%BA%A6%E7%9B%AE%E6%A8%99%E5%88%9D%E9%81%94%E6%A8%99/</url>
+    <content><![CDATA[<p>今年年初的目標言猶在耳，終於還是要來寫寫近期的心得，記錄一下人生大事的心情。<br>是的!!『結婚』終於在我的日常預計行程中了，心路歷程很難跟外人道盡。<br>從住了12年左右的小套房搬入市中心的2房1廳，不僅僅是金錢上負擔增加，生活型態也在轉變<br>結婚要做的事確實不少<br>找居住地、提親、買結婚戒、買喜餅、製作喜卡、買床墊、找餐廳(家宴)、婚紗、登記、蜜月旅行<br>家庭幸福的祕訣是什麼? 尊重彼此差異、互相生活照顧、營造和樂氣氛<br>雖然常聽人說會發生問題<br>但我相信，下個階段一定會更好!!<br><img src="/images/20231004.jpg" title="結婚小卡"></p>
+]]></content>
+      <tags>
+        <tag>心情</tag>
       </tags>
   </entry>
   <entry>
@@ -328,23 +348,23 @@
       </tags>
   </entry>
   <entry>
-    <title>20230506鶯歌石步道</title>
-    <url>/2023/05/08/20230506%E9%B6%AF%E6%AD%8C%E7%9F%B3%E6%AD%A5%E9%81%93/</url>
-    <content><![CDATA[<h2 id="鶯歌火車站附近的健走行程"><a href="#鶯歌火車站附近的健走行程" class="headerlink" title="鶯歌火車站附近的健走行程"></a>鶯歌火車站附近的健走行程</h2><p>本日想延續宜蘭出門行走的行程，平日到三峽後鮮少移動至一橋之隔的鶯歌，騎著GOGORO買菜車過去晃晃，意外地，非預期的看到路旁步道指示，便心血來潮探險。<br>根據聽到路上父女談話(女兒在抱怨累這類的話題，我個人是覺得女兒的腰圍需要注意一下，運動是對的XD)，健走行程花費大約2鐘頭左右，而且距離火車站不遠，滿適合當作是鶯歌半日行程，不算難爬也非危險，惟根據情報必須得小心黑蚊，攜帶防蚊噴劑。</p>
-<p>原本僅想在<code>孫龍步道</code>步行，順便喝著午餐後手搖，欣賞一下景觀步道，畢竟這算是當地規劃的18條步道其中之一。<br>這條步道是由走道、路燈、花圃、人造橋、坑道接續而成，中間都有生態工法的岔路往光明山陵線走，換句話說，往上之後，只要下山方向正確，就可以回到孫龍步道。<br>當地大哥表示，在地人想鍛鍊身體都會走的路線就是繞它一圈。<br>為什麼我需要和當地大哥接觸? 哈 因為沒做功課，當天過去已經到傍晚時分，因此邊走邊問，憂心摸黑，還好爬山的人都還滿熱情的!!其中一位山友還分享到路線延續再走到樹林，但真偽我就無法判斷了。<br>回程順道到阿婆壽司帶個綜合壽司+茶碗蒸，也算解鎖一個新去處。</p>
-<p>附上當天的路線地圖<br><img src="/images/20230506.gif" title="參考路線"></p>
+    <title>20231017_六道式淨水器</title>
+    <url>/2023/10/17/20231017-%E5%85%AD%E9%81%93%E5%BC%8F%E6%B7%A8%E6%B0%B4%E5%99%A8/</url>
+    <content><![CDATA[<h2 id="RO淨水器非專業自問自答"><a href="#RO淨水器非專業自問自答" class="headerlink" title="RO淨水器非專業自問自答"></a>RO淨水器非專業自問自答</h2><p>以前都是看父親在安裝家裡的淨水器，看著前房客留下來的淨水器，剛開始有些愣住，我完全沒概念，回神過來後，經過網路影片教學及查蝦皮上賣濾心的影片得知，以下是目前短暫的理解:</p>
+<ul>
+<li><strong>RO逆滲透可以過濾細菌及化學物質嗎?</strong> YES</li>
+<li><strong>為什麼會有兩個管子，一個直接排出至洗手台；另外一個接鵝頸?</strong> 主要是因為過濾的水過程中會產生一定比例的廢水，廢水會直接排除，也因為如此，傳統過濾後的水量不大，需要額外有個儲水桶(AKA壓力桶)</li>
+<li><strong>濾心哪裡買?</strong> 直接從蝦皮訂購最便宜(不同濾心耐用時間不同，通常都有一年份組合套餐)，但建議順便買TDM檢測筆，避免萬一濾心本身有問題，至少可以發現，不至於喝到有問題的水質。</li>
+<li><strong>壓力桶用途?</strong> 因為產製的淨水水量不大，先放置於壓力桶，當要使用時才不會還需要大量等待時間；另外有廠商推出直出式，也就是說不需要壓力桶，出來的水量就足以直接使用，但水質據說會比較需要額外注意，該類產品技術含量較高，看來方便總是還是有代價的。</li>
+</ul>
+<hr>
+<h2 id="實際圖"><a href="#實際圖" class="headerlink" title="實際圖"></a>實際圖</h2><ul>
+<li>拆卸的時候，看網路影片提到，需要尖嘴鉗和六角板手，但後者在我這一款似乎還不需要。</li>
+<li>止水膠帶(紙洩帶)也要記得購買，纏繞方式記得是順時鐘，目前看起來5、6道濾心更換時需要使用。<br><img src="/images/20231017_ro_1.jpg" title="六道式淨水器"><br><img src="/images/20231017_ro_2.jpg" title="第1道濾心"><br><img src="/images/20231017_ro_3.jpg" title="第2道濾心"><br><img src="/images/20231017_ro_4.jpg" title="第3道濾心"><br><img src="/images/20231017_ro_5.jpg" title="第4道RO膜"><br><img src="/images/20231017_ro_6.jpg" title="第5,6道提升水質口感濾心"></li>
+</ul>
 ]]></content>
       <tags>
-        <tag>心情</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>20231004_年度目標初達標</title>
-    <url>/2023/10/05/20231004_%E5%B9%B4%E5%BA%A6%E7%9B%AE%E6%A8%99%E5%88%9D%E9%81%94%E6%A8%99/</url>
-    <content><![CDATA[<p>今年年初的目標言猶在耳，終於還是要來寫寫近期的心得，記錄一下人生大事的心情。<br>是的!!『結婚』終於在我的日常預計行程中了，心路歷程很難跟外人道盡。<br>從住了12年左右的小套房搬入市中心的2房1廳，不僅僅是金錢上負擔增加，生活型態也在轉變<br>結婚要做的事確實不少<br>找居住地、提親、買結婚戒、買喜餅、製作喜卡、買床墊、找餐廳(家宴)、婚紗、登記、蜜月旅行<br>家庭幸福的祕訣是什麼? 尊重彼此差異、互相生活照顧、營造和樂氣氛<br>雖然常聽人說會發生問題<br>但我相信，下個階段一定會更好!!<br><img src="/images/20231004.jpg" title="結婚小卡"></p>
-]]></content>
-      <tags>
-        <tag>心情</tag>
+        <tag>水電</tag>
       </tags>
   </entry>
   <entry>
@@ -371,26 +391,6 @@
 ]]></content>
       <tags>
         <tag>心情</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>20231017_六道式淨水器</title>
-    <url>/2023/10/17/20231017-%E5%85%AD%E9%81%93%E5%BC%8F%E6%B7%A8%E6%B0%B4%E5%99%A8/</url>
-    <content><![CDATA[<h2 id="RO淨水器非專業自問自答"><a href="#RO淨水器非專業自問自答" class="headerlink" title="RO淨水器非專業自問自答"></a>RO淨水器非專業自問自答</h2><p>以前都是看父親在安裝家裡的淨水器，看著前房客留下來的淨水器，剛開始有些愣住，我完全沒概念，回神過來後，經過網路影片教學及查蝦皮上賣濾心的影片得知，以下是目前短暫的理解:</p>
-<ul>
-<li><strong>RO逆滲透可以過濾細菌及化學物質嗎?</strong> YES</li>
-<li><strong>為什麼會有兩個管子，一個直接排出至洗手台；另外一個接鵝頸?</strong> 主要是因為過濾的水過程中會產生一定比例的廢水，廢水會直接排除，也因為如此，傳統過濾後的水量不大，需要額外有個儲水桶(AKA壓力桶)</li>
-<li><strong>濾心哪裡買?</strong> 直接從蝦皮訂購最便宜(不同濾心耐用時間不同，通常都有一年份組合套餐)，但建議順便買TDM檢測筆，避免萬一濾心本身有問題，至少可以發現，不至於喝到有問題的水質。</li>
-<li><strong>壓力桶用途?</strong> 因為產製的淨水水量不大，先放置於壓力桶，當要使用時才不會還需要大量等待時間；另外有廠商推出直出式，也就是說不需要壓力桶，出來的水量就足以直接使用，但水質據說會比較需要額外注意，該類產品技術含量較高，看來方便總是還是有代價的。</li>
-</ul>
-<hr>
-<h2 id="實際圖"><a href="#實際圖" class="headerlink" title="實際圖"></a>實際圖</h2><ul>
-<li>拆卸的時候，看網路影片提到，需要尖嘴鉗和六角板手，但後者在我這一款似乎還不需要。</li>
-<li>止水膠帶(紙洩帶)也要記得購買，纏繞方式記得是順時鐘，目前看起來5、6道濾心更換時需要使用。<br><img src="/images/20231017_ro_1.jpg" title="六道式淨水器"><br><img src="/images/20231017_ro_2.jpg" title="第1道濾心"><br><img src="/images/20231017_ro_3.jpg" title="第2道濾心"><br><img src="/images/20231017_ro_4.jpg" title="第3道濾心"><br><img src="/images/20231017_ro_5.jpg" title="第4道RO膜"><br><img src="/images/20231017_ro_6.jpg" title="第5,6道提升水質口感濾心"></li>
-</ul>
-]]></content>
-      <tags>
-        <tag>水電</tag>
       </tags>
   </entry>
   <entry>
@@ -572,6 +572,30 @@
       </tags>
   </entry>
   <entry>
+    <title>20240217_生日過後感想</title>
+    <url>/2024/02/17/20240217-%E7%94%9F%E6%97%A5%E9%81%8E%E5%BE%8C%E6%84%9F%E6%83%B3/</url>
+    <content><![CDATA[<h2 id="生日後一天"><a href="#生日後一天" class="headerlink" title="生日後一天"></a>生日後一天</h2><p>今年是2024，每隔四年出現的閏年，意識到今年有2月29日，誕生於此日的人們只能四年擴大慶生，但今年生日恰好在農曆年後的週五。<br>說起生日，自從有意識以來，很常和農曆年重疊，因此年假喜悅總是超過於過生日，今天又恰好是次日周六也是補班日，補班日我在做什麼呢?<br>工作之餘，把公司發的年節禮券在跟進行兌現，雖然不清楚社會上收禮券的獲利密碼，但我想應該跟百貨公司脫離不太了關係。<br>以目前行情的93折的禮券行情，雖然有些吃虧，但先不想太多，先換先換。</p>
+<h2 id="Youtube-常看影片"><a href="#Youtube-常看影片" class="headerlink" title="Youtube 常看影片"></a>Youtube 常看影片</h2><p>不知不覺自己的收視習慣，幾乎都是以youtube為主，<br>近期非常喜愛觀看歷史故事節目，強力推薦<code>李天豪</code>頻道，從三國、清朝、民國初年、談到近期的總統大選<br>甚至是中東半島都有脈絡及組織性的口述歷史，原本教科書式只知道歷史上的大事，能從發生的時空背景分析及依照文獻重現當時歷史人物思考，更能把聽眾帶入實際主題中<br>。<br>沒有厚實的歷史政治博學才能真的無法辦到，真心推薦。</p>
+<p>參考網址: <a href="https://www.youtube.com/@leecehao">李天豪老師</a></p>
+<h2 id="台三線"><a href="#台三線" class="headerlink" title="台三線"></a>台三線</h2><p>年假過了，本次年假除了是婚後第一回過年，有天為了避開高速公路塞車，便開著台3線一路開到曾文水庫，享用了砂鍋魚頭餐，也逛了環湖公園，步行在同心橋上，徐徐微風吹拂，心情輕鬆快活。<br>嘉義有許多我愛的元素，雞肉飯、阿里山美景外，現在又可加上砂鍋魚頭了!!，台三線最南也可以到旗山，旗山老街很想去看看，也很想到梅山老街走走，台北差不多應該都有些概念和印象了，<br>是時候常往外縣市走走了，我想可以用台三線路過的行政區來分類前往，來場務實的浪漫台三線旅行吧。</p>
+]]></content>
+      <tags>
+        <tag>心情</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>20240229_初探雲林嘉義</title>
+    <url>/2024/03/03/20240229-%E5%88%9D%E6%8E%A2%E9%9B%B2%E6%9E%97%E5%98%89%E7%BE%A9/</url>
+    <content><![CDATA[<h2 id="台三線之雲嘉篇"><a href="#台三線之雲嘉篇" class="headerlink" title="台三線之雲嘉篇"></a>台三線之雲嘉篇</h2><p>今年春節初四來了一趟曾文水庫之旅，由於要避開高速公路車潮，從台中74號快速道路結束後，改走台三線，整趟旅程中，沿途經過南投雲林，最終抵達嘉義，而且大埔在非常深山內，第一次體會到為何台三線稱之為「內山公路」，自從有了這次經驗，突然間，覺得對於中南部的山線城市並不熟悉，每回從台中出發當天來回，因要避開車潮，偏好走海線旅行，也常利用濱海公路南下彰化或北上苗栗，自然而然都會是去鹿港或者西螺等地。<br>有鑑於此，便促成本次三天兩夜的嘉義雲林之旅，居住地選在嘉義，旅行的主體以阿里山本線鐵路之旅為主，市區美食為輔。<br>最後一天則造訪梅山的太平天梯、古坑綠色隧道及斗六市區。</p>
+<h2 id="嘉義-認識市區"><a href="#嘉義-認識市區" class="headerlink" title="嘉義(認識市區)"></a>嘉義(認識市區)</h2><p>第一天主要嘉義市區附近，以步行認識嘉義，印象深刻的是感受地圖上的距離感和認知中有很大不同，雖然有些花時間，但也對於垂楊路、仁愛路…等更有印象。<br>我妹推薦的涼麵果然名不虛傳，滿合我的口味，下次去還要再吃一次；下次另外一個必吃的是阿屋米糕(文化路夜市內)<br><img src="/images/20240229_01.jpg" title="四味果汁涼麵"><br><img src="/images/20240229_02.jpg" title="涼麵本尊"><br><img src="/images/20240229_03.jpg" title="旅館推薦不踩雷"></p>
+<h2 id="嘉義-阿里山小火車-gt-文化路夜市"><a href="#嘉義-阿里山小火車-gt-文化路夜市" class="headerlink" title="嘉義(阿里山小火車-&gt;文化路夜市)"></a>嘉義(阿里山小火車-&gt;文化路夜市)</h2><p>今天從早上9點到下午4點都按照小火車的時刻表進行，非常興奮搭的林業火車(需事先訂票)，小火車行進間有些顛頗，容易晃到脖子痠痛，還好車掌路途中有介紹林業火車的爬山方式，及各站的特點，多虧有這段介紹，不然我想兩個小時的車程會很難熬。<br>中途有個獨立山站，附近的步道或許可以研究一下，下次專程過來。<br><img src="/images/20240301_01.jpg" title="準備來搭小火車"><br><img src="/images/20240301_02.jpg" title="林業本線搭乘地點指示"><br><img src="/images/20240301_03.jpg" title="位置在第五節"><br><img src="/images/20240301_04.jpg" title="奮起湖老街景象"><br><img src="/images/20240301_05.jpg" title="車站被霧環繞"></p>
+<h2 id="嘉義-檜意森活村-gt-梅山太平雲梯-、雲林-古坑-gt-斗六"><a href="#嘉義-檜意森活村-gt-梅山太平雲梯-、雲林-古坑-gt-斗六" class="headerlink" title="嘉義(檜意森活村-&gt;梅山太平雲梯)、雲林(古坑-&gt;斗六)"></a>嘉義(檜意森活村-&gt;梅山太平雲梯)、雲林(古坑-&gt;斗六)</h2><p>檜意森活村在北門站附近，有不少日式庭院式的建築可以欣賞，也有蒸汽火車體驗可以付費參與，聽說是從北門車站來回嘉義車站。<br>本日後續的行程都是以北上為主，雖然下雨，到梅山太平老街時，氣溫為八度，體感非常寒冷，但還好並沒有下雨，而且途中有看到雲海(沒有被霧氣圍繞)。<br>由於我們沒有購票上雲梯，反倒是發現一個名叫望月亭的地方，這應該是看雲海不錯的點，當日沒有停車問題，假設天氣好，聽說停車不太好停，旁邊的老街滿商業化的，人一走上去一堆試吃品。<br>古坑綠色隧道內最有用的情報除了那邊是條綿延多條路線的腳踏車道外，就是有張古坑山區的的景點圖，心理非常雀躍不已(又有新地點可去了)。<br>最後一站舊式斗六市區太平老街買吃的，目前印象最深的就是陳家臭豆腐，炸過的皮能做到不乾不容易，真心推薦。<br><img src="/images/20240302_01.jpg" title="檜意生活村，欣賞木造建築"><br><img src="/images/20240302_02.jpg" title="太平雲梯"><br><img src="/images/20240302_03.jpg" title="太平景象緣起不滅細水長流"><br><img src="/images/20240302_04.jpg" title="未來預計前往之處華山、樟湖、草嶺"><br><img src="/images/20240302_05.jpg" title="綠色隧道假日市集"><br><img src="/images/20240302_06.jpg" title="斗六雲林溪景觀步道1"><br><img src="/images/20240302_07.jpg" title="斗六雲林溪景觀步道2"></p>
+]]></content>
+      <tags>
+        <tag>心情</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>10分鐘週記-GIT指令參考</title>
     <url>/2022/08/31/GIT%E6%8C%87%E4%BB%A4%E5%8F%83%E8%80%83/</url>
     <content><![CDATA[<h2 id="GIT"><a href="#GIT" class="headerlink" title="GIT"></a>GIT</h2><hr>
@@ -630,30 +654,6 @@
       </tags>
   </entry>
   <entry>
-    <title>20240217_生日過後感想</title>
-    <url>/2024/02/17/20240217-%E7%94%9F%E6%97%A5%E9%81%8E%E5%BE%8C%E6%84%9F%E6%83%B3/</url>
-    <content><![CDATA[<h2 id="生日後一天"><a href="#生日後一天" class="headerlink" title="生日後一天"></a>生日後一天</h2><p>今年是2024，每隔四年出現的閏年，意識到今年有2月29日，誕生於此日的人們只能四年擴大慶生，但今年生日恰好在農曆年後的週五。<br>說起生日，自從有意識以來，很常和農曆年重疊，因此年假喜悅總是超過於過生日，今天又恰好是次日周六也是補班日，補班日我在做什麼呢?<br>工作之餘，把公司發的年節禮券在跟進行兌現，雖然不清楚社會上收禮券的獲利密碼，但我想應該跟百貨公司脫離不太了關係。<br>以目前行情的93折的禮券行情，雖然有些吃虧，但先不想太多，先換先換。</p>
-<h2 id="Youtube-常看影片"><a href="#Youtube-常看影片" class="headerlink" title="Youtube 常看影片"></a>Youtube 常看影片</h2><p>不知不覺自己的收視習慣，幾乎都是以youtube為主，<br>近期非常喜愛觀看歷史故事節目，強力推薦<code>李天豪</code>頻道，從三國、清朝、民國初年、談到近期的總統大選<br>甚至是中東半島都有脈絡及組織性的口述歷史，原本教科書式只知道歷史上的大事，能從發生的時空背景分析及依照文獻重現當時歷史人物思考，更能把聽眾帶入實際主題中<br>。<br>沒有厚實的歷史政治博學才能真的無法辦到，真心推薦。</p>
-<p>參考網址: <a href="https://www.youtube.com/@leecehao">李天豪老師</a></p>
-<h2 id="台三線"><a href="#台三線" class="headerlink" title="台三線"></a>台三線</h2><p>年假過了，本次年假除了是婚後第一回過年，有天為了避開高速公路塞車，便開著台3線一路開到曾文水庫，享用了砂鍋魚頭餐，也逛了環湖公園，步行在同心橋上，徐徐微風吹拂，心情輕鬆快活。<br>嘉義有許多我愛的元素，雞肉飯、阿里山美景外，現在又可加上砂鍋魚頭了!!，台三線最南也可以到旗山，旗山老街很想去看看，也很想到梅山老街走走，台北差不多應該都有些概念和印象了，<br>是時候常往外縣市走走了，我想可以用台三線路過的行政區來分類前往，來場務實的浪漫台三線旅行吧。</p>
-]]></content>
-      <tags>
-        <tag>心情</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>20240229_初探雲林嘉義</title>
-    <url>/2024/03/03/20240229-%E5%88%9D%E6%8E%A2%E9%9B%B2%E6%9E%97%E5%98%89%E7%BE%A9/</url>
-    <content><![CDATA[<h2 id="台三線之雲嘉篇"><a href="#台三線之雲嘉篇" class="headerlink" title="台三線之雲嘉篇"></a>台三線之雲嘉篇</h2><p>今年春節初四來了一趟曾文水庫之旅，由於要避開高速公路車潮，從台中74號快速道路結束後，改走台三線，整趟旅程中，沿途經過南投雲林，最終抵達嘉義，而且大埔在非常深山內，第一次體會到為何台三線稱之為「內山公路」，自從有了這次經驗，突然間，覺得對於中南部的山線城市並不熟悉，每回從台中出發當天來回，因要避開車潮，偏好走海線旅行，也常利用濱海公路南下彰化或北上苗栗，自然而然都會是去鹿港或者西螺等地。<br>有鑑於此，便促成本次三天兩夜的嘉義雲林之旅，居住地選在嘉義，旅行的主體以阿里山本線鐵路之旅為主，市區美食為輔。<br>最後一天則造訪梅山的太平天梯、古坑綠色隧道及斗六市區。</p>
-<h2 id="嘉義-認識市區"><a href="#嘉義-認識市區" class="headerlink" title="嘉義(認識市區)"></a>嘉義(認識市區)</h2><p>第一天主要嘉義市區附近，以步行認識嘉義，印象深刻的是感受地圖上的距離感和認知中有很大不同，雖然有些花時間，但也對於垂楊路、仁愛路…等更有印象。<br>我妹推薦的涼麵果然名不虛傳，滿合我的口味，下次去還要再吃一次；下次另外一個必吃的是阿屋米糕(文化路夜市內)<br><img src="/images/20240229_01.jpg" title="四味果汁涼麵"><br><img src="/images/20240229_02.jpg" title="涼麵本尊"><br><img src="/images/20240229_03.jpg" title="旅館推薦不踩雷"></p>
-<h2 id="嘉義-阿里山小火車-gt-文化路夜市"><a href="#嘉義-阿里山小火車-gt-文化路夜市" class="headerlink" title="嘉義(阿里山小火車-&gt;文化路夜市)"></a>嘉義(阿里山小火車-&gt;文化路夜市)</h2><p>今天從早上9點到下午4點都按照小火車的時刻表進行，非常興奮搭的林業火車(需事先訂票)，小火車行進間有些顛頗，容易晃到脖子痠痛，還好車掌路途中有介紹林業火車的爬山方式，及各站的特點，多虧有這段介紹，不然我想兩個小時的車程會很難熬。<br>中途有個獨立山站，附近的步道或許可以研究一下，下次專程過來。<br><img src="/images/20240301_01.jpg" title="準備來搭小火車"><br><img src="/images/20240301_02.jpg" title="林業本線搭乘地點指示"><br><img src="/images/20240301_03.jpg" title="位置在第五節"><br><img src="/images/20240301_04.jpg" title="奮起湖老街景象"><br><img src="/images/20240301_05.jpg" title="車站被霧環繞"></p>
-<h2 id="嘉義-檜意森活村-gt-梅山太平雲梯-、雲林-古坑-gt-斗六"><a href="#嘉義-檜意森活村-gt-梅山太平雲梯-、雲林-古坑-gt-斗六" class="headerlink" title="嘉義(檜意森活村-&gt;梅山太平雲梯)、雲林(古坑-&gt;斗六)"></a>嘉義(檜意森活村-&gt;梅山太平雲梯)、雲林(古坑-&gt;斗六)</h2><p>檜意森活村在北門站附近，有不少日式庭院式的建築可以欣賞，也有蒸汽火車體驗可以付費參與，聽說是從北門車站來回嘉義車站。<br>本日後續的行程都是以北上為主，雖然下雨，到梅山太平老街時，氣溫為八度，體感非常寒冷，但還好並沒有下雨，而且途中有看到雲海(沒有被霧氣圍繞)。<br>由於我們沒有購票上雲梯，反倒是發現一個名叫望月亭的地方，這應該是看雲海不錯的點，當日沒有停車問題，假設天氣好，聽說停車不太好停，旁邊的老街滿商業化的，人一走上去一堆試吃品。<br>古坑綠色隧道內最有用的情報除了那邊是條綿延多條路線的腳踏車道外，就是有張古坑山區的的景點圖，心理非常雀躍不已(又有新地點可去了)。<br>最後一站舊式斗六市區太平老街買吃的，目前印象最深的就是陳家臭豆腐，炸過的皮能做到不乾不容易，真心推薦。<br><img src="/images/20240302_01.jpg" title="檜意生活村，欣賞木造建築"><br><img src="/images/20240302_02.jpg" title="太平雲梯"><br><img src="/images/20240302_03.jpg" title="太平景象緣起不滅細水長流"><br><img src="/images/20240302_04.jpg" title="未來預計前往之處華山、樟湖、草嶺"><br><img src="/images/20240302_05.jpg" title="綠色隧道假日市集"><br><img src="/images/20240302_06.jpg" title="斗六雲林溪景觀步道1"><br><img src="/images/20240302_07.jpg" title="斗六雲林溪景觀步道2"></p>
-]]></content>
-      <tags>
-        <tag>心情</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Pubook入手儀式</title>
     <url>/2023/06/24/Pubook%E5%85%A5%E6%89%8B%E5%84%80%E5%BC%8F/</url>
     <content><![CDATA[<h2 id="賀-Pubook入手"><a href="#賀-Pubook入手" class="headerlink" title="賀!!Pubook入手"></a>賀!!Pubook入手</h2><p>近期突然間對於電子書閱讀器產生興趣，這產品其實已經存在市場上非常久，從前的印象總是更新速度慢、平板也可以達到同樣功能，因為並沒有非買不可的理由，遲遲沒有下手。<br>誠品禮券也累積到一個程度，而且近期元太第三代的彩色電子紙技術也推出，國內各主要品牌開始推出相關產品，想想林林總總也看了滿多品牌，以下是未購買前準備的心得:</p>
@@ -667,26 +667,6 @@
 ]]></content>
       <tags>
         <tag>心情</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>UBER EAT Milestone</title>
-    <url>/2022/07/24/UBER-EAT-Milestone/</url>
-    <content><![CDATA[<p><img src="/images/uber_1.jpg" title="10萬達成"></p>
-<h1 id="話說初衷"><a href="#話說初衷" class="headerlink" title="話說初衷"></a>話說初衷</h1><p>話說去年底檢討自己的開銷後，歷經約9個月的part-time生活，經過風吹日曬，把街頭送餐當作生活的一部分，也差不多到了一個里程碑。最初並沒有特別給自己太大的績效目標，主因是GOGORO有里程限制，因此每個月我只會拿出限制內的多餘里程數出來跑，當然次要原因也是畢竟這是體力活，雖然會增加收入但並非長久之計，打著貼補生活費的態度也是要來個反思，自己心裏訂下的目標就是10萬營收，就來個盤點驗收一下吧。</p>
-<h1 id="流水帳"><a href="#流水帳" class="headerlink" title="流水帳"></a>流水帳</h1><p>截至目前，總共外送訂單有1,320趟，收入為100,299，運送成本約11,305(包含電車月租費、電話費、罰單一張及各項外送用的硬體)。外送偶爾會比較敢進行消費(我想這是一種補償心態)，這部分就五花八門、琳瑯滿目(最大一筆開銷是母親節送的工學椅)，這部分大約花了9,367。<br>總結來說，大約還有78,000左右，以9個月來說，生活費大概回補了六成左右。</p>
-<h1 id="心得"><a href="#心得" class="headerlink" title="心得"></a>心得</h1><ul>
-<li>年初有個願望清單，關於要<em>打消平時2022生活開銷</em>這項應該是達成了，成功的自我實現。</li>
-<li>給沒打過工的我體驗人生的機會。</li>
-<li>自我觀察我大概一周出勤12小時，我就開始懷疑人生了，說到這點我真的很佩服可以跑六小時以上且每天持續的外送員。</li>
-<li>對身體影響上，對於陽光會感覺特別敏感，眼睛有變得容易疲勞而且下背部的血液循環變差。</li>
-<li>當結束外送時，身體疲憊像是加過班，導致休息容易不足的情況，滿常發生下班吃飽飯後就倒頭睡著。<h1 id="未來"><a href="#未來" class="headerlink" title="未來"></a>未來</h1></li>
-<li>這是一份收入不低的打工，但只能當作備胎，擺在第二順位。(渣男思維)</li>
-<li>思考一下這攢下來的78,000，能否再做有效利用</li>
-</ul>
-]]></content>
-      <tags>
-        <tag>UBER EATS</tag>
       </tags>
   </entry>
   <entry>
@@ -727,53 +707,55 @@
       </tags>
   </entry>
   <entry>
-    <title>UBER EAT之自我提醒</title>
-    <url>/2022/06/27/UBER-EAT%E4%B9%8B%E8%87%AA%E6%88%91%E6%8F%90%E9%86%92/</url>
-    <content><![CDATA[<p>近期UBER EATS 將週四納入周一至周三的周期中，以我自己而言，趟次獎勵第一階標準分別為40趟及35趟，換言之，我不是不跑就是得最低跑至75趟才可取得完整趟次獎勵。<br>按照原定計畫，每天2~3小時，縱使均五也不太可能破15趟，因此這周有些辛苦，有些想提醒自己一下。</p>
-<ol>
-<li>趟次分配回顧</li>
-<li>自我提醒</li>
-</ol>
+    <title>UBER EAT Milestone</title>
+    <url>/2022/07/24/UBER-EAT-Milestone/</url>
+    <content><![CDATA[<p><img src="/images/uber_1.jpg" title="10萬達成"></p>
+<h1 id="話說初衷"><a href="#話說初衷" class="headerlink" title="話說初衷"></a>話說初衷</h1><p>話說去年底檢討自己的開銷後，歷經約9個月的part-time生活，經過風吹日曬，把街頭送餐當作生活的一部分，也差不多到了一個里程碑。最初並沒有特別給自己太大的績效目標，主因是GOGORO有里程限制，因此每個月我只會拿出限制內的多餘里程數出來跑，當然次要原因也是畢竟這是體力活，雖然會增加收入但並非長久之計，打著貼補生活費的態度也是要來個反思，自己心裏訂下的目標就是10萬營收，就來個盤點驗收一下吧。</p>
+<h1 id="流水帳"><a href="#流水帳" class="headerlink" title="流水帳"></a>流水帳</h1><p>截至目前，總共外送訂單有1,320趟，收入為100,299，運送成本約11,305(包含電車月租費、電話費、罰單一張及各項外送用的硬體)。外送偶爾會比較敢進行消費(我想這是一種補償心態)，這部分就五花八門、琳瑯滿目(最大一筆開銷是母親節送的工學椅)，這部分大約花了9,367。<br>總結來說，大約還有78,000左右，以9個月來說，生活費大概回補了六成左右。</p>
+<h1 id="心得"><a href="#心得" class="headerlink" title="心得"></a>心得</h1><ul>
+<li>年初有個願望清單，關於要<em>打消平時2022生活開銷</em>這項應該是達成了，成功的自我實現。</li>
+<li>給沒打過工的我體驗人生的機會。</li>
+<li>自我觀察我大概一周出勤12小時，我就開始懷疑人生了，說到這點我真的很佩服可以跑六小時以上且每天持續的外送員。</li>
+<li>對身體影響上，對於陽光會感覺特別敏感，眼睛有變得容易疲勞而且下背部的血液循環變差。</li>
+<li>當結束外送時，身體疲憊像是加過班，導致休息容易不足的情況，滿常發生下班吃飽飯後就倒頭睡著。<h1 id="未來"><a href="#未來" class="headerlink" title="未來"></a>未來</h1></li>
+<li>這是一份收入不低的打工，但只能當作備胎，擺在第二順位。(渣男思維)</li>
+<li>思考一下這攢下來的78,000，能否再做有效利用</li>
+</ul>
+]]></content>
+      <tags>
+        <tag>UBER EATS</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>UBER EAT 趟數焦慮</title>
+    <url>/2022/07/04/UBER-EAT-%E8%B6%9F%E6%95%B8%E7%84%A6%E6%85%AE/</url>
+    <content><![CDATA[<h1 id="趟數焦慮"><a href="#趟數焦慮" class="headerlink" title="趟數焦慮"></a>趟數焦慮</h1><blockquote>
+<p>這週開始我的個人標準到了新的境界，前一天還在想是不是有吃幾個負評，導致要被平台踢出個人趟獎而第一標上調到65趟，再怎麼有能力跑單，以我原本預設的每日2~3小時的作法，馬上就被打破，沒辦法平均分配在每天的熱門時段，無奈之餘盡是苦惱。</p>
+<blockquote>
+<p>萬事總是有解法，目前面對這狀態，仔細分析一下，先以最差的方式均3跑，大約需要約20小時左右，以目前晚上熱區大約頂多停留兩小時，再加上接近消夜場，平日晚上花5小時才有辦法消耗整個65單，實務上風險很高，尤其是碰到完全沒單的時候。<br>假日有連續五個用餐時間可以排班，每個時段至少要接近15單，其實也是不可能的任務，可能會在冷門時段撿單，先前比較新手階段曾經花整個週六去跑單，理論上8小時要24單應該是可行的，但光是想到就覺得好累，往好處想，65趟目前一趟提升到23元，算是把時間集中化，若均單效率夠好，也許可以縮短工時也不一定。</p>
+</blockquote>
+</blockquote>
 <span id="more"></span>
 
-<h1 id="趟次分配"><a href="#趟次分配" class="headerlink" title="趟次分配"></a>趟次分配</h1><table>
-<thead>
-<tr>
-<th>周一</th>
-<th>週二</th>
-<th>周三</th>
-<th>週四</th>
-<th>周五</th>
-<th>週六</th>
-<th>周日</th>
-</tr>
-</thead>
-<tbody><tr>
-<td>0</td>
-<td>14</td>
-<td>14</td>
-<td>12</td>
-<td>0</td>
-<td>18</td>
-<td>17</td>
-</tr>
-<tr>
-<td>0</td>
-<td>5hrs</td>
-<td>5hrs</td>
-<td>3hrs</td>
-<td>0</td>
-<td>5hrs</td>
-<td>3hrs</td>
-</tr>
-</tbody></table>
-<p>平日訂單會依照時間明顯遞減，超過20:00幾乎消失，原本預計的時間頂多跑出10單就好(為了多出那幾單，多了好幾個鐘頭，本周最大敗筆)，整體約均3左右<br>週五至周日，原則上週六比週五好，周日又比週六好，單就晚上大約會有三個多鐘頭的不斷單，這周約均4.3左右</p>
-<h1 id="自我提醒"><a href="#自我提醒" class="headerlink" title="自我提醒"></a>自我提醒</h1><p>外送時，我太在意路線、找門牌、和避免餐損，原本以為自己取餐和送餐部分是OK的，但時間久了，會因為躁進而失誤，提醒一下自己:</p>
+<h1 id="迎接挑戰"><a href="#迎接挑戰" class="headerlink" title="迎接挑戰"></a>迎接挑戰</h1><p>除非頭殼壞掉，不然不需要每天進行，挑假日先體驗看看<br>當預期收入達成就不要週週跑</p>
 <ul>
-<li>店家端要注意對餐:雖然有些店家不一定要跟店員對餐也可直接取餐，但溝通可避免餐點不齊全，尤其是第一次接觸的店家必須打招呼。</li>
-<li>客戶端避免兩單互相送錯:不要太相信記憶中保溫箱內的位置，預計送達客人手中前，必須眼見號碼為憑。</li>
-<li>送錯餐的處理:若客服來電，接到電話按指示處理；若沒接到電話就沒機會補救(回撥電話是找不到客服的，<strong>正確做法:[幫助]-&gt;[行程相關協助]-&gt;[外送行程問題]-&gt;[我有線上訂單需要協助]-&gt;拉到最下面的[與我們對談]</strong>)，後續還是必須強制送完，原則上客人會吃到免費餐，可以跟客人說明，會影響送外的KPI或者扣款這部分也只能接受。</li>
+<li>趟次策略<ul>
+<li>週五盡量擠單，信用卡單+現金單&#x2F;跑陌生區域</li>
+<li>週六延續週五跑法，但不斷單時不開現金單，注意每單的距離品質，周五和周六以40單為目標</li>
+<li>週日延續週五跑法，不斷單時不開現金單，解決剩下的25單</li>
 </ul>
+</li>
+<li>習慣<ul>
+<li>熱門時段取捨訂單要落實</li>
+<li>避免一定要採中柱或把長時間手機掛脖子</li>
+<li>要補充水分及找便捷的吃飯方式</li>
+<li>手機電池目前僅能持續白天3小時左右、晚上5小時，注意充電</li>
+</ul>
+</li>
+</ul>
+<h1 id="截圖"><a href="#截圖" class="headerlink" title="截圖"></a>截圖</h1><div align="center">
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/26w7Hjh"  ><a href="//imgur.com/a/26w7Hjh">bonus</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+</div>
 ]]></content>
       <tags>
         <tag>UBER EATS</tag>
@@ -973,38 +955,83 @@
       </tags>
   </entry>
   <entry>
-    <title>UBER EAT 趟數焦慮</title>
-    <url>/2022/07/04/UBER-EAT-%E8%B6%9F%E6%95%B8%E7%84%A6%E6%85%AE/</url>
-    <content><![CDATA[<h1 id="趟數焦慮"><a href="#趟數焦慮" class="headerlink" title="趟數焦慮"></a>趟數焦慮</h1><blockquote>
-<p>這週開始我的個人標準到了新的境界，前一天還在想是不是有吃幾個負評，導致要被平台踢出個人趟獎而第一標上調到65趟，再怎麼有能力跑單，以我原本預設的每日2~3小時的作法，馬上就被打破，沒辦法平均分配在每天的熱門時段，無奈之餘盡是苦惱。</p>
-<blockquote>
-<p>萬事總是有解法，目前面對這狀態，仔細分析一下，先以最差的方式均3跑，大約需要約20小時左右，以目前晚上熱區大約頂多停留兩小時，再加上接近消夜場，平日晚上花5小時才有辦法消耗整個65單，實務上風險很高，尤其是碰到完全沒單的時候。<br>假日有連續五個用餐時間可以排班，每個時段至少要接近15單，其實也是不可能的任務，可能會在冷門時段撿單，先前比較新手階段曾經花整個週六去跑單，理論上8小時要24單應該是可行的，但光是想到就覺得好累，往好處想，65趟目前一趟提升到23元，算是把時間集中化，若均單效率夠好，也許可以縮短工時也不一定。</p>
-</blockquote>
-</blockquote>
+    <title>UBER EAT之自我提醒</title>
+    <url>/2022/06/27/UBER-EAT%E4%B9%8B%E8%87%AA%E6%88%91%E6%8F%90%E9%86%92/</url>
+    <content><![CDATA[<p>近期UBER EATS 將週四納入周一至周三的周期中，以我自己而言，趟次獎勵第一階標準分別為40趟及35趟，換言之，我不是不跑就是得最低跑至75趟才可取得完整趟次獎勵。<br>按照原定計畫，每天2~3小時，縱使均五也不太可能破15趟，因此這周有些辛苦，有些想提醒自己一下。</p>
+<ol>
+<li>趟次分配回顧</li>
+<li>自我提醒</li>
+</ol>
 <span id="more"></span>
 
-<h1 id="迎接挑戰"><a href="#迎接挑戰" class="headerlink" title="迎接挑戰"></a>迎接挑戰</h1><p>除非頭殼壞掉，不然不需要每天進行，挑假日先體驗看看<br>當預期收入達成就不要週週跑</p>
+<h1 id="趟次分配"><a href="#趟次分配" class="headerlink" title="趟次分配"></a>趟次分配</h1><table>
+<thead>
+<tr>
+<th>周一</th>
+<th>週二</th>
+<th>周三</th>
+<th>週四</th>
+<th>周五</th>
+<th>週六</th>
+<th>周日</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>0</td>
+<td>14</td>
+<td>14</td>
+<td>12</td>
+<td>0</td>
+<td>18</td>
+<td>17</td>
+</tr>
+<tr>
+<td>0</td>
+<td>5hrs</td>
+<td>5hrs</td>
+<td>3hrs</td>
+<td>0</td>
+<td>5hrs</td>
+<td>3hrs</td>
+</tr>
+</tbody></table>
+<p>平日訂單會依照時間明顯遞減，超過20:00幾乎消失，原本預計的時間頂多跑出10單就好(為了多出那幾單，多了好幾個鐘頭，本周最大敗筆)，整體約均3左右<br>週五至周日，原則上週六比週五好，周日又比週六好，單就晚上大約會有三個多鐘頭的不斷單，這周約均4.3左右</p>
+<h1 id="自我提醒"><a href="#自我提醒" class="headerlink" title="自我提醒"></a>自我提醒</h1><p>外送時，我太在意路線、找門牌、和避免餐損，原本以為自己取餐和送餐部分是OK的，但時間久了，會因為躁進而失誤，提醒一下自己:</p>
 <ul>
-<li>趟次策略<ul>
-<li>週五盡量擠單，信用卡單+現金單&#x2F;跑陌生區域</li>
-<li>週六延續週五跑法，但不斷單時不開現金單，注意每單的距離品質，周五和周六以40單為目標</li>
-<li>週日延續週五跑法，不斷單時不開現金單，解決剩下的25單</li>
+<li>店家端要注意對餐:雖然有些店家不一定要跟店員對餐也可直接取餐，但溝通可避免餐點不齊全，尤其是第一次接觸的店家必須打招呼。</li>
+<li>客戶端避免兩單互相送錯:不要太相信記憶中保溫箱內的位置，預計送達客人手中前，必須眼見號碼為憑。</li>
+<li>送錯餐的處理:若客服來電，接到電話按指示處理；若沒接到電話就沒機會補救(回撥電話是找不到客服的，<strong>正確做法:[幫助]-&gt;[行程相關協助]-&gt;[外送行程問題]-&gt;[我有線上訂單需要協助]-&gt;拉到最下面的[與我們對談]</strong>)，後續還是必須強制送完，原則上客人會吃到免費餐，可以跟客人說明，會影響送外的KPI或者扣款這部分也只能接受。</li>
 </ul>
-</li>
-<li>習慣<ul>
-<li>熱門時段取捨訂單要落實</li>
-<li>避免一定要採中柱或把長時間手機掛脖子</li>
-<li>要補充水分及找便捷的吃飯方式</li>
-<li>手機電池目前僅能持續白天3小時左右、晚上5小時，注意充電</li>
-</ul>
-</li>
-</ul>
-<h1 id="截圖"><a href="#截圖" class="headerlink" title="截圖"></a>截圖</h1><div align="center">
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/26w7Hjh"  ><a href="//imgur.com/a/26w7Hjh">bonus</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-</div>
 ]]></content>
       <tags>
         <tag>UBER EATS</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/2022/06/03/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>力不從心</title>
+    <url>/2022/07/03/%E5%8A%9B%E4%B8%8D%E5%BE%9E%E5%BF%83/</url>
+    <content><![CDATA[<p>週六突然有很多感觸，我想是前一日晚間熬夜的關係，精神疲憊時進行思考總是會掉入悲觀主義的陷阱。<br>地球不停的自轉，我的世界也跟著一起漫無目的自轉中，好好學習變成一個讓人失去目標的課題<br>優雅的逃避是種奢侈，不讓人找、也不找人<br>今晚金曲獎年度最佳歌曲樂團在頒獎典禮，和去年台詞一樣，最後爽朗地說出<strong>積極樂觀、感恩惜福</strong><br>現在沒什麼玩耍的本錢!!繼續加油~~ Keep going.</p>
+]]></content>
+      <tags>
+        <tag>心情</tag>
       </tags>
   </entry>
   <entry>
@@ -1044,24 +1071,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Hello World</title>
-    <url>/2022/06/03/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
-  </entry>
-  <entry>
     <title>吃貨街走趣</title>
     <url>/2022/07/20/%E5%90%83%E8%B2%A8%E8%A1%97%E8%B5%B0%E8%B6%A3/</url>
     <content><![CDATA[<p>本周每天從復興南騎車到復興北，通過地下通道到北安路，路經不熟悉的區域，眼前都是新鮮感，好奇寶寶如我，不免俗的會開始探索附近的店家。早期我對大直的印象來自於實踐大學和空中英語教室，後來美麗華摩天輪的開幕，甚至附近的高爾夫練習場也去過。這周常逛了大直家樂福1F大食代、美麗華B1美食廣場、ATT，大部分都吃B1美食廣場，日式咖哩蛋包飯、韓式石鍋拌飯、周氏蝦捲套餐，香菇雞火鍋、麻醬麵貢丸湯組合，說實在CP值並不高。<br>松本清和有個國外超市倒是滿好逛的，為什麼我這麼說，可以在百貨公司內部超市找到22元的純喫茶700ml是不太容易的，松本清的自有品牌泡洗顏只要109元，荷包差點失守。</p>
@@ -1083,30 +1092,11 @@
       </tags>
   </entry>
   <entry>
-    <title>力不從心</title>
-    <url>/2022/07/03/%E5%8A%9B%E4%B8%8D%E5%BE%9E%E5%BF%83/</url>
-    <content><![CDATA[<p>週六突然有很多感觸，我想是前一日晚間熬夜的關係，精神疲憊時進行思考總是會掉入悲觀主義的陷阱。<br>地球不停的自轉，我的世界也跟著一起漫無目的自轉中，好好學習變成一個讓人失去目標的課題<br>優雅的逃避是種奢侈，不讓人找、也不找人<br>今晚金曲獎年度最佳歌曲樂團在頒獎典禮，和去年台詞一樣，最後爽朗地說出<strong>積極樂觀、感恩惜福</strong><br>現在沒什麼玩耍的本錢!!繼續加油~~ Keep going.</p>
-]]></content>
-      <tags>
-        <tag>心情</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>夏天熱過頭了</title>
     <url>/2022/08/06/%E5%A4%8F%E5%A4%A9%E7%86%B1%E9%81%8E%E9%A0%AD%E4%BA%86/</url>
     <content><![CDATA[<p>夏天中午前往餐廳的路上，熱浪讓我感到酷暑威力，難道是我獨有的感受?在外奔波的生意人、出遠洋的討海人、挑戰自我極限的山友或許會消遣我吧：「小CASE這還不是最熱，且還有偶爾的對流雨消暑」。<br>熱著熱著…<br>想起大暑過後，非經濟因素襲擾股市，臨時專案也是破壞我的生活步調，下周要連續加班了!!承辦人做事心法:分析規劃、工作分配、管理進度、保持溝通。</p>
 <p>Far Oasis<br>綠洲雖然遙遠，終將近矣</p>
 <p>YYES<br>!! 講著同時，餐廳到了，今天要點什麼呢?</p>
-]]></content>
-      <tags>
-        <tag>心情</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>自我設限的生活</title>
-    <url>/2023/06/18/%E8%87%AA%E6%88%91%E8%A8%AD%E9%99%90%E7%9A%84%E7%94%9F%E6%B4%BB/</url>
-    <content><![CDATA[<p>出社會畢業前幾年，每個人都說著我年輕，想著都是對許多未來懷抱憧憬，期望愛情、家庭、財富渴望，<br>雖然收入不多，但憑藉著人生遭遇到眾多人事物，<br>無論是工作職場、聚會交誼、休閒旅遊…甚至是網路邂逅，生命探索的好奇心讓生活中滿是趣味，也充滿的想像力。<br>人生際遇就是如此，當我從2012年開始選擇進入穩定的職場環境工作後，業界也開始情勢有些轉變，應該說生不逢時嗎?也不盡然<br>到目前為止我仍堅持著當時的初衷，前幾年真的滿辛苦的，面對到以前認識的同事沒人收入比我差，挫折感不低，好在也苦盡甘來，當時自己設定的底標目前是達標的(我的個人目標是至少個人收入可以養得起自己的小家庭)。</p>
-<p>時至如今，沒算準的問題是，迫於壓力必須得居住在蛋黃區的問題，果然一關過完還有另外一關。<br>孔子曰：「四十不惑，五十知天命…」，我必須坦白還無法達到不惑的境界，但有些潛意識慢慢植入在我過去的生活中。<br>列舉幾個例子:<br>1.以前碰到討厭我的人，24小時內在意、1周甚至1個月後也在意，有時甚至會自我檢討輾轉難眠，最後我選擇失憶來遺忘。當某一天再重新回憶起來時(也許是一年後)<br>事情的原委忘了，甚至連姓名也模糊了，再重新見到這個人也不會在意對方的感受。<br>2.職場交友動力降低，也許是合作過後的心得，還是我對於工作熱情，或者是面對大多都是點頭之交，頂多寒暄幾句。有時候也並非不想交友，但總會覺得會有不同年齡層會不會有代溝，自我設限。<br>3.對感情較隨緣，凡事先把自己心情整理好，願意給你機會的永遠都在，沒機會再怎麼製造也沒用。正常的關係是合作，不是尋求依賴和單方面迷戀。<br>4.人都是活在他人的想像中，總是有人講我的生活過得好要知足，能懂自己的人越來越少，願意促膝長談的人也少。</p>
 ]]></content>
       <tags>
         <tag>心情</tag>
@@ -1123,6 +1113,16 @@
 <hr>
 <p>第二階段開始，大致上以APPL為主，開始像是游擊戰般，幾乎不留倉，當日進出，雖然錯失不少波段機會，但每天1%~5%的報酬，慢慢回到最初約六成六資金，心情上也踏實許多。<br>但期間為了增加獲利，開始注意FSR等電動汽車相關類股的走勢，希望可以有翻倍的機會，開始有多口數或是總金額較高的留倉，碰到危機也都能成功攤平處理，甚至小賺機會，漸漸地忘了重倉的風險；<br>12月14日，美國公布CPI數字，開盤大好，昨日重倉的TSLA也得以解套，但仍覺得整個市場在漲，個股應該也會跟著連動，結果一路反向，反彈非常無力。<br>想當然爾，又回到資金四成的狀態，雖然停損很懊惱，畢竟等於過去40多個交易日做白工，但若以當日結果論，停損還算早。<br>換言之，我碰到是趨勢明顯的股票(無法參考市場利多)，應在仍然獲利時10%獲利出場才對，自己太一廂情願。</p>
 <h2 id="切記不要有過高期待，細水長流才是王道"><a href="#切記不要有過高期待，細水長流才是王道" class="headerlink" title="切記不要有過高期待，細水長流才是王道"></a>切記不要有過高期待，細水長流才是王道</h2><p>5 <strong>若大部分資金已進場，因此時風險最高，如果是逆勢(碰到趨勢盤，連續出量無反彈)，寧願小賺小虧</strong>，趨勢盤若越無反彈，請觀望或進行反向試單。<br>6 當進出頻繁，縱使小小獲利，也請以提早結束當作成就感</p>
+]]></content>
+      <tags>
+        <tag>心情</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>自我設限的生活</title>
+    <url>/2023/06/18/%E8%87%AA%E6%88%91%E8%A8%AD%E9%99%90%E7%9A%84%E7%94%9F%E6%B4%BB/</url>
+    <content><![CDATA[<p>出社會畢業前幾年，每個人都說著我年輕，想著都是對許多未來懷抱憧憬，期望愛情、家庭、財富渴望，<br>雖然收入不多，但憑藉著人生遭遇到眾多人事物，<br>無論是工作職場、聚會交誼、休閒旅遊…甚至是網路邂逅，生命探索的好奇心讓生活中滿是趣味，也充滿的想像力。<br>人生際遇就是如此，當我從2012年開始選擇進入穩定的職場環境工作後，業界也開始情勢有些轉變，應該說生不逢時嗎?也不盡然<br>到目前為止我仍堅持著當時的初衷，前幾年真的滿辛苦的，面對到以前認識的同事沒人收入比我差，挫折感不低，好在也苦盡甘來，當時自己設定的底標目前是達標的(我的個人目標是至少個人收入可以養得起自己的小家庭)。</p>
+<p>時至如今，沒算準的問題是，迫於壓力必須得居住在蛋黃區的問題，果然一關過完還有另外一關。<br>孔子曰：「四十不惑，五十知天命…」，我必須坦白還無法達到不惑的境界，但有些潛意識慢慢植入在我過去的生活中。<br>列舉幾個例子:<br>1.以前碰到討厭我的人，24小時內在意、1周甚至1個月後也在意，有時甚至會自我檢討輾轉難眠，最後我選擇失憶來遺忘。當某一天再重新回憶起來時(也許是一年後)<br>事情的原委忘了，甚至連姓名也模糊了，再重新見到這個人也不會在意對方的感受。<br>2.職場交友動力降低，也許是合作過後的心得，還是我對於工作熱情，或者是面對大多都是點頭之交，頂多寒暄幾句。有時候也並非不想交友，但總會覺得會有不同年齡層會不會有代溝，自我設限。<br>3.對感情較隨緣，凡事先把自己心情整理好，願意給你機會的永遠都在，沒機會再怎麼製造也沒用。正常的關係是合作，不是尋求依賴和單方面迷戀。<br>4.人都是活在他人的想像中，總是有人講我的生活過得好要知足，能懂自己的人越來越少，願意促膝長談的人也少。</p>
 ]]></content>
       <tags>
         <tag>心情</tag>
