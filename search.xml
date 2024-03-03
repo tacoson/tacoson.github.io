@@ -20,6 +20,18 @@
       </tags>
   </entry>
   <entry>
+    <title>10分鐘週記-GIMP and Krita</title>
+    <url>/2022/07/17/10%E5%88%86%E9%90%98%E9%80%B1%E8%A8%98-4/</url>
+    <content><![CDATA[<p>給自己一個挑戰，10分鐘來完成紀錄一週大小事，簡短紀錄一下影像編輯和手繪的開放源碼工具:<br>1.GIMP<br>2.Krita</p>
+<h2 id="GIMP"><a href="#GIMP" class="headerlink" title="GIMP"></a>GIMP</h2><p>參考網址: <a href="https://docs.gimp.org/2.10/zh_CN/">GIMP使用指南</a></p>
+<h2 id="Krita"><a href="#Krita" class="headerlink" title="Krita"></a>Krita</h2><p>參考網址: <a href="https://docs.krita.org/zh_CN/user_manual.html">Krita使用指南</a></p>
+<p>剛好有AERY繪圖板搭配使用</p>
+]]></content>
+      <tags>
+        <tag>10分鐘週記</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>10分鐘週記-綜合所得稅</title>
     <url>/2022/07/12/10%E5%88%86%E9%90%98%E9%80%B1%E8%A8%98-3/</url>
     <content><![CDATA[<p>給自己一個挑戰，10分鐘來完成紀錄一週大小事，這週把今年報稅的大小事整理一下，每年到五月的時候同樣的事情都會困擾一次，究竟我能否找到更好的報稅方式。<br>以今年度(2022)的小弟我報稅方式，單身、無扶養人口、標準扣除額(120,000)，我想應該是相同收入下最悲壯的繳稅方式了，尤其我還是北漂族，所得級距進入12%的深淵。<br>目前想到的方法如下:</p>
@@ -33,12 +45,23 @@
       </tags>
   </entry>
   <entry>
-    <title>10分鐘週記-GIMP and Krita</title>
-    <url>/2022/07/17/10%E5%88%86%E9%90%98%E9%80%B1%E8%A8%98-4/</url>
-    <content><![CDATA[<p>給自己一個挑戰，10分鐘來完成紀錄一週大小事，簡短紀錄一下影像編輯和手繪的開放源碼工具:<br>1.GIMP<br>2.Krita</p>
-<h2 id="GIMP"><a href="#GIMP" class="headerlink" title="GIMP"></a>GIMP</h2><p>參考網址: <a href="https://docs.gimp.org/2.10/zh_CN/">GIMP使用指南</a></p>
-<h2 id="Krita"><a href="#Krita" class="headerlink" title="Krita"></a>Krita</h2><p>參考網址: <a href="https://docs.krita.org/zh_CN/user_manual.html">Krita使用指南</a></p>
-<p>剛好有AERY繪圖板搭配使用</p>
+    <title>10分鐘週記-Krita筆記</title>
+    <url>/2022/07/24/10%E5%88%86%E9%90%98%E9%80%B1%E8%A8%98-Krita%E7%AD%86%E8%A8%98/</url>
+    <content><![CDATA[<p>給自己一個挑戰，10分鐘來完成紀錄一週大小事，簡短紀錄一下筆記:</p>
+<h1 id="教學影片"><a href="#教學影片" class="headerlink" title="教學影片"></a>教學影片</h1><p>參考網址: <a href="https://youtu.be/Z06RRp81iDM">HOW TO PAINT IN KRITA</a><br>參考網址: <a href="https://youtu.be/WSbgaSWEqks">Clipping Masks: Alpha inheritance, Alpha Lock &amp; Groups in Krita</a></p>
+<p>第一部影片Jenna Drawing 製作的影片，超清楚解釋如何使用Krita，主要是Step by step把從無到有的繪圖教學，開畫布、基本介面介紹，移動畫布、選擇筆刷、顏色選擇…等，後半段會實際演練出一部作品。<br>第二部影片是查資料找到的，專門介紹如果介紹什麼是Alpha(透明層)、怎麼進行Alpha鎖定並與群組圖層(Group)應用、Alpha繼承用途，最後有個人像繪製。</p>
+<p>因對電繪懵懵懂懂，自己理解的部分<br>Alpha : 其實就是我們看到的非繪製的區域，說白一點是去背的區域<br>Alpha lock : Alpha區域不給你畫，這樣上色區域就可被限制，這是著色的一個好特性<br>Alpha繼承: 看起來可用於物體光影著色</p>
+<h1 id="實際操作"><a href="#實際操作" class="headerlink" title="實際操作"></a>實際操作</h1><p>玩了一會兒，列舉一下有使用過的功能</p>
+<ul>
+<li>匯入影像: [圖層] → [匯入&#x2F;匯出] → [匯入] → [作為顏料塗層]</li>
+<li>圖層: Alpha鎖定、GROUP Layer、Alpha繼承</li>
+<li>匯出 GIF: [檔案] → [繪製動畫]</li>
+<li>工具箱: 色彩取樣(P)、手繪筆刷工具(B)、移動工具(T)、填充工具(F)、選擇區域變形(CTRL+T)、剪裁工具(C)…等</li>
+<li>檢視畫布: [1]:100%原比例大小檢視 [2]:fit顯示區域的檢視 [3]鼠標所在位置的檢視 [4]左邊選轉 [5]擺正 [6]右邊旋轉 [m]左右邊鏡像檢視</li>
+<li>筆刷: 整理喜歡的筆刷到 My favorite</li>
+</ul>
+<h1 id="可愛繪本"><a href="#可愛繪本" class="headerlink" title="可愛繪本"></a>可愛繪本</h1><p>參考網址: <a href="https://www.youtube.com/watch?v=cC_QxRQTFOE">You matter</a></p>
+<p>看完之後，告訴自己無論你有多少如果，You matter.</p>
 ]]></content>
       <tags>
         <tag>10分鐘週記</tag>
@@ -81,29 +104,6 @@
       </tags>
   </entry>
   <entry>
-    <title>10分鐘週記-Krita筆記</title>
-    <url>/2022/07/24/10%E5%88%86%E9%90%98%E9%80%B1%E8%A8%98-Krita%E7%AD%86%E8%A8%98/</url>
-    <content><![CDATA[<p>給自己一個挑戰，10分鐘來完成紀錄一週大小事，簡短紀錄一下筆記:</p>
-<h1 id="教學影片"><a href="#教學影片" class="headerlink" title="教學影片"></a>教學影片</h1><p>參考網址: <a href="https://youtu.be/Z06RRp81iDM">HOW TO PAINT IN KRITA</a><br>參考網址: <a href="https://youtu.be/WSbgaSWEqks">Clipping Masks: Alpha inheritance, Alpha Lock &amp; Groups in Krita</a></p>
-<p>第一部影片Jenna Drawing 製作的影片，超清楚解釋如何使用Krita，主要是Step by step把從無到有的繪圖教學，開畫布、基本介面介紹，移動畫布、選擇筆刷、顏色選擇…等，後半段會實際演練出一部作品。<br>第二部影片是查資料找到的，專門介紹如果介紹什麼是Alpha(透明層)、怎麼進行Alpha鎖定並與群組圖層(Group)應用、Alpha繼承用途，最後有個人像繪製。</p>
-<p>因對電繪懵懵懂懂，自己理解的部分<br>Alpha : 其實就是我們看到的非繪製的區域，說白一點是去背的區域<br>Alpha lock : Alpha區域不給你畫，這樣上色區域就可被限制，這是著色的一個好特性<br>Alpha繼承: 看起來可用於物體光影著色</p>
-<h1 id="實際操作"><a href="#實際操作" class="headerlink" title="實際操作"></a>實際操作</h1><p>玩了一會兒，列舉一下有使用過的功能</p>
-<ul>
-<li>匯入影像: [圖層] → [匯入&#x2F;匯出] → [匯入] → [作為顏料塗層]</li>
-<li>圖層: Alpha鎖定、GROUP Layer、Alpha繼承</li>
-<li>匯出 GIF: [檔案] → [繪製動畫]</li>
-<li>工具箱: 色彩取樣(P)、手繪筆刷工具(B)、移動工具(T)、填充工具(F)、選擇區域變形(CTRL+T)、剪裁工具(C)…等</li>
-<li>檢視畫布: [1]:100%原比例大小檢視 [2]:fit顯示區域的檢視 [3]鼠標所在位置的檢視 [4]左邊選轉 [5]擺正 [6]右邊旋轉 [m]左右邊鏡像檢視</li>
-<li>筆刷: 整理喜歡的筆刷到 My favorite</li>
-</ul>
-<h1 id="可愛繪本"><a href="#可愛繪本" class="headerlink" title="可愛繪本"></a>可愛繪本</h1><p>參考網址: <a href="https://www.youtube.com/watch?v=cC_QxRQTFOE">You matter</a></p>
-<p>看完之後，告訴自己無論你有多少如果，You matter.</p>
-]]></content>
-      <tags>
-        <tag>10分鐘週記</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>10分鐘週記-投資觀念筆記</title>
     <url>/2022/07/29/10%E5%88%86%E9%90%98%E9%80%B1%E8%A8%98-%E6%8A%95%E8%B3%87%E8%A7%80%E5%BF%B5%E7%AD%86%E8%A8%98/</url>
     <content><![CDATA[<p>給自己一個挑戰，10分鐘來完成紀錄一週大小事。談起投資觀念，一開始是看財經電視台、各大分析師、Youtuber…等介紹學習，後來，通常是不懂什麼上網查，查詢資料常會搜尋到blogger的介紹，這種網站的特性都是主題式導向的介紹，不太可能系統性的教學，大多只到應用層面。常見的技術分析和籌碼，面對面我都無法以條理明確說明，那我應該無法運用自如，充其量我只能稱是不懂與懂之間徘徊的股市小白。</p>
@@ -126,6 +126,42 @@
       <tags>
         <tag>10分鐘週記</tag>
         <tag>股市</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>10分鐘週記-正規表示法</title>
+    <url>/2022/12/17/10%E5%88%86%E9%90%98%E9%80%B1%E8%A8%98-%E6%AD%A3%E8%A6%8F%E8%A1%A8%E7%A4%BA%E6%B3%95/</url>
+    <content><![CDATA[<h2 id="正規表示法"><a href="#正規表示法" class="headerlink" title="正規表示法"></a>正規表示法</h2><p>UNIX上常見的，基礎正規表示法實踐<br>練習可使用VI、sed、awk、grep</p>
+<ul>
+<li>Bracket Expressions(中括號表示法)<ul>
+<li><code>[一至多個任一字元]</code>:匹配單一字元</li>
+<li><code>[起始字元-結束字元]</code>:指定要匹配字元範圍</li>
+<li><code>[^ ]</code>:反匹配</li>
+<li>POSIX Character(POSIX 字集)</li>
+</ul>
+</li>
+<li><code>.</code>:匹配任何單一字元</li>
+<li><code>*</code>:匹配〝*〞前面的字元從零到無限重複前字元</li>
+<li><code>^</code>:匹配起始位置的字串(以行為單位)</li>
+<li><code>$</code>:匹配結束位置的字串(以行為單位)</li>
+<li><code>&amp;</code>:記憶匹配到的字串</li>
+<li><code>&#123;a,b&#125;</code>:匹配限定重複前字元</li>
+<li><code>( )</code>:集合匹配前字串</li>
+<li><code>&lt; &gt;</code>:匹配單字</li>
+<li><code>( )</code>\1:向後參考(Back-Reference)記憶匹配</li>
+<li><code>|</code>:或匹配</li>
+</ul>
+<p>參考網址: <a href="https://www.hy-star.com.tw/tech/linux/regex/regex.html#rex">正規表示法說明</a></p>
+<h2 id="換行字元"><a href="#換行字元" class="headerlink" title="換行字元"></a>換行字元</h2><p>Unix系統裡，每行結尾只有“<FONT color=#FF0000>\n</FONT>”；<br>Windows系統裡面，每行結尾是即“<FONT color=#FF0000>\n</FONT><FONT color=#0000FF>\r</FONT>”；<br>Mac系統裡，每行結尾是“<FONT color=#0000FF>\r</FONT>”。<br>一個直接後果是，Unix&#x2F;Mac系統下的文件在Windows裡打開的話，所有文字會變成一行；而Windows裡的文件在Unix&#x2F;Mac下打開的話，在每行的結尾可能會多出一個^M符號。</p>
+<h2 id="盧恩演算法-Luhn’s-algorithm"><a href="#盧恩演算法-Luhn’s-algorithm" class="headerlink" title="盧恩演算法(Luhn’s algorithm)"></a>盧恩演算法(Luhn’s algorithm)</h2><p>信用卡使用的檢查碼演算法</p>
+<p>參考網址: <a href="https://www.dcode.fr/luhn-algorithm">盧恩演算法</a></p>
+<h2 id="日文學習網站"><a href="#日文學習網站" class="headerlink" title="日文學習網站"></a>日文學習網站</h2><p>紀錄一下無意間發現的網站，很喜歡這種風格的小站，目前整理到N3<br>參考網址: <a href="https://www.sigure.tw/learn-japanese/basic/50/japanese-roman-pinyin.php">晴雨之町</a></p>
+]]></content>
+      <tags>
+        <tag>10分鐘週記</tag>
+        <tag>正規表示法</tag>
+        <tag>演算法</tag>
+        <tag>語言學習</tag>
       </tags>
   </entry>
   <entry>
@@ -257,65 +293,9 @@
 ]]></content>
   </entry>
   <entry>
-    <title>10分鐘週記-正規表示法</title>
-    <url>/2022/12/17/10%E5%88%86%E9%90%98%E9%80%B1%E8%A8%98-%E6%AD%A3%E8%A6%8F%E8%A1%A8%E7%A4%BA%E6%B3%95/</url>
-    <content><![CDATA[<h2 id="正規表示法"><a href="#正規表示法" class="headerlink" title="正規表示法"></a>正規表示法</h2><p>UNIX上常見的，基礎正規表示法實踐<br>練習可使用VI、sed、awk、grep</p>
-<ul>
-<li>Bracket Expressions(中括號表示法)<ul>
-<li><code>[一至多個任一字元]</code>:匹配單一字元</li>
-<li><code>[起始字元-結束字元]</code>:指定要匹配字元範圍</li>
-<li><code>[^ ]</code>:反匹配</li>
-<li>POSIX Character(POSIX 字集)</li>
-</ul>
-</li>
-<li><code>.</code>:匹配任何單一字元</li>
-<li><code>*</code>:匹配〝*〞前面的字元從零到無限重複前字元</li>
-<li><code>^</code>:匹配起始位置的字串(以行為單位)</li>
-<li><code>$</code>:匹配結束位置的字串(以行為單位)</li>
-<li><code>&amp;</code>:記憶匹配到的字串</li>
-<li><code>&#123;a,b&#125;</code>:匹配限定重複前字元</li>
-<li><code>( )</code>:集合匹配前字串</li>
-<li><code>&lt; &gt;</code>:匹配單字</li>
-<li><code>( )</code>\1:向後參考(Back-Reference)記憶匹配</li>
-<li><code>|</code>:或匹配</li>
-</ul>
-<p>參考網址: <a href="https://www.hy-star.com.tw/tech/linux/regex/regex.html#rex">正規表示法說明</a></p>
-<h2 id="換行字元"><a href="#換行字元" class="headerlink" title="換行字元"></a>換行字元</h2><p>Unix系統裡，每行結尾只有“<FONT color=#FF0000>\n</FONT>”；<br>Windows系統裡面，每行結尾是即“<FONT color=#FF0000>\n</FONT><FONT color=#0000FF>\r</FONT>”；<br>Mac系統裡，每行結尾是“<FONT color=#0000FF>\r</FONT>”。<br>一個直接後果是，Unix&#x2F;Mac系統下的文件在Windows裡打開的話，所有文字會變成一行；而Windows裡的文件在Unix&#x2F;Mac下打開的話，在每行的結尾可能會多出一個^M符號。</p>
-<h2 id="盧恩演算法-Luhn’s-algorithm"><a href="#盧恩演算法-Luhn’s-algorithm" class="headerlink" title="盧恩演算法(Luhn’s algorithm)"></a>盧恩演算法(Luhn’s algorithm)</h2><p>信用卡使用的檢查碼演算法</p>
-<p>參考網址: <a href="https://www.dcode.fr/luhn-algorithm">盧恩演算法</a></p>
-<h2 id="日文學習網站"><a href="#日文學習網站" class="headerlink" title="日文學習網站"></a>日文學習網站</h2><p>紀錄一下無意間發現的網站，很喜歡這種風格的小站，目前整理到N3<br>參考網址: <a href="https://www.sigure.tw/learn-japanese/basic/50/japanese-roman-pinyin.php">晴雨之町</a></p>
-]]></content>
-      <tags>
-        <tag>10分鐘週記</tag>
-        <tag>演算法</tag>
-        <tag>正規表示法</tag>
-        <tag>語言學習</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>20220615 mood</title>
     <url>/2022/06/15/20220615-mood/</url>
     <content><![CDATA[<p>最近家裡COVID-19確診，端午連假返家造成了家人的困擾，之後也不曉得再次返家會不會有陰影。<br>最近要多撥點時間來進行英文口說，另外強化點專業能力。</p>
-]]></content>
-      <tags>
-        <tag>心情</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>20230506鶯歌石步道</title>
-    <url>/2023/05/08/20230506%E9%B6%AF%E6%AD%8C%E7%9F%B3%E6%AD%A5%E9%81%93/</url>
-    <content><![CDATA[<h2 id="鶯歌火車站附近的健走行程"><a href="#鶯歌火車站附近的健走行程" class="headerlink" title="鶯歌火車站附近的健走行程"></a>鶯歌火車站附近的健走行程</h2><p>本日想延續宜蘭出門行走的行程，平日到三峽後鮮少移動至一橋之隔的鶯歌，騎著GOGORO買菜車過去晃晃，意外地，非預期的看到路旁步道指示，便心血來潮探險。<br>根據聽到路上父女談話(女兒在抱怨累這類的話題，我個人是覺得女兒的腰圍需要注意一下，運動是對的XD)，健走行程花費大約2鐘頭左右，而且距離火車站不遠，滿適合當作是鶯歌半日行程，不算難爬也非危險，惟根據情報必須得小心黑蚊，攜帶防蚊噴劑。</p>
-<p>原本僅想在<code>孫龍步道</code>步行，順便喝著午餐後手搖，欣賞一下景觀步道，畢竟這算是當地規劃的18條步道其中之一。<br>這條步道是由走道、路燈、花圃、人造橋、坑道接續而成，中間都有生態工法的岔路往光明山陵線走，換句話說，往上之後，只要下山方向正確，就可以回到孫龍步道。<br>當地大哥表示，在地人想鍛鍊身體都會走的路線就是繞它一圈。<br>為什麼我需要和當地大哥接觸? 哈 因為沒做功課，當天過去已經到傍晚時分，因此邊走邊問，憂心摸黑，還好爬山的人都還滿熱情的!!其中一位山友還分享到路線延續再走到樹林，但真偽我就無法判斷了。<br>回程順道到阿婆壽司帶個綜合壽司+茶碗蒸，也算解鎖一個新去處。</p>
-<p>附上當天的路線地圖<br><img src="/images/20230506.gif" title="參考路線"></p>
-]]></content>
-      <tags>
-        <tag>心情</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>20231004_年度目標初達標</title>
-    <url>/2023/10/05/20231004_%E5%B9%B4%E5%BA%A6%E7%9B%AE%E6%A8%99%E5%88%9D%E9%81%94%E6%A8%99/</url>
-    <content><![CDATA[<p>今年年初的目標言猶在耳，終於還是要來寫寫近期的心得，記錄一下人生大事的心情。<br>是的!!『結婚』終於在我的日常預計行程中了，心路歷程很難跟外人道盡。<br>從住了12年左右的小套房搬入市中心的2房1廳，不僅僅是金錢上負擔增加，生活型態也在轉變<br>結婚要做的事確實不少<br>找居住地、提親、買結婚戒、買喜餅、製作喜卡、買床墊、找餐廳(家宴)、婚紗、登記、蜜月旅行<br>家庭幸福的祕訣是什麼? 尊重彼此差異、互相生活照顧、營造和樂氣氛<br>雖然常聽人說會發生問題<br>但我相信，下個階段一定會更好!!<br><img src="/images/20231004.jpg" title="結婚小卡"></p>
 ]]></content>
       <tags>
         <tag>心情</tag>
@@ -348,6 +328,26 @@
       </tags>
   </entry>
   <entry>
+    <title>20230506鶯歌石步道</title>
+    <url>/2023/05/08/20230506%E9%B6%AF%E6%AD%8C%E7%9F%B3%E6%AD%A5%E9%81%93/</url>
+    <content><![CDATA[<h2 id="鶯歌火車站附近的健走行程"><a href="#鶯歌火車站附近的健走行程" class="headerlink" title="鶯歌火車站附近的健走行程"></a>鶯歌火車站附近的健走行程</h2><p>本日想延續宜蘭出門行走的行程，平日到三峽後鮮少移動至一橋之隔的鶯歌，騎著GOGORO買菜車過去晃晃，意外地，非預期的看到路旁步道指示，便心血來潮探險。<br>根據聽到路上父女談話(女兒在抱怨累這類的話題，我個人是覺得女兒的腰圍需要注意一下，運動是對的XD)，健走行程花費大約2鐘頭左右，而且距離火車站不遠，滿適合當作是鶯歌半日行程，不算難爬也非危險，惟根據情報必須得小心黑蚊，攜帶防蚊噴劑。</p>
+<p>原本僅想在<code>孫龍步道</code>步行，順便喝著午餐後手搖，欣賞一下景觀步道，畢竟這算是當地規劃的18條步道其中之一。<br>這條步道是由走道、路燈、花圃、人造橋、坑道接續而成，中間都有生態工法的岔路往光明山陵線走，換句話說，往上之後，只要下山方向正確，就可以回到孫龍步道。<br>當地大哥表示，在地人想鍛鍊身體都會走的路線就是繞它一圈。<br>為什麼我需要和當地大哥接觸? 哈 因為沒做功課，當天過去已經到傍晚時分，因此邊走邊問，憂心摸黑，還好爬山的人都還滿熱情的!!其中一位山友還分享到路線延續再走到樹林，但真偽我就無法判斷了。<br>回程順道到阿婆壽司帶個綜合壽司+茶碗蒸，也算解鎖一個新去處。</p>
+<p>附上當天的路線地圖<br><img src="/images/20230506.gif" title="參考路線"></p>
+]]></content>
+      <tags>
+        <tag>心情</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>20231004_年度目標初達標</title>
+    <url>/2023/10/05/20231004_%E5%B9%B4%E5%BA%A6%E7%9B%AE%E6%A8%99%E5%88%9D%E9%81%94%E6%A8%99/</url>
+    <content><![CDATA[<p>今年年初的目標言猶在耳，終於還是要來寫寫近期的心得，記錄一下人生大事的心情。<br>是的!!『結婚』終於在我的日常預計行程中了，心路歷程很難跟外人道盡。<br>從住了12年左右的小套房搬入市中心的2房1廳，不僅僅是金錢上負擔增加，生活型態也在轉變<br>結婚要做的事確實不少<br>找居住地、提親、買結婚戒、買喜餅、製作喜卡、買床墊、找餐廳(家宴)、婚紗、登記、蜜月旅行<br>家庭幸福的祕訣是什麼? 尊重彼此差異、互相生活照顧、營造和樂氣氛<br>雖然常聽人說會發生問題<br>但我相信，下個階段一定會更好!!<br><img src="/images/20231004.jpg" title="結婚小卡"></p>
+]]></content>
+      <tags>
+        <tag>心情</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>20231017_六道式淨水器</title>
     <url>/2023/10/17/20231017-%E5%85%AD%E9%81%93%E5%BC%8F%E6%B7%A8%E6%B0%B4%E5%99%A8/</url>
     <content><![CDATA[<h2 id="RO淨水器非專業自問自答"><a href="#RO淨水器非專業自問自答" class="headerlink" title="RO淨水器非專業自問自答"></a>RO淨水器非專業自問自答</h2><p>以前都是看父親在安裝家裡的淨水器，看著前房客留下來的淨水器，剛開始有些愣住，我完全沒概念，回神過來後，經過網路影片教學及查蝦皮上賣濾心的影片得知，以下是目前短暫的理解:</p>
@@ -368,6 +368,18 @@
       </tags>
   </entry>
   <entry>
+    <title>20231111 當前方沒有背影</title>
+    <url>/2023/11/10/20231111-%E7%95%B6%E5%89%8D%E6%96%B9%E6%B2%92%E6%9C%89%E8%83%8C%E5%BD%B1/</url>
+    <content><![CDATA[<h2 id="序言"><a href="#序言" class="headerlink" title="序言"></a>序言</h2><p>每年第四季，先是萬聖節(10月31日)後是感恩節(11月最後一個禮拜四)，當然還有撰寫本文當日的1111購物節，感受到自己購買力驚人，購物之餘，心中難免感觸。<br>近期職場開始出現過去10年間預期的退休潮，『當前方沒有背影』就一直在我腦海揮之不去，以前凡事都以做好個人工作範圍及有前人可依賴，曾幾何時，也開始準備進入中生代階段。<br>這不像購物，可以看BLOG開箱文、網紅試用心得；這亦可以延伸解釋，日常生活中沒範本可循、依賴、諮詢之事。<br>或許，腦中謎團是透過努力得出解答，每天都是驚奇和挑戰，保持心態正確似乎才是不二法門。<br>工作以外，人生也何嘗不是。</p>
+<h2 id="婚姻生活"><a href="#婚姻生活" class="headerlink" title="婚姻生活"></a>婚姻生活</h2><p>每每聽到其他家庭是否可借鏡，總覺得家家都有本難念的經，有時我覺得最親近的人反而是最難溝通的，彼此都會覺得自己在做讓步。</p>
+<h2 id="美股喃喃自語"><a href="#美股喃喃自語" class="headerlink" title="美股喃喃自語"></a>美股喃喃自語</h2><p><img src="/images/stock_murmur.png" title="美股的喃喃自語"><br>沒有前車之鑑，只有自己實務感受，模擬一下自己的心情<br>坦言說有點像博弈遊戲:骰盅，目標是幾盤內預測出正確點數，越接近結算日，等待盤數越少。<br>只能怡情不能致富</p>
+<h2 id="自我實現"><a href="#自我實現" class="headerlink" title="自我實現"></a>自我實現</h2><p>這部分目前還很模糊，拚小孩? 似乎沒有；換工作? 似乎也不是很必要；出門旅行? 我不想因為為了旅遊而旅遊<br>明年的目標或許可以逐一列出來落實一下，以前有想過再出去闖闖，或許可以嘗試看看。<br>話說目前住的地方附近，有語言中心和社區大學，看來應該要好好利用一下。</p>
+]]></content>
+      <tags>
+        <tag>心情</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>20231119 桌機零組件更新</title>
     <url>/2023/11/19/20231119-%E6%A1%8C%E6%A9%9F%E9%9B%B6%E7%B5%84%E4%BB%B6%E6%9B%B4%E6%96%B0/</url>
     <content><![CDATA[<h2 id="桌機零組件更新"><a href="#桌機零組件更新" class="headerlink" title="桌機零組件更新"></a>桌機零組件更新</h2><p>平時3C產品我的使用舒適度，最佳者為桌上型電腦，工作之後家用電腦一直維持定期添購零組件自行安裝，好處就是少許價格就可享受到規格提升的價值，<br>我想ICT產業的進步，現在的零組件便宜和耐用度更甚以往:回頭看很難想像INTEL Pentium的時候一套電腦，CPU時脈只有200MHz、記憶體還只有32MB的時代是怎麼過來的。<br>SOC、物聯網的概念下，桌上型電腦已非唯一接觸數位時代的媒介，但是文書處理、多螢幕工作、影音編輯還是以桌機主要舞台。<br>自從不需要在家裡開發手機程式、跑VM軟體，家用電腦用途僅有辦公室軟體、通訊軟體及上網看影音，想想也經歷了10幾年。</p>
@@ -376,18 +388,6 @@
 <p>長時間沒觀察的結果，發現資訊量有些大，而且處處是驚奇，寫一下感想:<br>由於CPU架構中，通常會把整個電腦系統的架構做清楚定義，換言之也會同步影響記憶體等IO裝置的支援度，M.2、PCIe、USB3.2和DDR4已經是主流，<br>基礎概念除了傳輸速度增加、擴充裝置微型化，更不用說SSD和HardDisc的單位成本再度下降，從效能幾乎都是以遊戲檢測指標來看，<strong>硬體退流行感</strong>可能只出現於特定族群。<br>當然我也不是覺得硬體進展全然會沒可用之地，2023年開始爆紅的AI或許會引導整個產業前進，但現況看起來都是GPU廠商的發揮空間。</p>
 <h2 id="零件菜單"><a href="#零件菜單" class="headerlink" title="零件菜單"></a>零件菜單</h2><p>1.CPU: Ryzen 5 4600G (Zen2) , NT2,835<br>2.RAM: Kingston 16GB x 1 (DDR4-3200) , NT899<br>3.主機板: 華碩 PRIME A520M-K , NT1,500<br>以上便是本次升級清單，都是有段時間過時產品，但對我而言可是大幅度升級。</p>
 <h2 id="桌機必買SSD"><a href="#桌機必買SSD" class="headerlink" title="桌機必買SSD"></a>桌機必買SSD</h2><p>CPU的多核化、製程進步、功耗降低，對單一應用影響性越來越低。<br>使用習慣只是文書機，真正強烈建議採用SSD，一般人上上網打打報告，最重要的就是開關機、存檔，IO設備的邊際能力擴增會比增強CPU來的有用。</p>
-]]></content>
-      <tags>
-        <tag>心情</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>20231111 當前方沒有背影</title>
-    <url>/2023/11/10/20231111-%E7%95%B6%E5%89%8D%E6%96%B9%E6%B2%92%E6%9C%89%E8%83%8C%E5%BD%B1/</url>
-    <content><![CDATA[<h2 id="序言"><a href="#序言" class="headerlink" title="序言"></a>序言</h2><p>每年第四季，先是萬聖節(10月31日)後是感恩節(11月最後一個禮拜四)，當然還有撰寫本文當日的1111購物節，感受到自己購買力驚人，購物之餘，心中難免感觸。<br>近期職場開始出現過去10年間預期的退休潮，『當前方沒有背影』就一直在我腦海揮之不去，以前凡事都以做好個人工作範圍及有前人可依賴，曾幾何時，也開始準備進入中生代階段。<br>這不像購物，可以看BLOG開箱文、網紅試用心得；這亦可以延伸解釋，日常生活中沒範本可循、依賴、諮詢之事。<br>或許，腦中謎團是透過努力得出解答，每天都是驚奇和挑戰，保持心態正確似乎才是不二法門。<br>工作以外，人生也何嘗不是。</p>
-<h2 id="婚姻生活"><a href="#婚姻生活" class="headerlink" title="婚姻生活"></a>婚姻生活</h2><p>每每聽到其他家庭是否可借鏡，總覺得家家都有本難念的經，有時我覺得最親近的人反而是最難溝通的，彼此都會覺得自己在做讓步。</p>
-<h2 id="美股喃喃自語"><a href="#美股喃喃自語" class="headerlink" title="美股喃喃自語"></a>美股喃喃自語</h2><p><img src="/images/stock_murmur.png" title="美股的喃喃自語"><br>沒有前車之鑑，只有自己實務感受，模擬一下自己的心情<br>坦言說有點像博弈遊戲:骰盅，目標是幾盤內預測出正確點數，越接近結算日，等待盤數越少。<br>只能怡情不能致富</p>
-<h2 id="自我實現"><a href="#自我實現" class="headerlink" title="自我實現"></a>自我實現</h2><p>這部分目前還很模糊，拚小孩? 似乎沒有；換工作? 似乎也不是很必要；出門旅行? 我不想因為為了旅遊而旅遊<br>明年的目標或許可以逐一列出來落實一下，以前有想過再出去闖闖，或許可以嘗試看看。<br>話說目前住的地方附近，有語言中心和社區大學，看來應該要好好利用一下。</p>
 ]]></content>
       <tags>
         <tag>心情</tag>
@@ -412,6 +412,63 @@
 ]]></content>
       <tags>
         <tag>心情</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>2023年度計畫</title>
+    <url>/2023/01/08/2023%E6%96%B0%E8%A8%88%E7%95%AB/</url>
+    <content><![CDATA[<h1 id="2023年度計畫"><a href="#2023年度計畫" class="headerlink" title="2023年度計畫"></a>2023年度計畫</h1><p>今天1月8日天氣晴，下午逛街行程到誠品走一圈，發現自己很久沒到處走走看放鬆心情了，去年一整年都處於茫然無目標的汲汲營利，沒有發大財卻走在充滿著挫折的道路上，當然，我也是心存感激上天能讓我得到這段寶貴經歷，凡事講求過程，也是好的開始。</p>
+<p>回顧去年開始網誌記錄生活點滴，從六月份開始也構思了20多篇，但其實只有首篇是屬於創作類型，實際把自身有價值經驗以文字進行輸出。其他文章有時只是參考他人網誌、維基百科、使用手冊、油管影音等參考，並沒有吸收內化，也許是沒有進行分享，沒經過自己大腦組織驗證的輸出，處於自我辯證階段，曾看過一些心理學的書籍，資訊、知識最後要能化為個人智慧，才會是真正進步，期許自己2023能「百尺竿頭更進一步」。</p>
+<h4 id="六大願望清單"><a href="#六大願望清單" class="headerlink" title="六大願望清單"></a>六大願望清單</h4><table>
+<thead>
+<tr>
+<th align="left">編號</th>
+<th align="center">願望清單</th>
+<th align="center">關鍵活動</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="left">1</td>
+<td align="center">走入人生下一個階段</td>
+<td align="center">結婚</td>
+</tr>
+<tr>
+<td align="left">2</td>
+<td align="center">自我專案&#x2F;事業</td>
+<td align="center">決定人生中除了工作以外最想嘗試的事業</td>
+</tr>
+<tr>
+<td align="left">3</td>
+<td align="center">投資</td>
+<td align="center">以買房為主的存錢、風險性投資不超過20分之1</td>
+</tr>
+<tr>
+<td align="left">4</td>
+<td align="center">維持健康</td>
+<td align="center">落實運動習慣，並取得樂趣</td>
+</tr>
+<tr>
+<td align="left">5</td>
+<td align="center">改變思維</td>
+<td align="center">養成系統性思考習慣、善用NOTE</td>
+</tr>
+<tr>
+<td align="left">6</td>
+<td align="center">生活紀錄</td>
+<td align="center">珍惜生活中每一天的發現</td>
+</tr>
+</tbody></table>
+<h2 id="自我專業-x2F-事業"><a href="#自我專業-x2F-事業" class="headerlink" title="自我專業&#x2F;事業"></a>自我專業&#x2F;事業</h2><p>主要也是看過斜槓人生這類的書籍(話說心靈類的書籍能夠發揮的功效，我個人覺得有限，不建議看太多，會降低效益)，每每看完覺得很有道理，真正要持續落實，保持21天持續做同一件事情，而不被原本生活模式干擾抽離，這必須要有所取捨。</p>
+<p>我想起以前剛畢業初上成功嶺的事情，結訓大約一個月後，回到家第一件事情就是覺得身體變健康，接觸到鍵盤滑鼠，有種既熟悉又陌生的體感認知，當下對於這一個月每天3,000公尺的晨跑，三餐結束都吃很健康，晚上9點準時就寢、早上5點準時起床，專注接下來的命令，按表操課的人生，雖然拔草、打飯、舉板凳枯燥乏味，但體現是一種規律健康的滿足。返家後，立志要維持這好習慣，後續開始有例假的役期，想在如法炮製同一種生活模式，但｢對不起，已回不去」，原因無他，限制條件並不存在，因沒有一個框架束縛。</p>
+<p>因為自我事業，除了短期熱情，還需要改變持續一段時間，才有辦法進入<strong>選擇</strong>是否持續投入的歧異點，因此有了下一個改變思維的想法，期望可以先有效率處理周遭事物，再想辦法投入到某見有興趣的事物。</p>
+<h2 id="改變思維"><a href="#改變思維" class="headerlink" title="改變思維"></a>改變思維</h2><p><img src="/images/workflow.png" alt="工作管理"></p>
+<p>期望可以建立有效率的工作流程</p>
+<h2 id="維持健康"><a href="#維持健康" class="headerlink" title="維持健康"></a>維持健康</h2><p>去年不注意健康持續晚睡，導致身體處於不平衡狀態，目前看起來流汗可以使身心可以平衡，但先前打籃球，已經讓自己處於一種固定模式，僅僅為了流汗，希望今年新計畫是每次運動都尋找一個<strong>樂趣點</strong>再進行。</p>
+<h2 id="投資"><a href="#投資" class="headerlink" title="投資"></a>投資</h2><p>過去做過太多投資的行為，選擇並沒有問題，走過的路並不會白費，把握好目前所學所知即可，別再過度進行投資。</p>
+<h2 id="生活紀錄"><a href="#生活紀錄" class="headerlink" title="生活紀錄"></a>生活紀錄</h2><p>這一篇文章是透過Typora進行紀錄，目前使用上感覺像是專業寫手，果然UI操作體驗是會影響效率及使用心情，目前還在15天試用期，有考慮進行購買。</p>
+]]></content>
+      <tags>
+        <tag>年度計畫</tag>
       </tags>
   </entry>
   <entry>
@@ -509,63 +566,6 @@
 <h2 id="投資"><a href="#投資" class="headerlink" title="投資"></a>投資</h2><p>今年美股可以還是簡單把利息買買OP就好，今年因有大量租金支出，要避免損失。</p>
 <h2 id="房地產"><a href="#房地產" class="headerlink" title="房地產"></a>房地產</h2><p>注意目前生活範圍，倘若符合需求，要勇敢出價!!北市公寓為主!!</p>
 <h2 id="工作"><a href="#工作" class="headerlink" title="工作"></a>工作</h2><p>本年度目標是達成遲到最少化的情況；由於去年光是遲到24次，今年的假期較多，特休目標請半天就好。</p>
-]]></content>
-      <tags>
-        <tag>年度計畫</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>2023年度計畫</title>
-    <url>/2023/01/08/2023%E6%96%B0%E8%A8%88%E7%95%AB/</url>
-    <content><![CDATA[<h1 id="2023年度計畫"><a href="#2023年度計畫" class="headerlink" title="2023年度計畫"></a>2023年度計畫</h1><p>今天1月8日天氣晴，下午逛街行程到誠品走一圈，發現自己很久沒到處走走看放鬆心情了，去年一整年都處於茫然無目標的汲汲營利，沒有發大財卻走在充滿著挫折的道路上，當然，我也是心存感激上天能讓我得到這段寶貴經歷，凡事講求過程，也是好的開始。</p>
-<p>回顧去年開始網誌記錄生活點滴，從六月份開始也構思了20多篇，但其實只有首篇是屬於創作類型，實際把自身有價值經驗以文字進行輸出。其他文章有時只是參考他人網誌、維基百科、使用手冊、油管影音等參考，並沒有吸收內化，也許是沒有進行分享，沒經過自己大腦組織驗證的輸出，處於自我辯證階段，曾看過一些心理學的書籍，資訊、知識最後要能化為個人智慧，才會是真正進步，期許自己2023能「百尺竿頭更進一步」。</p>
-<h4 id="六大願望清單"><a href="#六大願望清單" class="headerlink" title="六大願望清單"></a>六大願望清單</h4><table>
-<thead>
-<tr>
-<th align="left">編號</th>
-<th align="center">願望清單</th>
-<th align="center">關鍵活動</th>
-</tr>
-</thead>
-<tbody><tr>
-<td align="left">1</td>
-<td align="center">走入人生下一個階段</td>
-<td align="center">結婚</td>
-</tr>
-<tr>
-<td align="left">2</td>
-<td align="center">自我專案&#x2F;事業</td>
-<td align="center">決定人生中除了工作以外最想嘗試的事業</td>
-</tr>
-<tr>
-<td align="left">3</td>
-<td align="center">投資</td>
-<td align="center">以買房為主的存錢、風險性投資不超過20分之1</td>
-</tr>
-<tr>
-<td align="left">4</td>
-<td align="center">維持健康</td>
-<td align="center">落實運動習慣，並取得樂趣</td>
-</tr>
-<tr>
-<td align="left">5</td>
-<td align="center">改變思維</td>
-<td align="center">養成系統性思考習慣、善用NOTE</td>
-</tr>
-<tr>
-<td align="left">6</td>
-<td align="center">生活紀錄</td>
-<td align="center">珍惜生活中每一天的發現</td>
-</tr>
-</tbody></table>
-<h2 id="自我專業-x2F-事業"><a href="#自我專業-x2F-事業" class="headerlink" title="自我專業&#x2F;事業"></a>自我專業&#x2F;事業</h2><p>主要也是看過斜槓人生這類的書籍(話說心靈類的書籍能夠發揮的功效，我個人覺得有限，不建議看太多，會降低效益)，每每看完覺得很有道理，真正要持續落實，保持21天持續做同一件事情，而不被原本生活模式干擾抽離，這必須要有所取捨。</p>
-<p>我想起以前剛畢業初上成功嶺的事情，結訓大約一個月後，回到家第一件事情就是覺得身體變健康，接觸到鍵盤滑鼠，有種既熟悉又陌生的體感認知，當下對於這一個月每天3,000公尺的晨跑，三餐結束都吃很健康，晚上9點準時就寢、早上5點準時起床，專注接下來的命令，按表操課的人生，雖然拔草、打飯、舉板凳枯燥乏味，但體現是一種規律健康的滿足。返家後，立志要維持這好習慣，後續開始有例假的役期，想在如法炮製同一種生活模式，但｢對不起，已回不去」，原因無他，限制條件並不存在，因沒有一個框架束縛。</p>
-<p>因為自我事業，除了短期熱情，還需要改變持續一段時間，才有辦法進入<strong>選擇</strong>是否持續投入的歧異點，因此有了下一個改變思維的想法，期望可以先有效率處理周遭事物，再想辦法投入到某見有興趣的事物。</p>
-<h2 id="改變思維"><a href="#改變思維" class="headerlink" title="改變思維"></a>改變思維</h2><p><img src="/images/workflow.png" alt="工作管理"></p>
-<p>期望可以建立有效率的工作流程</p>
-<h2 id="維持健康"><a href="#維持健康" class="headerlink" title="維持健康"></a>維持健康</h2><p>去年不注意健康持續晚睡，導致身體處於不平衡狀態，目前看起來流汗可以使身心可以平衡，但先前打籃球，已經讓自己處於一種固定模式，僅僅為了流汗，希望今年新計畫是每次運動都尋找一個<strong>樂趣點</strong>再進行。</p>
-<h2 id="投資"><a href="#投資" class="headerlink" title="投資"></a>投資</h2><p>過去做過太多投資的行為，選擇並沒有問題，走過的路並不會白費，把握好目前所學所知即可，別再過度進行投資。</p>
-<h2 id="生活紀錄"><a href="#生活紀錄" class="headerlink" title="生活紀錄"></a>生活紀錄</h2><p>這一篇文章是透過Typora進行紀錄，目前使用上感覺像是專業寫手，果然UI操作體驗是會影響效率及使用心情，目前還在15天試用期，有考慮進行購買。</p>
 ]]></content>
       <tags>
         <tag>年度計畫</tag>
@@ -721,41 +721,6 @@
 <li>這是一份收入不低的打工，但只能當作備胎，擺在第二順位。(渣男思維)</li>
 <li>思考一下這攢下來的78,000，能否再做有效利用</li>
 </ul>
-]]></content>
-      <tags>
-        <tag>UBER EATS</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>UBER EAT 趟數焦慮</title>
-    <url>/2022/07/04/UBER-EAT-%E8%B6%9F%E6%95%B8%E7%84%A6%E6%85%AE/</url>
-    <content><![CDATA[<h1 id="趟數焦慮"><a href="#趟數焦慮" class="headerlink" title="趟數焦慮"></a>趟數焦慮</h1><blockquote>
-<p>這週開始我的個人標準到了新的境界，前一天還在想是不是有吃幾個負評，導致要被平台踢出個人趟獎而第一標上調到65趟，再怎麼有能力跑單，以我原本預設的每日2~3小時的作法，馬上就被打破，沒辦法平均分配在每天的熱門時段，無奈之餘盡是苦惱。</p>
-<blockquote>
-<p>萬事總是有解法，目前面對這狀態，仔細分析一下，先以最差的方式均3跑，大約需要約20小時左右，以目前晚上熱區大約頂多停留兩小時，再加上接近消夜場，平日晚上花5小時才有辦法消耗整個65單，實務上風險很高，尤其是碰到完全沒單的時候。<br>假日有連續五個用餐時間可以排班，每個時段至少要接近15單，其實也是不可能的任務，可能會在冷門時段撿單，先前比較新手階段曾經花整個週六去跑單，理論上8小時要24單應該是可行的，但光是想到就覺得好累，往好處想，65趟目前一趟提升到23元，算是把時間集中化，若均單效率夠好，也許可以縮短工時也不一定。</p>
-</blockquote>
-</blockquote>
-<span id="more"></span>
-
-<h1 id="迎接挑戰"><a href="#迎接挑戰" class="headerlink" title="迎接挑戰"></a>迎接挑戰</h1><p>除非頭殼壞掉，不然不需要每天進行，挑假日先體驗看看<br>當預期收入達成就不要週週跑</p>
-<ul>
-<li>趟次策略<ul>
-<li>週五盡量擠單，信用卡單+現金單&#x2F;跑陌生區域</li>
-<li>週六延續週五跑法，但不斷單時不開現金單，注意每單的距離品質，周五和周六以40單為目標</li>
-<li>週日延續週五跑法，不斷單時不開現金單，解決剩下的25單</li>
-</ul>
-</li>
-<li>習慣<ul>
-<li>熱門時段取捨訂單要落實</li>
-<li>避免一定要採中柱或把長時間手機掛脖子</li>
-<li>要補充水分及找便捷的吃飯方式</li>
-<li>手機電池目前僅能持續白天3小時左右、晚上5小時，注意充電</li>
-</ul>
-</li>
-</ul>
-<h1 id="截圖"><a href="#截圖" class="headerlink" title="截圖"></a>截圖</h1><div align="center">
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/26w7Hjh"  ><a href="//imgur.com/a/26w7Hjh">bonus</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-</div>
 ]]></content>
       <tags>
         <tag>UBER EATS</tag>
@@ -955,6 +920,41 @@
       </tags>
   </entry>
   <entry>
+    <title>UBER EAT 趟數焦慮</title>
+    <url>/2022/07/04/UBER-EAT-%E8%B6%9F%E6%95%B8%E7%84%A6%E6%85%AE/</url>
+    <content><![CDATA[<h1 id="趟數焦慮"><a href="#趟數焦慮" class="headerlink" title="趟數焦慮"></a>趟數焦慮</h1><blockquote>
+<p>這週開始我的個人標準到了新的境界，前一天還在想是不是有吃幾個負評，導致要被平台踢出個人趟獎而第一標上調到65趟，再怎麼有能力跑單，以我原本預設的每日2~3小時的作法，馬上就被打破，沒辦法平均分配在每天的熱門時段，無奈之餘盡是苦惱。</p>
+<blockquote>
+<p>萬事總是有解法，目前面對這狀態，仔細分析一下，先以最差的方式均3跑，大約需要約20小時左右，以目前晚上熱區大約頂多停留兩小時，再加上接近消夜場，平日晚上花5小時才有辦法消耗整個65單，實務上風險很高，尤其是碰到完全沒單的時候。<br>假日有連續五個用餐時間可以排班，每個時段至少要接近15單，其實也是不可能的任務，可能會在冷門時段撿單，先前比較新手階段曾經花整個週六去跑單，理論上8小時要24單應該是可行的，但光是想到就覺得好累，往好處想，65趟目前一趟提升到23元，算是把時間集中化，若均單效率夠好，也許可以縮短工時也不一定。</p>
+</blockquote>
+</blockquote>
+<span id="more"></span>
+
+<h1 id="迎接挑戰"><a href="#迎接挑戰" class="headerlink" title="迎接挑戰"></a>迎接挑戰</h1><p>除非頭殼壞掉，不然不需要每天進行，挑假日先體驗看看<br>當預期收入達成就不要週週跑</p>
+<ul>
+<li>趟次策略<ul>
+<li>週五盡量擠單，信用卡單+現金單&#x2F;跑陌生區域</li>
+<li>週六延續週五跑法，但不斷單時不開現金單，注意每單的距離品質，周五和周六以40單為目標</li>
+<li>週日延續週五跑法，不斷單時不開現金單，解決剩下的25單</li>
+</ul>
+</li>
+<li>習慣<ul>
+<li>熱門時段取捨訂單要落實</li>
+<li>避免一定要採中柱或把長時間手機掛脖子</li>
+<li>要補充水分及找便捷的吃飯方式</li>
+<li>手機電池目前僅能持續白天3小時左右、晚上5小時，注意充電</li>
+</ul>
+</li>
+</ul>
+<h1 id="截圖"><a href="#截圖" class="headerlink" title="截圖"></a>截圖</h1><div align="center">
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/26w7Hjh"  ><a href="//imgur.com/a/26w7Hjh">bonus</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+</div>
+]]></content>
+      <tags>
+        <tag>UBER EATS</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>UBER EAT之自我提醒</title>
     <url>/2022/06/27/UBER-EAT%E4%B9%8B%E8%87%AA%E6%88%91%E6%8F%90%E9%86%92/</url>
     <content><![CDATA[<p>近期UBER EATS 將週四納入周一至周三的周期中，以我自己而言，趟次獎勵第一階標準分別為40趟及35趟，換言之，我不是不跑就是得最低跑至75趟才可取得完整趟次獎勵。<br>按照原定計畫，每天2~3小時，縱使均五也不太可能破15趟，因此這周有些辛苦，有些想提醒自己一下。</p>
@@ -1026,15 +1026,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>力不從心</title>
-    <url>/2022/07/03/%E5%8A%9B%E4%B8%8D%E5%BE%9E%E5%BF%83/</url>
-    <content><![CDATA[<p>週六突然有很多感觸，我想是前一日晚間熬夜的關係，精神疲憊時進行思考總是會掉入悲觀主義的陷阱。<br>地球不停的自轉，我的世界也跟著一起漫無目的自轉中，好好學習變成一個讓人失去目標的課題<br>優雅的逃避是種奢侈，不讓人找、也不找人<br>今晚金曲獎年度最佳歌曲樂團在頒獎典禮，和去年台詞一樣，最後爽朗地說出<strong>積極樂觀、感恩惜福</strong><br>現在沒什麼玩耍的本錢!!繼續加油~~ Keep going.</p>
-]]></content>
-      <tags>
-        <tag>心情</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>健康注意事項</title>
     <url>/2022/08/17/%E5%81%A5%E5%BA%B7%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A0%85/</url>
     <content><![CDATA[<h2 id="單側耳鳴"><a href="#單側耳鳴" class="headerlink" title="單側耳鳴"></a>單側耳鳴</h2><p>提醒自己:偶爾耳鳴不要緊，若是持續加重則需要趕緊檢查，很多都是重症，就診方式可先到診所看再請他開轉診單(這樣會比較省錢而且也符合健保精神)。</p>
@@ -1086,6 +1077,15 @@
 <li>NENE chicken - 韓國最有名的連鎖店，每一種口味有500g和1000g，也有兩種口味混和的1000g。</li>
 <li>林文必涼麵 - 雞排類千萬不要點，我點120的套餐，涼麵確實不錯，湯品和配菜普通，雞排卻有點雷。</li>
 </ol>
+]]></content>
+      <tags>
+        <tag>心情</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>力不從心</title>
+    <url>/2022/07/03/%E5%8A%9B%E4%B8%8D%E5%BE%9E%E5%BF%83/</url>
+    <content><![CDATA[<p>週六突然有很多感觸，我想是前一日晚間熬夜的關係，精神疲憊時進行思考總是會掉入悲觀主義的陷阱。<br>地球不停的自轉，我的世界也跟著一起漫無目的自轉中，好好學習變成一個讓人失去目標的課題<br>優雅的逃避是種奢侈，不讓人找、也不找人<br>今晚金曲獎年度最佳歌曲樂團在頒獎典禮，和去年台詞一樣，最後爽朗地說出<strong>積極樂觀、感恩惜福</strong><br>現在沒什麼玩耍的本錢!!繼續加油~~ Keep going.</p>
 ]]></content>
       <tags>
         <tag>心情</tag>
