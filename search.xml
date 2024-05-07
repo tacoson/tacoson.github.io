@@ -68,30 +68,6 @@
       </tags>
   </entry>
   <entry>
-    <title>10分鐘週記 - SFTP研究番外篇</title>
-    <url>/2022/12/14/10%E5%88%86%E9%90%98%E9%80%B1%E8%A8%98-SFTP%E7%A0%94%E7%A9%B6%E7%95%AA%E5%A4%96%E7%AF%87/</url>
-    <content><![CDATA[<h2 id="SFTP番外篇"><a href="#SFTP番外篇" class="headerlink" title="SFTP番外篇"></a>SFTP番外篇</h2><p>近期主要因為需要研究SFTP SERVER而起，SFTP(SSH File Transfer Protocol AKA. Secure FTP)，主要是透過SSH登入作業時，會進行加密，使得竊聽者無法竊取密碼<br>主要對話通道會進行作業</p>
-<ul>
-<li>建立和終止階段作業</li>
-<li>識別、導覽和列出目錄的內容</li>
-<li>將檔案移入&#x2F;移出目錄及在目錄內移動檔案</li>
-<li>刪除檔案</li>
-</ul>
-<p>實務上，SSH(port22)也常用來取代telnet，他可以透過產生SSH host key pair的方式，透過提供SERVER public key 取代密碼進行登入，且無有效期限設計，不用每次都需要輸入密碼<br>產生的金耀，用工具讀取需要輸入的密碼稱之 passphrase</p>
-<p>番外篇，大部分都在研究 CRUSHFTP 額外產生網路搜尋的<br>疑惑彼此沒直接關聯性，雖然很跳TONE，還是列舉一下:</p>
-<h3 id="PUTTY-SSH-教學"><a href="#PUTTY-SSH-教學" class="headerlink" title="PUTTY SSH 教學"></a>PUTTY SSH 教學</h3><p>有自己安裝 ubuntu ssh server 驗證過，但僅先用root測試<br>參考網址: <a href="https://www.liquidweb.com/kb/putty-ssh-keys/">PUTTY SSH 教學</a><br>下載連結: <a href="https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html">putty</a></p>
-<h3 id="JAR-如何執行"><a href="#JAR-如何執行" class="headerlink" title="JAR 如何執行?"></a>JAR 如何執行?</h3><p>參考網址: <a href="https://openhome.cc/Gossip/JavaGossip-V2/ExecutableJAR.htm">JAR 如何執行?</a></p>
-<h3 id="PGP-Pretty-Good-Privacy-應用"><a href="#PGP-Pretty-Good-Privacy-應用" class="headerlink" title="PGP(Pretty Good Privacy)應用"></a>PGP(Pretty Good Privacy)應用</h3><p>PGP 常應用於Email情境，混合應用的場景，如下圖，對稱式加密速度較快，把session key加密[資料]，並把[加密資料]和 [公鑰加密session key] 合併成 傳送訊息。<br>參考網址: <a href="https://www.encryptionconsulting.com/how-to-generate-pgp-key-pair/">PGP應用</a></p>
-<h3 id="DMZ"><a href="#DMZ" class="headerlink" title="DMZ"></a>DMZ</h3><p>主要是用來隔離內部主機提供給外部服務，做一個區隔(介於內部網路及外部網路間的網段)，對內外都有防火牆區隔，類似大樓管理員，協助住家轉信，對於外部而言，大家只認得大樓住址<br>參考網址: <a href="https://ithelp.ithome.com.tw/questions/10188598">DMZ</a></p>
-<h3 id="數位簽章與憑證"><a href="#數位簽章與憑證" class="headerlink" title="數位簽章與憑證"></a>數位簽章與憑證</h3><p>數位簽章(DS, Digital Signature)<br>傳送端本質上是透過hash<code>[訊息]</code>的方式計算出hash值，將hash加密後變成<code>[數位簽章]</code>和<code>[訊息]</code>傳送給接收端;接收端則將<code>[訊息]</code>和<code>[數位簽章]</code>分離，針對<code>[數位簽章]</code>進行解密，得hash值，和<code>[訊息]</code>計算出來的hash值進行比對得知其<strong>完整性</strong>及<strong>不可否認性</strong><br>實務上，傳送與接收，會將資料和數位簽章再次進行加密</p>
-<p>數位憑證(Digital Certificate)<br>概念上是一種由公信力機構發行的證明文件，說白一點就是記載姓名、地址、電子郵件、公鑰，並且具有有效期限，概念上與身分證件一樣，對於擁有者來說，CA(憑證授權)中心會負責賦予公鑰與私鑰，並提供公鑰公信力，取得信任。<br>參考網址: <a href="http://www.tsnien.idv.tw/Security_WebBook/%E7%AC%AC%E4%B8%83%E7%AB%A0%20%E6%95%B8%E4%BD%8D%E7%B0%BD%E7%AB%A0%E8%88%87%E6%95%B8%E4%BD%8D%E6%86%91%E8%AD%89.html">數位簽章與憑證</a></p>
-]]></content>
-      <tags>
-        <tag>10分鐘週記</tag>
-        <tag>SFTP</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>10分鐘週記-大暑過後</title>
     <url>/2022/09/04/10%E5%88%86%E9%90%98%E9%80%B1%E8%A8%98-%E5%A4%A7%E6%9A%91%E9%81%8E%E5%BE%8C/</url>
     <content><![CDATA[<p><img src="/images/remind.png" title="提醒"></p>
@@ -126,6 +102,30 @@
       <tags>
         <tag>10分鐘週記</tag>
         <tag>股市</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>10分鐘週記 - SFTP研究番外篇</title>
+    <url>/2022/12/14/10%E5%88%86%E9%90%98%E9%80%B1%E8%A8%98-SFTP%E7%A0%94%E7%A9%B6%E7%95%AA%E5%A4%96%E7%AF%87/</url>
+    <content><![CDATA[<h2 id="SFTP番外篇"><a href="#SFTP番外篇" class="headerlink" title="SFTP番外篇"></a>SFTP番外篇</h2><p>近期主要因為需要研究SFTP SERVER而起，SFTP(SSH File Transfer Protocol AKA. Secure FTP)，主要是透過SSH登入作業時，會進行加密，使得竊聽者無法竊取密碼<br>主要對話通道會進行作業</p>
+<ul>
+<li>建立和終止階段作業</li>
+<li>識別、導覽和列出目錄的內容</li>
+<li>將檔案移入&#x2F;移出目錄及在目錄內移動檔案</li>
+<li>刪除檔案</li>
+</ul>
+<p>實務上，SSH(port22)也常用來取代telnet，他可以透過產生SSH host key pair的方式，透過提供SERVER public key 取代密碼進行登入，且無有效期限設計，不用每次都需要輸入密碼<br>產生的金耀，用工具讀取需要輸入的密碼稱之 passphrase</p>
+<p>番外篇，大部分都在研究 CRUSHFTP 額外產生網路搜尋的<br>疑惑彼此沒直接關聯性，雖然很跳TONE，還是列舉一下:</p>
+<h3 id="PUTTY-SSH-教學"><a href="#PUTTY-SSH-教學" class="headerlink" title="PUTTY SSH 教學"></a>PUTTY SSH 教學</h3><p>有自己安裝 ubuntu ssh server 驗證過，但僅先用root測試<br>參考網址: <a href="https://www.liquidweb.com/kb/putty-ssh-keys/">PUTTY SSH 教學</a><br>下載連結: <a href="https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html">putty</a></p>
+<h3 id="JAR-如何執行"><a href="#JAR-如何執行" class="headerlink" title="JAR 如何執行?"></a>JAR 如何執行?</h3><p>參考網址: <a href="https://openhome.cc/Gossip/JavaGossip-V2/ExecutableJAR.htm">JAR 如何執行?</a></p>
+<h3 id="PGP-Pretty-Good-Privacy-應用"><a href="#PGP-Pretty-Good-Privacy-應用" class="headerlink" title="PGP(Pretty Good Privacy)應用"></a>PGP(Pretty Good Privacy)應用</h3><p>PGP 常應用於Email情境，混合應用的場景，如下圖，對稱式加密速度較快，把session key加密[資料]，並把[加密資料]和 [公鑰加密session key] 合併成 傳送訊息。<br>參考網址: <a href="https://www.encryptionconsulting.com/how-to-generate-pgp-key-pair/">PGP應用</a></p>
+<h3 id="DMZ"><a href="#DMZ" class="headerlink" title="DMZ"></a>DMZ</h3><p>主要是用來隔離內部主機提供給外部服務，做一個區隔(介於內部網路及外部網路間的網段)，對內外都有防火牆區隔，類似大樓管理員，協助住家轉信，對於外部而言，大家只認得大樓住址<br>參考網址: <a href="https://ithelp.ithome.com.tw/questions/10188598">DMZ</a></p>
+<h3 id="數位簽章與憑證"><a href="#數位簽章與憑證" class="headerlink" title="數位簽章與憑證"></a>數位簽章與憑證</h3><p>數位簽章(DS, Digital Signature)<br>傳送端本質上是透過hash<code>[訊息]</code>的方式計算出hash值，將hash加密後變成<code>[數位簽章]</code>和<code>[訊息]</code>傳送給接收端;接收端則將<code>[訊息]</code>和<code>[數位簽章]</code>分離，針對<code>[數位簽章]</code>進行解密，得hash值，和<code>[訊息]</code>計算出來的hash值進行比對得知其<strong>完整性</strong>及<strong>不可否認性</strong><br>實務上，傳送與接收，會將資料和數位簽章再次進行加密</p>
+<p>數位憑證(Digital Certificate)<br>概念上是一種由公信力機構發行的證明文件，說白一點就是記載姓名、地址、電子郵件、公鑰，並且具有有效期限，概念上與身分證件一樣，對於擁有者來說，CA(憑證授權)中心會負責賦予公鑰與私鑰，並提供公鑰公信力，取得信任。<br>參考網址: <a href="http://www.tsnien.idv.tw/Security_WebBook/%E7%AC%AC%E4%B8%83%E7%AB%A0%20%E6%95%B8%E4%BD%8D%E7%B0%BD%E7%AB%A0%E8%88%87%E6%95%B8%E4%BD%8D%E6%86%91%E8%AD%89.html">數位簽章與憑證</a></p>
+]]></content>
+      <tags>
+        <tag>10分鐘週記</tag>
+        <tag>SFTP</tag>
       </tags>
   </entry>
   <entry>
@@ -241,6 +241,15 @@
       </tags>
   </entry>
   <entry>
+    <title>20220615 mood</title>
+    <url>/2022/06/15/20220615-mood/</url>
+    <content><![CDATA[<p>最近家裡COVID-19確診，端午連假返家造成了家人的困擾，之後也不曉得再次返家會不會有陰影。<br>最近要多撥點時間來進行英文口說，另外強化點專業能力。</p>
+]]></content>
+      <tags>
+        <tag>心情</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>20220606-after</title>
     <url>/2022/06/06/20220606-after/</url>
     <content><![CDATA[<h1 id="Markdown-syntax-guide"><a href="#Markdown-syntax-guide" class="headerlink" title="Markdown syntax guide"></a>Markdown syntax guide</h1><h2 id="Headers"><a href="#Headers" class="headerlink" title="Headers"></a>Headers</h2><h1 id="This-is-a-Heading-h1"><a href="#This-is-a-Heading-h1" class="headerlink" title="This is a Heading h1"></a>This is a Heading h1</h1><h2 id="This-is-a-Heading-h2"><a href="#This-is-a-Heading-h2" class="headerlink" title="This is a Heading h2"></a>This is a Heading h2</h2><h6 id="This-is-a-Heading-h6"><a href="#This-is-a-Heading-h6" class="headerlink" title="This is a Heading h6"></a>This is a Heading h6</h6><h2 id="Emphasis"><a href="#Emphasis" class="headerlink" title="Emphasis"></a>Emphasis</h2><p><em>This text will be italic</em><br><em>This will also be italic</em></p>
@@ -293,26 +302,6 @@
 ]]></content>
   </entry>
   <entry>
-    <title>20220615 mood</title>
-    <url>/2022/06/15/20220615-mood/</url>
-    <content><![CDATA[<p>最近家裡COVID-19確診，端午連假返家造成了家人的困擾，之後也不曉得再次返家會不會有陰影。<br>最近要多撥點時間來進行英文口說，另外強化點專業能力。</p>
-]]></content>
-      <tags>
-        <tag>心情</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>20230506鶯歌石步道</title>
-    <url>/2023/05/08/20230506%E9%B6%AF%E6%AD%8C%E7%9F%B3%E6%AD%A5%E9%81%93/</url>
-    <content><![CDATA[<h2 id="鶯歌火車站附近的健走行程"><a href="#鶯歌火車站附近的健走行程" class="headerlink" title="鶯歌火車站附近的健走行程"></a>鶯歌火車站附近的健走行程</h2><p>本日想延續宜蘭出門行走的行程，平日到三峽後鮮少移動至一橋之隔的鶯歌，騎著GOGORO買菜車過去晃晃，意外地，非預期的看到路旁步道指示，便心血來潮探險。<br>根據聽到路上父女談話(女兒在抱怨累這類的話題，我個人是覺得女兒的腰圍需要注意一下，運動是對的XD)，健走行程花費大約2鐘頭左右，而且距離火車站不遠，滿適合當作是鶯歌半日行程，不算難爬也非危險，惟根據情報必須得小心黑蚊，攜帶防蚊噴劑。</p>
-<p>原本僅想在<code>孫龍步道</code>步行，順便喝著午餐後手搖，欣賞一下景觀步道，畢竟這算是當地規劃的18條步道其中之一。<br>這條步道是由走道、路燈、花圃、人造橋、坑道接續而成，中間都有生態工法的岔路往光明山陵線走，換句話說，往上之後，只要下山方向正確，就可以回到孫龍步道。<br>當地大哥表示，在地人想鍛鍊身體都會走的路線就是繞它一圈。<br>為什麼我需要和當地大哥接觸? 哈 因為沒做功課，當天過去已經到傍晚時分，因此邊走邊問，憂心摸黑，還好爬山的人都還滿熱情的!!其中一位山友還分享到路線延續再走到樹林，但真偽我就無法判斷了。<br>回程順道到阿婆壽司帶個綜合壽司+茶碗蒸，也算解鎖一個新去處。</p>
-<p>附上當天的路線地圖<br><img src="/images/20230506.gif" title="參考路線"></p>
-]]></content>
-      <tags>
-        <tag>心情</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>20230422 抹茶山我終於來了</title>
     <url>/2023/04/22/20230422-%E6%8A%B9%E8%8C%B6%E5%B1%B1%E6%88%91%E7%B5%82%E6%96%BC%E4%BE%86%E4%BA%86/</url>
     <content><![CDATA[<h2 id="COVID19治療歷程"><a href="#COVID19治療歷程" class="headerlink" title="COVID19治療歷程"></a>COVID19治療歷程</h2><p>很久沒出現，除了今年度因為人員調動，手中原本安排要接手的工作又多了一些，原本熟悉的業務也要下半年要移交出去。或許是已經周末連加兩天班，抵抗力下降，4月中第一次確診了；目前看起來病毒不強，但也差不多要花一周左右才有辦法排除一些急性症狀–發燒、喉嚨劇痛、黃綠痰，我的症狀大約是前兩天主要發燒，喉嚨痛在退燒後和痰的問題開始明顯，西醫(抗生素、普拿疼…)、中醫(公費清冠一號)、自備藥品舒立效、消炎噴劑、枇杷止咳散；最有幫助的是清冠一號，五天療程中，對喉嚨痛幫助非常大，否則我還真的不知怎麼進食。</p>
@@ -333,6 +322,17 @@
 <p>整趟花費時間從9點到下午2點，大約五小時往返。</p>
 <p>連續兩次的民宿造訪成績單就是:宜蘭礁溪的<code>林美磐石步道</code>和<code>抹茶山</code>願望清單達成!!!</p>
 <p><img src="/images/20230422_1.jpg" title="天主堂背後小徑"><br><img src="/images/20230422_2.jpg" title="挑戰在通天橋後"><br><img src="/images/20230422_3.jpg" title="聖母山步道起點"><br><img src="/images/20230422_5.jpg" title="聖母山步道地圖"><br><img src="/images/20230422_4.jpg" title="聖母山莊建造人紀念碑"></p>
+]]></content>
+      <tags>
+        <tag>心情</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>20230506鶯歌石步道</title>
+    <url>/2023/05/08/20230506%E9%B6%AF%E6%AD%8C%E7%9F%B3%E6%AD%A5%E9%81%93/</url>
+    <content><![CDATA[<h2 id="鶯歌火車站附近的健走行程"><a href="#鶯歌火車站附近的健走行程" class="headerlink" title="鶯歌火車站附近的健走行程"></a>鶯歌火車站附近的健走行程</h2><p>本日想延續宜蘭出門行走的行程，平日到三峽後鮮少移動至一橋之隔的鶯歌，騎著GOGORO買菜車過去晃晃，意外地，非預期的看到路旁步道指示，便心血來潮探險。<br>根據聽到路上父女談話(女兒在抱怨累這類的話題，我個人是覺得女兒的腰圍需要注意一下，運動是對的XD)，健走行程花費大約2鐘頭左右，而且距離火車站不遠，滿適合當作是鶯歌半日行程，不算難爬也非危險，惟根據情報必須得小心黑蚊，攜帶防蚊噴劑。</p>
+<p>原本僅想在<code>孫龍步道</code>步行，順便喝著午餐後手搖，欣賞一下景觀步道，畢竟這算是當地規劃的18條步道其中之一。<br>這條步道是由走道、路燈、花圃、人造橋、坑道接續而成，中間都有生態工法的岔路往光明山陵線走，換句話說，往上之後，只要下山方向正確，就可以回到孫龍步道。<br>當地大哥表示，在地人想鍛鍊身體都會走的路線就是繞它一圈。<br>為什麼我需要和當地大哥接觸? 哈 因為沒做功課，當天過去已經到傍晚時分，因此邊走邊問，憂心摸黑，還好爬山的人都還滿熱情的!!其中一位山友還分享到路線延續再走到樹林，但真偽我就無法判斷了。<br>回程順道到阿婆壽司帶個綜合壽司+茶碗蒸，也算解鎖一個新去處。</p>
+<p>附上當天的路線地圖<br><img src="/images/20230506.gif" title="參考路線"></p>
 ]]></content>
       <tags>
         <tag>心情</tag>
@@ -380,20 +380,6 @@
       </tags>
   </entry>
   <entry>
-    <title>20231119 桌機零組件更新</title>
-    <url>/2023/11/19/20231119-%E6%A1%8C%E6%A9%9F%E9%9B%B6%E7%B5%84%E4%BB%B6%E6%9B%B4%E6%96%B0/</url>
-    <content><![CDATA[<h2 id="桌機零組件更新"><a href="#桌機零組件更新" class="headerlink" title="桌機零組件更新"></a>桌機零組件更新</h2><p>平時3C產品我的使用舒適度，最佳者為桌上型電腦，工作之後家用電腦一直維持定期添購零組件自行安裝，好處就是少許價格就可享受到規格提升的價值，<br>我想ICT產業的進步，現在的零組件便宜和耐用度更甚以往:回頭看很難想像INTEL Pentium的時候一套電腦，CPU時脈只有200MHz、記憶體還只有32MB的時代是怎麼過來的。<br>SOC、物聯網的概念下，桌上型電腦已非唯一接觸數位時代的媒介，但是文書處理、多螢幕工作、影音編輯還是以桌機主要舞台。<br>自從不需要在家裡開發手機程式、跑VM軟體，家用電腦用途僅有辦公室軟體、通訊軟體及上網看影音，想想也經歷了10幾年。</p>
-<p>距離上次更新大約5年以前了，停止的主要因素為當時購買的AMD CPU插座 AM3+後繼CPU並沒有明顯的進步，因此我的硬體停留在FX6300+RAM12GB+SSD硬碟，AMD於2017開始推出ZEN架構的CPU也開始改採AM4新的插座規格，久而久之，我很就跟少關心桌機硬體發展，想說等目前用不下去再換。當然我也不是沒起心動念過，只是最近幾年當超微絕地反攻，市占超越英特爾，顯然成就也會反映在價格上，這部分可在逛3C賣場看出定價策略，印象中原本2K變成4K至5K，也會延長更新的動機，再加上我的應用現在電腦已有餘力(僅Ultraedit全文搜尋工作程式碼較費時，每回搜尋要30秒~1分鐘)<br>直到近期聽說已經要AM5了，再加上現在benchmark A CPU vs B CPU 效能比較網路上都很透明，看到任何二手CPU都已到甜甜價，而且單核心幾乎皆是+100%效能提升(意即兩倍)，而且多核心下會再大幅增加體驗，只能工作時間可以下降一半，就值了。</p>
-<h2 id="什麼可買二手"><a href="#什麼可買二手" class="headerlink" title="什麼可買二手"></a>什麼可買二手</h2><p>家中使用電腦，由於還停留在以前組裝便宜主機(AMD)的習慣，家用就不討論INTEL架構，公司使用的電腦清一色還是以INTEL為主，這也算是另類的經驗學習，能清楚知道差異在哪。<br>CPU除非接腳斷掉，不然新舊差異不大；記憶體常有終生保固，製造商都這麼有信心了，因此差異也不大。<br>其餘的裝置容易有耗損無保固的話，在更新之前就必須要三思。</p>
-<p>長時間沒觀察的結果，發現資訊量有些大，而且處處是驚奇，寫一下感想:<br>由於CPU架構中，通常會把整個電腦系統的架構做清楚定義，換言之也會同步影響記憶體等IO裝置的支援度，M.2、PCIe、USB3.2和DDR4已經是主流，<br>基礎概念除了傳輸速度增加、擴充裝置微型化，更不用說SSD和HardDisc的單位成本再度下降，從效能幾乎都是以遊戲檢測指標來看，<strong>硬體退流行感</strong>可能只出現於特定族群。<br>當然我也不是覺得硬體進展全然會沒可用之地，2023年開始爆紅的AI或許會引導整個產業前進，但現況看起來都是GPU廠商的發揮空間。</p>
-<h2 id="零件菜單"><a href="#零件菜單" class="headerlink" title="零件菜單"></a>零件菜單</h2><p>1.CPU: Ryzen 5 4600G (Zen2) , NT2,835<br>2.RAM: Kingston 16GB x 1 (DDR4-3200) , NT899<br>3.主機板: 華碩 PRIME A520M-K , NT1,500<br>以上便是本次升級清單，都是有段時間過時產品，但對我而言可是大幅度升級。</p>
-<h2 id="桌機必買SSD"><a href="#桌機必買SSD" class="headerlink" title="桌機必買SSD"></a>桌機必買SSD</h2><p>CPU的多核化、製程進步、功耗降低，對單一應用影響性越來越低。<br>使用習慣只是文書機，真正強烈建議採用SSD，一般人上上網打打報告，最重要的就是開關機、存檔，IO設備的邊際能力擴增會比增強CPU來的有用。</p>
-]]></content>
-      <tags>
-        <tag>心情</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>20231221 本多終勝</title>
     <url>/2023/12/21/20231221-%E6%9C%AC%E5%A4%9A%E7%B5%82%E5%8B%9D/</url>
     <content><![CDATA[<h2 id="本多終勝"><a href="#本多終勝" class="headerlink" title="本多終勝"></a>本多終勝</h2><p>近期有時候在聽podcast的時候，聽到耳熟能詳的這個詞，用來形容追求大資本產生的資本財，比起追求短期的獲利百分比來的重要。<br>舉例來說，若有10萬美元，目前利率定存少說也有接近5%，排除匯損的投資結果，和購買了短期飆股，股價漲了一波賺了價差，來得有意義。<br>在市場上追求低風險報酬，報酬只要大於個人日常生活對於金錢的需求，就會產生一種滿足感和財務自由感。</p>
@@ -409,6 +395,20 @@
 </li>
 <li>家人間狀況:每個家庭都會有自己的問題，先撇開情感方面，有時我在看自己原本家庭，我有沒有辦法撥出心力回饋是一個問題?被誤會是另一個問題?在台北，對於遠在家鄉的親人，都是以自身對於我的所得稅申報的數字在「想像」，尤其沒在外地工作的家族，絕對不會了解，稅負和各方面對我來說產生的壓力。</li>
 </ul>
+]]></content>
+      <tags>
+        <tag>心情</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>20231119 桌機零組件更新</title>
+    <url>/2023/11/19/20231119-%E6%A1%8C%E6%A9%9F%E9%9B%B6%E7%B5%84%E4%BB%B6%E6%9B%B4%E6%96%B0/</url>
+    <content><![CDATA[<h2 id="桌機零組件更新"><a href="#桌機零組件更新" class="headerlink" title="桌機零組件更新"></a>桌機零組件更新</h2><p>平時3C產品我的使用舒適度，最佳者為桌上型電腦，工作之後家用電腦一直維持定期添購零組件自行安裝，好處就是少許價格就可享受到規格提升的價值，<br>我想ICT產業的進步，現在的零組件便宜和耐用度更甚以往:回頭看很難想像INTEL Pentium的時候一套電腦，CPU時脈只有200MHz、記憶體還只有32MB的時代是怎麼過來的。<br>SOC、物聯網的概念下，桌上型電腦已非唯一接觸數位時代的媒介，但是文書處理、多螢幕工作、影音編輯還是以桌機主要舞台。<br>自從不需要在家裡開發手機程式、跑VM軟體，家用電腦用途僅有辦公室軟體、通訊軟體及上網看影音，想想也經歷了10幾年。</p>
+<p>距離上次更新大約5年以前了，停止的主要因素為當時購買的AMD CPU插座 AM3+後繼CPU並沒有明顯的進步，因此我的硬體停留在FX6300+RAM12GB+SSD硬碟，AMD於2017開始推出ZEN架構的CPU也開始改採AM4新的插座規格，久而久之，我很就跟少關心桌機硬體發展，想說等目前用不下去再換。當然我也不是沒起心動念過，只是最近幾年當超微絕地反攻，市占超越英特爾，顯然成就也會反映在價格上，這部分可在逛3C賣場看出定價策略，印象中原本2K變成4K至5K，也會延長更新的動機，再加上我的應用現在電腦已有餘力(僅Ultraedit全文搜尋工作程式碼較費時，每回搜尋要30秒~1分鐘)<br>直到近期聽說已經要AM5了，再加上現在benchmark A CPU vs B CPU 效能比較網路上都很透明，看到任何二手CPU都已到甜甜價，而且單核心幾乎皆是+100%效能提升(意即兩倍)，而且多核心下會再大幅增加體驗，只能工作時間可以下降一半，就值了。</p>
+<h2 id="什麼可買二手"><a href="#什麼可買二手" class="headerlink" title="什麼可買二手"></a>什麼可買二手</h2><p>家中使用電腦，由於還停留在以前組裝便宜主機(AMD)的習慣，家用就不討論INTEL架構，公司使用的電腦清一色還是以INTEL為主，這也算是另類的經驗學習，能清楚知道差異在哪。<br>CPU除非接腳斷掉，不然新舊差異不大；記憶體常有終生保固，製造商都這麼有信心了，因此差異也不大。<br>其餘的裝置容易有耗損無保固的話，在更新之前就必須要三思。</p>
+<p>長時間沒觀察的結果，發現資訊量有些大，而且處處是驚奇，寫一下感想:<br>由於CPU架構中，通常會把整個電腦系統的架構做清楚定義，換言之也會同步影響記憶體等IO裝置的支援度，M.2、PCIe、USB3.2和DDR4已經是主流，<br>基礎概念除了傳輸速度增加、擴充裝置微型化，更不用說SSD和HardDisc的單位成本再度下降，從效能幾乎都是以遊戲檢測指標來看，<strong>硬體退流行感</strong>可能只出現於特定族群。<br>當然我也不是覺得硬體進展全然會沒可用之地，2023年開始爆紅的AI或許會引導整個產業前進，但現況看起來都是GPU廠商的發揮空間。</p>
+<h2 id="零件菜單"><a href="#零件菜單" class="headerlink" title="零件菜單"></a>零件菜單</h2><p>1.CPU: Ryzen 5 4600G (Zen2) , NT2,835<br>2.RAM: Kingston 16GB x 1 (DDR4-3200) , NT899<br>3.主機板: 華碩 PRIME A520M-K , NT1,500<br>以上便是本次升級清單，都是有段時間過時產品，但對我而言可是大幅度升級。</p>
+<h2 id="桌機必買SSD"><a href="#桌機必買SSD" class="headerlink" title="桌機必買SSD"></a>桌機必買SSD</h2><p>CPU的多核化、製程進步、功耗降低，對單一應用影響性越來越低。<br>使用習慣只是文書機，真正強烈建議採用SSD，一般人上上網打打報告，最重要的就是開關機、存檔，IO設備的邊際能力擴增會比增強CPU來的有用。</p>
 ]]></content>
       <tags>
         <tag>心情</tag>
@@ -628,7 +628,7 @@
 <li>大菓葉玄武岩<br><img src="/images/20240502_08.jpg"></li>
 <li>漁翁島燈塔 + 三仙塔<br><img src="/images/20240502_09.jpg"><br><img src="/images/20240502_09_1.jpg"></li>
 <li>鯨魚洞<br><img src="/images/20240502_10.jpg"></li>
-<li>後寮天堂路<br><img src="/images/20240502_11.jpg"></li>
+<li>後寮天堂路<br><img src="/images/20240502_11.JPG"></li>
 </ul>
 <hr>
 ]]></content>
@@ -996,24 +996,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Hello World</title>
-    <url>/2022/06/03/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
-  </entry>
-  <entry>
     <title>UBER EAT之自我提醒</title>
     <url>/2022/06/27/UBER-EAT%E4%B9%8B%E8%87%AA%E6%88%91%E6%8F%90%E9%86%92/</url>
     <content><![CDATA[<p>近期UBER EATS 將週四納入周一至周三的周期中，以我自己而言，趟次獎勵第一階標準分別為40趟及35趟，換言之，我不是不跑就是得最低跑至75趟才可取得完整趟次獎勵。<br>按照原定計畫，每天2~3小時，縱使均五也不太可能破15趟，因此這周有些辛苦，有些想提醒自己一下。</p>
@@ -1067,15 +1049,22 @@
       </tags>
   </entry>
   <entry>
-    <title>健康注意事項</title>
-    <url>/2022/08/17/%E5%81%A5%E5%BA%B7%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A0%85/</url>
-    <content><![CDATA[<h2 id="單側耳鳴"><a href="#單側耳鳴" class="headerlink" title="單側耳鳴"></a>單側耳鳴</h2><p>提醒自己:偶爾耳鳴不要緊，若是持續加重則需要趕緊檢查，很多都是重症，就診方式可先到診所看再請他開轉診單(這樣會比較省錢而且也符合健保精神)。</p>
-<h2 id="症狀出現"><a href="#症狀出現" class="headerlink" title="症狀出現"></a>症狀出現</h2><p>先說明一下背景，必須承認一下，我的作息並不算正常，常撐到凌晨入眠，雖早上8點起床，平時在公司靠茶飲提神。<br>恰逢週日開始看手機影片時，突然耳朵開始出現回聲，立馬覺得不行，除了出門慢跑一下外，晚上雖然有想早點睡，但當晚似乎是太亢奮，我只記得反覆都在作夢。次日，碰到上班日騎摩托車的時候，覺得精神不好外，耳朵旁的聲音似乎像是左右不同步，導致我頭很脹，耳朵轟隆轟隆叫。<br>早上工作中發現不對勁，緊急返家並到診所掛號拿藥，由於公司仍有案子正在忙，稍作休息下午還是到公司上班。除了頭脹外，印象很深刻是女聲在我的右耳會有變聲的感覺(應該是回音共鳴)，在辦公室環境還算是可以忍受，我最不能忍受是走在馬路上車水馬龍的摩托車引擎聲。<br>想當然爾，我先把醫師的藥單看一遍；另外該症狀可能的原因也查一遍，由於常聽到找不出病因的狀態，這邊分享網路上病友的原則，「<strong>西醫主要是檢查，排除某些重大疾病導致的情況，原則上都得靠自己身體修復，因此可以改以中醫調理身體的角度來看待</strong>」<br>由於到晚上還沒好，而且我的症狀比較像耳咽管開放症，確切原因不清楚，因此當晚到診所再詢問一次意見並請醫生開轉診單，想做進一步檢查。<br>雖然很慌張，後續是打算先把醫師開的三天藥吃完後再說，應該還是會去教學醫院檢查一次。</p>
-<h2 id="症狀出現後第三日"><a href="#症狀出現後第三日" class="headerlink" title="症狀出現後第三日"></a>症狀出現後第三日</h2><p>症狀每天睡醒之後都有逐步減輕，自我觀察我身體上除了耳朵不舒服的狀況外，伴隨右邊肩膀一路延伸到右後腦杓都產生緊繃劇痛感，臉部肌肉也很沒有力氣。<br>這期間我做的就是睡足，吃的部分就是每天奇異果或者富士蘋果，正餐保持少油且增加好的蛋白質來源，比較特別的是由於中醫提到耳鳴都會順便講到腎虛，因此每天來蚵仔或蛤蜊湯，另外強化水分攝取，保持鼻腔的濕潤。<br>每天河堤快走流汗一下，腹式呼吸法讓自己身體的氣可以順暢點(畢竟平常都戴著口罩)，運動同時要同時擺手，有點像是太極，口訣是:想像一下自己很像大海，雙臂是海浪。<br>按摩可以用手常按虎口(對腸胃)和風池穴(頭部血液循環)讓自體循環好一點。<br>雖然還沒完全好，但我覺得和過度疲勞脫離不了關係，過度疲勞也是也是自律神經失調，氣血不順身體並不聽從指揮。<br>希望這次不要有後遺症!!</p>
+    <title>Hello World</title>
+    <url>/2022/06/03/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
-      <tags>
-        <tag>健康</tag>
-      </tags>
   </entry>
   <entry>
     <title>健康體重</title>
@@ -1097,6 +1086,17 @@
 <p>控制一下自己的熱量攝取在 2000 大卡的量(標準2500 - 降低500)</p>
 <h2 id="開始運動"><a href="#開始運動" class="headerlink" title="開始運動"></a>開始運動</h2><p>參考網址: <a href="https://www.youtube.com/watch?v=ZGyxILY2tFM">20分鐘跳繩</a><br>參考網址: <a href="https://www.hpa.gov.tw/Pages/Detail.aspx?nodeid=571&pid=9738">各類運動消耗卡路里</a></p>
 <p>應該可以消耗200卡吧</p>
+]]></content>
+      <tags>
+        <tag>健康</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>健康注意事項</title>
+    <url>/2022/08/17/%E5%81%A5%E5%BA%B7%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A0%85/</url>
+    <content><![CDATA[<h2 id="單側耳鳴"><a href="#單側耳鳴" class="headerlink" title="單側耳鳴"></a>單側耳鳴</h2><p>提醒自己:偶爾耳鳴不要緊，若是持續加重則需要趕緊檢查，很多都是重症，就診方式可先到診所看再請他開轉診單(這樣會比較省錢而且也符合健保精神)。</p>
+<h2 id="症狀出現"><a href="#症狀出現" class="headerlink" title="症狀出現"></a>症狀出現</h2><p>先說明一下背景，必須承認一下，我的作息並不算正常，常撐到凌晨入眠，雖早上8點起床，平時在公司靠茶飲提神。<br>恰逢週日開始看手機影片時，突然耳朵開始出現回聲，立馬覺得不行，除了出門慢跑一下外，晚上雖然有想早點睡，但當晚似乎是太亢奮，我只記得反覆都在作夢。次日，碰到上班日騎摩托車的時候，覺得精神不好外，耳朵旁的聲音似乎像是左右不同步，導致我頭很脹，耳朵轟隆轟隆叫。<br>早上工作中發現不對勁，緊急返家並到診所掛號拿藥，由於公司仍有案子正在忙，稍作休息下午還是到公司上班。除了頭脹外，印象很深刻是女聲在我的右耳會有變聲的感覺(應該是回音共鳴)，在辦公室環境還算是可以忍受，我最不能忍受是走在馬路上車水馬龍的摩托車引擎聲。<br>想當然爾，我先把醫師的藥單看一遍；另外該症狀可能的原因也查一遍，由於常聽到找不出病因的狀態，這邊分享網路上病友的原則，「<strong>西醫主要是檢查，排除某些重大疾病導致的情況，原則上都得靠自己身體修復，因此可以改以中醫調理身體的角度來看待</strong>」<br>由於到晚上還沒好，而且我的症狀比較像耳咽管開放症，確切原因不清楚，因此當晚到診所再詢問一次意見並請醫生開轉診單，想做進一步檢查。<br>雖然很慌張，後續是打算先把醫師開的三天藥吃完後再說，應該還是會去教學醫院檢查一次。</p>
+<h2 id="症狀出現後第三日"><a href="#症狀出現後第三日" class="headerlink" title="症狀出現後第三日"></a>症狀出現後第三日</h2><p>症狀每天睡醒之後都有逐步減輕，自我觀察我身體上除了耳朵不舒服的狀況外，伴隨右邊肩膀一路延伸到右後腦杓都產生緊繃劇痛感，臉部肌肉也很沒有力氣。<br>這期間我做的就是睡足，吃的部分就是每天奇異果或者富士蘋果，正餐保持少油且增加好的蛋白質來源，比較特別的是由於中醫提到耳鳴都會順便講到腎虛，因此每天來蚵仔或蛤蜊湯，另外強化水分攝取，保持鼻腔的濕潤。<br>每天河堤快走流汗一下，腹式呼吸法讓自己身體的氣可以順暢點(畢竟平常都戴著口罩)，運動同時要同時擺手，有點像是太極，口訣是:想像一下自己很像大海，雙臂是海浪。<br>按摩可以用手常按虎口(對腸胃)和風池穴(頭部血液循環)讓自體循環好一點。<br>雖然還沒完全好，但我覺得和過度疲勞脫離不了關係，過度疲勞也是也是自律神經失調，氣血不順身體並不聽從指揮。<br>希望這次不要有後遺症!!</p>
 ]]></content>
       <tags>
         <tag>健康</tag>
@@ -1149,21 +1149,21 @@
       </tags>
   </entry>
   <entry>
-    <title>自我設限的生活</title>
-    <url>/2023/06/18/%E8%87%AA%E6%88%91%E8%A8%AD%E9%99%90%E7%9A%84%E7%94%9F%E6%B4%BB/</url>
-    <content><![CDATA[<p>出社會畢業前幾年，每個人都說著我年輕，想著都是對許多未來懷抱憧憬，期望愛情、家庭、財富渴望，<br>雖然收入不多，但憑藉著人生遭遇到眾多人事物，<br>無論是工作職場、聚會交誼、休閒旅遊…甚至是網路邂逅，生命探索的好奇心讓生活中滿是趣味，也充滿的想像力。<br>人生際遇就是如此，當我從2012年開始選擇進入穩定的職場環境工作後，業界也開始情勢有些轉變，應該說生不逢時嗎?也不盡然<br>到目前為止我仍堅持著當時的初衷，前幾年真的滿辛苦的，面對到以前認識的同事沒人收入比我差，挫折感不低，好在也苦盡甘來，當時自己設定的底標目前是達標的(我的個人目標是至少個人收入可以養得起自己的小家庭)。</p>
-<p>時至如今，沒算準的問題是，迫於壓力必須得居住在蛋黃區的問題，果然一關過完還有另外一關。<br>孔子曰：「四十不惑，五十知天命…」，我必須坦白還無法達到不惑的境界，但有些潛意識慢慢植入在我過去的生活中。<br>列舉幾個例子:<br>1.以前碰到討厭我的人，24小時內在意、1周甚至1個月後也在意，有時甚至會自我檢討輾轉難眠，最後我選擇失憶來遺忘。當某一天再重新回憶起來時(也許是一年後)<br>事情的原委忘了，甚至連姓名也模糊了，再重新見到這個人也不會在意對方的感受。<br>2.職場交友動力降低，也許是合作過後的心得，還是我對於工作熱情，或者是面對大多都是點頭之交，頂多寒暄幾句。有時候也並非不想交友，但總會覺得會有不同年齡層會不會有代溝，自我設限。<br>3.對感情較隨緣，凡事先把自己心情整理好，願意給你機會的永遠都在，沒機會再怎麼製造也沒用。正常的關係是合作，不是尋求依賴和單方面迷戀。<br>4.人都是活在他人的想像中，總是有人講我的生活過得好要知足，能懂自己的人越來越少，願意促膝長談的人也少。</p>
+    <title>夏天熱過頭了</title>
+    <url>/2022/08/06/%E5%A4%8F%E5%A4%A9%E7%86%B1%E9%81%8E%E9%A0%AD%E4%BA%86/</url>
+    <content><![CDATA[<p>夏天中午前往餐廳的路上，熱浪讓我感到酷暑威力，難道是我獨有的感受?在外奔波的生意人、出遠洋的討海人、挑戰自我極限的山友或許會消遣我吧：「小CASE這還不是最熱，且還有偶爾的對流雨消暑」。<br>熱著熱著…<br>想起大暑過後，非經濟因素襲擾股市，臨時專案也是破壞我的生活步調，下周要連續加班了!!承辦人做事心法:分析規劃、工作分配、管理進度、保持溝通。</p>
+<p>Far Oasis<br>綠洲雖然遙遠，終將近矣</p>
+<p>YYES<br>!! 講著同時，餐廳到了，今天要點什麼呢?</p>
 ]]></content>
       <tags>
         <tag>心情</tag>
       </tags>
   </entry>
   <entry>
-    <title>夏天熱過頭了</title>
-    <url>/2022/08/06/%E5%A4%8F%E5%A4%A9%E7%86%B1%E9%81%8E%E9%A0%AD%E4%BA%86/</url>
-    <content><![CDATA[<p>夏天中午前往餐廳的路上，熱浪讓我感到酷暑威力，難道是我獨有的感受?在外奔波的生意人、出遠洋的討海人、挑戰自我極限的山友或許會消遣我吧：「小CASE這還不是最熱，且還有偶爾的對流雨消暑」。<br>熱著熱著…<br>想起大暑過後，非經濟因素襲擾股市，臨時專案也是破壞我的生活步調，下周要連續加班了!!承辦人做事心法:分析規劃、工作分配、管理進度、保持溝通。</p>
-<p>Far Oasis<br>綠洲雖然遙遠，終將近矣</p>
-<p>YYES<br>!! 講著同時，餐廳到了，今天要點什麼呢?</p>
+    <title>自我設限的生活</title>
+    <url>/2023/06/18/%E8%87%AA%E6%88%91%E8%A8%AD%E9%99%90%E7%9A%84%E7%94%9F%E6%B4%BB/</url>
+    <content><![CDATA[<p>出社會畢業前幾年，每個人都說著我年輕，想著都是對許多未來懷抱憧憬，期望愛情、家庭、財富渴望，<br>雖然收入不多，但憑藉著人生遭遇到眾多人事物，<br>無論是工作職場、聚會交誼、休閒旅遊…甚至是網路邂逅，生命探索的好奇心讓生活中滿是趣味，也充滿的想像力。<br>人生際遇就是如此，當我從2012年開始選擇進入穩定的職場環境工作後，業界也開始情勢有些轉變，應該說生不逢時嗎?也不盡然<br>到目前為止我仍堅持著當時的初衷，前幾年真的滿辛苦的，面對到以前認識的同事沒人收入比我差，挫折感不低，好在也苦盡甘來，當時自己設定的底標目前是達標的(我的個人目標是至少個人收入可以養得起自己的小家庭)。</p>
+<p>時至如今，沒算準的問題是，迫於壓力必須得居住在蛋黃區的問題，果然一關過完還有另外一關。<br>孔子曰：「四十不惑，五十知天命…」，我必須坦白還無法達到不惑的境界，但有些潛意識慢慢植入在我過去的生活中。<br>列舉幾個例子:<br>1.以前碰到討厭我的人，24小時內在意、1周甚至1個月後也在意，有時甚至會自我檢討輾轉難眠，最後我選擇失憶來遺忘。當某一天再重新回憶起來時(也許是一年後)<br>事情的原委忘了，甚至連姓名也模糊了，再重新見到這個人也不會在意對方的感受。<br>2.職場交友動力降低，也許是合作過後的心得，還是我對於工作熱情，或者是面對大多都是點頭之交，頂多寒暄幾句。有時候也並非不想交友，但總會覺得會有不同年齡層會不會有代溝，自我設限。<br>3.對感情較隨緣，凡事先把自己心情整理好，願意給你機會的永遠都在，沒機會再怎麼製造也沒用。正常的關係是合作，不是尋求依賴和單方面迷戀。<br>4.人都是活在他人的想像中，總是有人講我的生活過得好要知足，能懂自己的人越來越少，願意促膝長談的人也少。</p>
 ]]></content>
       <tags>
         <tag>心情</tag>
