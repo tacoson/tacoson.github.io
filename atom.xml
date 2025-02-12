@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2025-01-22T17:25:06.443Z</updated>
+  <updated>2025-02-12T16:37:34.053Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>20250213_拔智齒紀錄</title>
+    <link href="http://example.com/2025/02/13/20250213-%E6%8B%94%E6%99%BA%E9%BD%92%E7%B4%80%E9%8C%84/"/>
+    <id>http://example.com/2025/02/13/20250213-%E6%8B%94%E6%99%BA%E9%BD%92%E7%B4%80%E9%8C%84/</id>
+    <published>2025-02-12T16:05:53.000Z</published>
+    <updated>2025-02-12T16:37:34.053Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;#拔牙全紀錄&lt;br&gt;簡說一下背景，1月初前去101附近的牙科診所洗牙兼詢問左上臼齒的牙齦牙肉為什麼會消失，大約是去年11月左右發生，&lt;br&gt;但大約12月左右開始又長回來，期間有去耳鼻喉科看感冒問題。洗牙過程，醫師熟稔的洗牙操作，有輕微牙周炎，我得到&lt;br&gt;的建議如下:&lt;/p</summary>
+        
+      
+    
+    
+    
+    
+    <category term="心情" scheme="http://example.com/tags/%E5%BF%83%E6%83%85/"/>
+    
+  </entry>
   
   <entry>
     <title>20250122_回顧過去一年種種</title>
@@ -459,31 +482,6 @@
     <category term="演算法" scheme="http://example.com/tags/%E6%BC%94%E7%AE%97%E6%B3%95/"/>
     
     <category term="語言學習" scheme="http://example.com/tags/%E8%AA%9E%E8%A8%80%E5%AD%B8%E7%BF%92/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>10分鐘週記 - SFTP研究番外篇</title>
-    <link href="http://example.com/2022/12/14/10%E5%88%86%E9%90%98%E9%80%B1%E8%A8%98-SFTP%E7%A0%94%E7%A9%B6%E7%95%AA%E5%A4%96%E7%AF%87/"/>
-    <id>http://example.com/2022/12/14/10%E5%88%86%E9%90%98%E9%80%B1%E8%A8%98-SFTP%E7%A0%94%E7%A9%B6%E7%95%AA%E5%A4%96%E7%AF%87/</id>
-    <published>2022-12-14T15:30:20.000Z</published>
-    <updated>2022-12-14T16:24:02.895Z</updated>
-    
-    
-      
-      
-        
-        
-    <summary type="html">&lt;h2 id=&quot;SFTP番外篇&quot;&gt;&lt;a href=&quot;#SFTP番外篇&quot; class=&quot;headerlink&quot; title=&quot;SFTP番外篇&quot;&gt;&lt;/a&gt;SFTP番外篇&lt;/h2&gt;&lt;p&gt;近期主要因為需要研究SFTP SERVER而起，SFTP(SSH File Transfer</summary>
-        
-      
-    
-    
-    
-    
-    <category term="10分鐘週記" scheme="http://example.com/tags/10%E5%88%86%E9%90%98%E9%80%B1%E8%A8%98/"/>
-    
-    <category term="SFTP" scheme="http://example.com/tags/SFTP/"/>
     
   </entry>
   
